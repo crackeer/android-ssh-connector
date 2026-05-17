@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/liuhu/github/connectbot/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/liuhu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/liuhu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "com_google_ase_Exec::@6890427a1f51a3e7e1df": {
+      "artifactName": "com_google_ase_Exec",
+      "abi": "x86",
+      "output": "/Users/liuhu/github/connectbot/app/build/intermediates/cxx/RelWithDebInfo/6h491e17/obj/x86/libcom_google_ase_Exec.so",
+      "runtimeFiles": []
+    }
+  }
+}

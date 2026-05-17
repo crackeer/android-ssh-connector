@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notifikasi baru</item>
+    <item quantity="other">%d notifikasi baru</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lainnya"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="alert_disconnect_msg">Koneksi terputus</string>
+    <string name="alert_passwords_do_not_match_msg">Kata sandi tidak cocok!</string>
+    <string name="alert_wrong_password_msg">Kata sandi salah!</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Isi otomatis"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Isi otomatis"</string>
+    <string name="app_copyright">Hak Cipta © Kenny Root</string>
+    <string name="app_desc">Sederhana, tangguh, klien SSH dengan kode terbuka.</string>
+    <string name="app_is_running">ConnectBot sedang berjalan</string>
+    <string name="auth_prompt_subtitle">Verifikasi identitas Anda untuk melanjutkan</string>
+    <string name="auth_prompt_title">Buka ConnectBot</string>
+    <string name="auth_screen_title">ConnectBot terkunci</string>
+    <string name="auth_screen_unlock_button">Ketuk untuk membuka kunci</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"Gunakan biometrik atau kunci layar untuk melanjutkan"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"Gunakan biometrik untuk melanjutkan"</string>
+    <string name="bottomsheet_action_collapse">Ciutkan</string>
+    <string name="bottomsheet_action_collapse_description">Menciutkan panel bawah</string>
+    <string name="bottomsheet_action_expand">Luaskan</string>
+    <string name="bottomsheet_action_expand_description">Meluaskan panel bawah</string>
+    <string name="bottomsheet_action_expand_halfway">Luaskan setengah</string>
+    <string name="bottomsheet_action_half_expand_description">Meluaskan sebagian panel bawah</string>
+    <string name="bottomsheet_drag_handle_content_description">Handel geser</string>
+    <string name="bottomsheet_state_collapsed">Diciutkan</string>
+    <string name="bottomsheet_state_expanded">Diluaskan</string>
+    <string name="bottomsheet_state_half_expanded">Diluaskan sebagian</string>
+    <string name="button_add">Tambahkan</string>
+    <string name="button_add_custom">Tambahkan khusus…</string>
+    <string name="button_back">Kembali</string>
+    <string name="button_cancel">Batalkan</string>
+    <string name="button_close">Tutup</string>
+    <string name="button_collapse">Ciutkan</string>
+    <string name="button_confirm">Konfirmasi</string>
+    <string name="button_delete_scheme">Hapus</string>
+    <string name="button_duplicate_scheme">Duplikat</string>
+    <string name="button_edit_palette">Edit Palet</string>
+    <string name="button_export_scheme">Ekspor Skema</string>
+    <string name="button_host_options">Opsi host</string>
+    <string name="button_import">Impor</string>
+    <string name="button_import_scheme">Impor Skema</string>
+    <string name="button_key_ctrl">Ctrl</string>
+    <string name="button_key_end">Akhir</string>
+    <string name="button_key_esc">Esc</string>
+    <string name="button_key_f1">F1</string>
+    <string name="button_key_f10">F10</string>
+    <string name="button_key_f11">F11</string>
+    <string name="button_key_f12">F12</string>
+    <string name="button_key_f2">F2</string>
+    <string name="button_key_f3">F3</string>
+    <string name="button_key_f4">F4</string>
+    <string name="button_key_f5">F5</string>
+    <string name="button_key_f6">F6</string>
+    <string name="button_key_f7">F7</string>
+    <string name="button_key_f8">F8</string>
+    <string name="button_key_f9">F9</string>
+    <string name="button_key_home">Beranda</string>
+    <string name="button_key_pgdn">PgDn</string>
+    <string name="button_key_pgup">PgUp</string>
+    <string name="button_manage_custom">Kelola pengaturan khusus…</string>
+    <string name="button_manage_schemes">Kelola Skema</string>
+    <string name="button_more_options">Opsi lainnya</string>
+    <string name="button_navigate_up">Naik ke atas</string>
+    <string name="button_new_scheme">Skema Baru</string>
+    <string name="button_no">Tidak</string>
+    <string name="button_ok">Baik</string>
+    <string name="button_remove">Hapus</string>
+    <string name="button_rename_scheme">Ubah nama</string>
+    <string name="button_reset_all_colors">Atur Ulang Semua</string>
+    <string name="button_resize">Ubah ukuran</string>
+    <string name="button_send">Kirim</string>
+    <string name="button_yes">Ya</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Jawab"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Tolak"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Tutup"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Panggilan masuk"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Panggilan sedang berlangsung"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Menyaring panggilan masuk"</string>
+    <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi batas karakter %1$d dari %2$d</string>
+    <string name="clear_text_end_icon_content_description">Menghapus teks</string>
+    <string msgid="406453423630273620" name="close_drawer">"Tutup menu navigasi"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tutup sheet"</string>
+    <string name="color_amber">Amber</string>
+    <string name="color_bg_label">WB: %1$d</string>
+    <string name="color_blue">Biru</string>
+    <string name="color_cyan">Cyan</string>
+    <string name="color_deep_purple">Ungu tua</string>
+    <string name="color_gray">Abu-abu</string>
+    <string name="color_green">Hijau</string>
+    <string name="color_indigo">Indigo</string>
+    <string name="color_light_blue">Biru muda</string>
+    <string name="color_light_green">Hijau muda</string>
+    <string name="color_lime">Lime</string>
+    <string name="color_orange">Oranye</string>
+    <string name="color_pink">Merah muda</string>
+    <string name="color_purple">Ungu</string>
+    <string name="color_red">Merah</string>
+    <string name="color_teal">Warna hijau kebiruan</string>
+    <string name="color_yellow">Kuning</string>
+    <string name="colors_fg_label">WD: %1$d</string>
+    <string name="colorscheme_default">Standar</string>
+    <string name="colorscheme_default_description">Warna terminal bawaan</string>
+    <string name="colorscheme_dracula_description">Tema gelap untuk terminal</string>
+    <string name="colorscheme_gruvbox_dark_description">Skema warna bergaya retro</string>
+    <string name="colorscheme_monokai_description">Tema yang terinspirasi dari Sublime Text</string>
+    <string name="colorscheme_nord_description">Palet warna biru pucat khas wilayah Arktik</string>
+    <string name="colorscheme_solarized_dark_description">Warna yang akurat untuk mesin dan manusia</string>
+    <string name="colorscheme_solarized_light_description">Solarized dengan latar belakang terang</string>
+    <string name="colorscheme_tomorrow_night_description">Tampilan gelap yang bersih dan nyaman</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Gunakan sandi"</string>
+    <string name="connect_anyway">Tetap sambungkan</string>
+    <string name="console_default_title">Konsol</string>
+    <string name="console_menu_close">Tutup</string>
+    <string name="console_menu_paste">Tempel</string>
+    <string name="console_menu_portforwards">Penerusan port</string>
+    <string name="console_menu_reconnect">Hubungkan kembali</string>
+    <string name="console_menu_resize">Paksakan ukuran</string>
+    <string name="console_menu_text_input">Input teks</string>
+    <string name="console_menu_urlscan">Pindai URL</string>
+    <string name="console_url_no_handler">Tidak ada aplikasi yang tersedia untuk membuka URL ini</string>
+    <string name="console_url_not_supported">Jenis URL ini tidak didukung</string>
+    <string msgid="6083905920877235314" name="copy">"Salin"</string>
+    <string name="copy_logs">Salin Log</string>
+    <string name="decrease_font_shortcut">Ctrl dan -</string>
+    <string name="decrease_font_size">Kecilkan Ukuran Huruf</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Input tidak valid"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Error tidak diketahui"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Jendela Pop-Up"</string>
+    <string name="delete_host_confirm">Apakah Anda yakin ingin menghapus host \'%1$s\'?</string>
+    <string name="delete_message">Apakah anda yakin ingin menghapus %1$s?</string>
+    <string name="delete_neg">Batal</string>
+    <string name="delete_pos">Ya, hapus</string>
+    <string name="dialog_custom_value_label">Masukkan nilai khusus</string>
+    <string name="dialog_customfont_hint">Nama Google Fonts (misalnya, Cascadia Code)</string>
+    <string name="dialog_customfont_title">Tambahkan Font Kustom</string>
+    <string name="dialog_customterminal_hint">Jenis terminal (misalnya, rxvt-unicode)</string>
+    <string name="dialog_customterminal_title">Tambahkan Jenis Terminal Kustom</string>
+    <string name="dialog_localfont_hint">Nama tampilan untuk jenis huruf</string>
+    <string name="dialog_localfont_title">Impor Font</string>
+    <string name="dialog_manage_customterminal_title">Kelola Jenis Terminal Kustom</string>
+    <string name="dialog_message_delete_scheme">Apakah Anda yakin ingin menghapus \"%1$s\"? Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="dialog_message_reset_all">Ini akan mengatur ulang semua 256 warna ke nilai bawaannya. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="dialog_title_delete_scheme">Hapus Skema?</string>
+    <string name="dialog_title_edit_color">Edit Warna %1$d</string>
+    <string name="dialog_title_new_scheme">Skema Warna Baru</string>
+    <string name="dialog_title_rename_scheme">Ubah Nama Skema Warna</string>
+    <string name="dialog_title_reset_all">Atur Ulang Semua Warna?</string>
+    <string name="disconnect_all_message">Apakah Anda yakin ingin memutuskan sambungan dari semua host yang terhubung?</string>
+    <string name="disconnect_all_neg">Batalkan</string>
+    <string name="disconnect_all_pos">Ya, putuskan sambungan</string>
+    <string name="disconnect_host_alert">Apakah Anda yakin ingin memutuskan sambungan dari \'%1$s\'?</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu dropdown"</string>
+    <string name="empty_custom_schemes">Tidak ada skema khusus. Ketuk \"Skema Baru\" untuk membuatnya.</string>
+    <string name="empty_hosts_message">Tidak ada host yang dikonfigurasi</string>
+    <string name="empty_port_forwards_message">Tidak ada pengalihan port yang dikonfigurasi.</string>
+    <string name="empty_pubkeys_message">Tidak ada kunci yang ditemukan.</string>
+    <string name="empty_urls_message">Tidak ada URL yang ditemukan di buffer terminal</string>
+    <string name="error_a11y_label">Error: tidak valid</string>
+    <string name="error_color_scheme_load_failed">Gagal memuat skema warna: %s</string>
+    <string name="error_connection_failed">Gagal terhubung ke %1$s (%2$s): %3$s</string>
+    <string name="error_export_failed">Gagal mengekspor skema: %1$s</string>
+    <string name="error_host_save_failed">Gagal menyimpan host %1$s: %2$s</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_import_failed">Gagal mengimpor skema: %1$s</string>
+    <string name="error_invalid_json">File JSON tidak valid</string>
+    <string name="error_key_load_failed">Gagal memuat kunci \'%1$s\': %2$s</string>
+    <string name="error_port_forward_load_failed">Gagal memuat penerusan port untuk %1$s: %2$s</string>
+    <string name="expand">Perluas</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Lanjutan"</string>
+    <string name="export_hosts_failed">Gagal mengekspor daftar host: %s</string>
+    <string name="export_hosts_success">Jumlah host yang diekspor: %1$d dan jumlah profil: %2$d</string>
+    <string name="export_hosts_title">Ekspor Daftar Host</string>
+    <string name="exposed_dropdown_menu_content_description">Tampilkan menu dropdown</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"Gunakan wajah atau kunci layar untuk melanjutkan"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"Gunakan wajah untuk melanjutkan"</string>
+    <string name="fingerprint_copy_description">Salin sidik jari ke papan klip</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Ikon sidik jari"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Sentuh sensor sidik jari"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware sidik jari tidak tersedia."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Perangkat ini tidak memiliki sensor sidik jari"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Terlalu banyak upaya yang gagal. Coba lagi nanti."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Tidak ada sidik jari yang terdaftar."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Operasi sidik jari dibatalkan oleh pengguna."</string>
+    <string name="fingerprint_format_header">Format sidik jari</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Tidak dikenali"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"Gunakan sidik jari atau kunci layar untuk melanjutkan"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"Gunakan sidik jari untuk melanjutkan"</string>
+    <string name="font_downloading">Mengunduh font…</string>
+    <string name="font_importing">Mengimpor font…</string>
+    <string name="font_system_default">Standar (Jenis huruf monospace)</string>
+    <string name="font_use_default">Gunakan Pengaturan Default</string>
+    <string name="font_validating">Memvalidasi font…</string>
+    <string name="forget_host_keys_confirm">Apakah Anda yakin ingin menghapus kunci host yang tersimpan untuk \'%1$s\'? Anda akan diminta untuk memverifikasi kunci host pada koneksi berikutnya.</string>
+    <string name="format_hostname">namahost</string>
+    <string name="format_port">Port</string>
+    <string name="format_username">pengguna</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Tidak ada PIN, pola, atau sandi yang disetel."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Perangkat ini tidak mendukung PIN, pola, atau sandi."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Autentikasi dibatalkan oleh pengguna."</string>
+    <string name="grant_permission">Izinkan</string>
+    <string name="help_donate_coffee">Belikan saya secangkir kopi</string>
+    <string name="help_donate_github">GitHub Sponsors</string>
+    <string name="help_github">Kode Sumber</string>
+    <string name="help_report_bug">Laporkan Bug</string>
+    <string name="help_section_about">Tentang</string>
+    <string name="help_section_contact">Hubungi &amp; Dukungan</string>
+    <string name="help_section_donate">Dukung Pengembangan</string>
+    <string name="help_website">Situs web</string>
+    <string name="hints">Petunjuk</string>
+    <string name="host_authenticity_warning">Authentifikasi dari host \'%1$s\' tidak dapat dibuat.</string>
+    <string name="host_duplicate_nickname">%1$s (salin)</string>
+    <string name="host_editor_hide_advanced">Sembunyikan opsi lanjutan</string>
+    <string name="host_editor_quick_connect_example">Contoh: root\@192.168.1.1:22</string>
+    <string name="host_editor_quick_connect_label">Hubungkan dengan cepat</string>
+    <string name="host_editor_quick_connect_placeholder">pengguna\@nama_host:port</string>
+    <string name="host_editor_show_advanced">Tampilkan opsi lanjutan</string>
+    <string name="host_fingerprint">Host %1$s tanda tangan kunci adalah %2$s</string>
+    <string name="host_key_type_and_size">%1$s %2$d bit</string>
+    <string name="host_key_verification_title">Verifikasi kunci host</string>
+    <string name="host_verification_failure_warning">KEMUNGKINAN SESEORANG SEDANG BERBUAT KOTOR!\nSeseorang mungkin tengah menyadap anda saat ini (serangan man-in-the-middle)!\nMungkin juga kunci host baru saja diubah.</string>
+    <string name="host_verification_failure_warning_header">PERINGATAN: IDENTIFIKASI REMOTE HOST TELAH BERUBAH!</string>
+    <string name="hostpref_add_host">Tambahkan host</string>
+    <string name="hostpref_authagent_title">Gunakan SSH auth agent</string>
+    <string name="hostpref_authagent_with_confirmation">memerlukan konfirmasi</string>
+    <string name="hostpref_clear_password">Hapus kata sandi yang disimpan</string>
+    <string name="hostpref_color_title">Kategori warna</string>
+    <string name="hostpref_colorscheme_title">Skema warna terminal</string>
+    <string name="hostpref_compression_summary">Ini mungkin akan membantu dengan jaringan lambat</string>
+    <string name="hostpref_compression_title">Kompresi</string>
+    <string name="hostpref_delkey_title">Tombol DEL</string>
+    <string name="hostpref_encoding_title">Pengkodean</string>
+    <string name="hostpref_fontfamily_title">Font</string>
+    <string name="hostpref_fontsize_title">Ukuran huruf (pt)</string>
+    <string name="hostpref_hostname_title">Host</string>
+    <string name="hostpref_ipversion_summary">Pilih versi alamat IP yang akan digunakan saat terhubung</string>
+    <string name="hostpref_ipversion_title">Versi IP</string>
+    <string name="hostpref_jumphost_summary">Hubungkan melalui host SSH lain</string>
+    <string name="hostpref_jumphost_title">Host perantara (ProxyJump)</string>
+    <string name="hostpref_nickname_title">Nama panggilan</string>
+    <string name="hostpref_password_title">Kata sandi</string>
+    <string name="hostpref_password_unchanged">Kata sandi (tidak diubah)</string>
+    <string name="hostpref_port_title">Port</string>
+    <string name="hostpref_postlogin_summary">Perintah yang dijalankan diremote server sekali terotentifikasi</string>
+    <string name="hostpref_postlogin_title">otomasi setelah login</string>
+    <string name="hostpref_profile_none">Tidak ada (gunakan pengaturan host)</string>
+    <string name="hostpref_profile_summary">Pilih profil untuk menggunakan pengaturan terminalnya</string>
+    <string name="hostpref_profile_title">Profil</string>
+    <string name="hostpref_pubkeyid_title">Gunakan otentifikasi pubkey</string>
+    <string name="hostpref_quickdisconnect_summary">Tutup segera setelah koneksi jarak jauh terputus tanpa meminta konfirmasi.</string>
+    <string name="hostpref_quickdisconnect_title">Tutup saat terputus</string>
+    <string name="hostpref_save_host">Simpan host</string>
+    <string name="hostpref_save_password_summary">Simpan kata sandi login dengan aman untuk autentikasi otomatis</string>
+    <string name="hostpref_setting_title">Pengaturan host</string>
+    <string name="hostpref_stayconnected_summary">Coba menyambungkan kembali ke host jika terputus</string>
+    <string name="hostpref_stayconnected_title">Tetap terhubung</string>
+    <string name="hostpref_username_title">Nama pengguna</string>
+    <string name="hostpref_wantsession_summary">Non-aktifkan kesukaan ini hanya untuk port forwards</string>
+    <string name="hostpref_wantsession_title">Jalankan sesi shell</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="icon_style_cloud">Cloud</string>
+    <string name="icon_style_key">Kunci</string>
+    <string name="icon_style_server">Server</string>
+    <string name="icon_style_terminal">Terminal</string>
+    <string name="image_description_connected">Tersambung.</string>
+    <string name="image_description_disconnected">Koneksi terputus.</string>
+    <string name="image_description_down">Panah ke bawah</string>
+    <string name="image_description_hide_keyboard">Sembunyikan keyboard.</string>
+    <string name="image_description_left">Panah kiri</string>
+    <string name="image_description_right">Panah kanan</string>
+    <string name="image_description_send_escape_character">Kirim karakter escape.</string>
+    <string name="image_description_send_tab_character">Kirim karakter TAB.</string>
+    <string name="image_description_show_keyboard">Perlihatkan papan ketik.</string>
+    <string name="image_description_toggle_control_character">Ubah-ubah karakter control.</string>
+    <string name="image_description_up">Panah atas</string>
+    <string name="import_hosts_failed">Gagal mengimpor daftar host: %s</string>
+    <string name="import_hosts_success">Mengimpor %1$d host ( %2$d dilewati) dan %3$d profil ( %4$d dilewati)</string>
+    <string msgid="6827826412747255547" name="in_progress">"Dalam proses"</string>
+    <string name="increase_font_shortcut">Kontrol dan +</string>
+    <string name="increase_font_size">Besarkan Ukuran Fonta</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Diperiksa sebagian"</string>
+    <string name="ipversion_auto">Otomatis</string>
+    <string name="ipversion_ipv4">Hanya IPv4</string>
+    <string name="ipversion_ipv6">Hanya IPv6</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="keyboard_shortcuts">Pintasan Papan Ketik</string>
+    <string name="label_background_color">Latar Belakang</string>
+    <string name="label_base_scheme">Skema dasar:</string>
+    <string name="label_blue">Biru</string>
+    <string name="label_built_in_scheme">Terintegrasi</string>
+    <string name="label_custom_scheme">Kustom</string>
+    <string name="label_foreground_color">Latar Depan</string>
+    <string name="label_green">Hijau</string>
+    <string name="label_hex_color">Kode Warna Heksadesimal</string>
+    <string name="label_red">Merah</string>
+    <string name="label_scheme_description">Deskripsi (opsional)</string>
+    <string name="label_scheme_name">Nama Skema</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A kemudian spasi</string>
+    <string name="list_camera_ctrlaspace_description">Ctrl+A lalu Spasi</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description">Esc+A</string>
+    <string name="list_camera_esc_description">Esc</string>
+    <string name="list_camera_none">Kosong</string>
+    <string name="list_camera_none_description">Tidak ada</string>
+    <string name="list_camera_text_input">Input Teks</string>
+    <string name="list_camera_text_input_description">Input teks</string>
+    <string name="list_color_schemes">Skema warna</string>
+    <string name="list_host_delete">Hapus host</string>
+    <string name="list_host_disconnect">Putus koneksi</string>
+    <string name="list_host_duplicate">Host duplikat</string>
+    <string name="list_host_edit">Ubah host</string>
+    <string name="list_host_forget_keys">Abaikan kunci host</string>
+    <string name="list_host_portforwards">Ubah penerusan port</string>
+    <string name="list_jumphost_none">Tidak ada (koneksi langsung)</string>
+    <string name="list_keymode_left">Gunakan tombol sisi-kiri</string>
+    <string name="list_keymode_none">Tidak aktif</string>
+    <string name="list_keymode_right">Gunakan tombol sisi kanan</string>
+    <string name="list_menu_disconnect">Putuskan semua koneksi</string>
+    <string name="list_menu_export_hosts">Ekspor Daftar Host</string>
+    <string name="list_menu_import_hosts">Impor Host</string>
+    <string name="list_menu_pubkeys">Atur Pubkey</string>
+    <string name="list_menu_settings">Pengaturan</string>
+    <string name="list_menu_sortcolor">Urutkan berdasarkan warna</string>
+    <string name="list_menu_sortname">Urutkan berdasarkan nama</string>
+    <string name="list_pubkey_edit">Edit kunci publik</string>
+    <string name="list_pubkeyids_any">Gunakan kunci apapun yang tidak terkunci</string>
+    <string name="list_pubkeyids_none">Jangan gunakan kunci</string>
+    <string name="list_rotation_auto">Otomatis</string>
+    <string name="list_rotation_default">Baku</string>
+    <string name="list_rotation_land">Paksakan bentuk datar</string>
+    <string name="list_rotation_port">Paksakan bentuk tegak</string>
+    <string name="loading_message">Memuat…</string>
+    <string name="local_shell_unavailable">Gagal! Shell lokal tidak tersedia di telepon ini.</string>
+    <string name="logs_bug_report_info">Untuk melaporkan bug, salin log ini dan buka laporan baru di https://connectbot.org/bug</string>
+    <string name="logs_copied">Log disalin ke papan klip</string>
+    <string name="logs_title">Catatan Aplikasi</string>
+    <string name="m3_loading_indicator_content_description">Memuat</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Menu tambahan</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Opsi lainnya</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Menciutkan sheet bawah"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Menutup sheet bawah"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Handel geser"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Meluaskan sheet bawah"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Sheet Bawah"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Opsi lainnya"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Tanggal yang dimasukkan"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Tanggal yang dimasukkan: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Tanggal tidak cocok dengan pola yang diharapkan: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Tanggal tidak diizinkan: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Tanggal di luar rentang tahun yang diharapkan %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Tanggal"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Tidak ada"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Pilih tanggal"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Tanggal yang dipilih"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Pilihan saat ini: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Pilih tahun %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Tidak ada"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Scroll untuk menampilkan tahun sebelumnya"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Scroll untuk menampilkan tahun berikutnya"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Beralih ke mode input kalender"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Geser untuk memilih tahun, atau ketuk untuk beralih kembali ke pemilihan tanggal"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Beralih ke mode input teks"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Ubah ke bulan berikutnya"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Ubah ke bulan sebelumnya"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Beralih ke memilih tahun"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Pilih tanggal"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Hari ini"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Pemilih tahun terlihat"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Input rentang tanggal tidak valid"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Masukkan tanggal"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Dalam rentang"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Tanggal akhir"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Scroll untuk menampilkan bulan berikutnya"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Scroll untuk menampilkan bulan sebelumnya"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Tanggal mulai"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Pilih tanggal"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialog"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Diciutkan"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Diperluas"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Aktifkan/nonaktifkan menu dropdown"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Ciutkan toolbar"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Luaskan toolbar"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Opsi lainnya"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Telusuri"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Tutup"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Pemberitahuan"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Saran di bawah"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Masukkan Waktu"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Pilih Waktu"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Jam"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d jam"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"Jam harus antara 1—12"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"Jam harus antara 0—23"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Pilih jam"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Pukul %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"untuk jam"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Menit"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"Menit harus antara 0—59"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Pilih menit"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d menit"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"untuk menit"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Pilih AM atau PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Beralih ke mode input teks"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Beralih ke mode jam"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Tampilkan tooltip"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Tooltip"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Tutup kolom samping"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Kolom samping navigasi"</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_24h_suffix">%1$s jam</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih menit</string>
+    <string name="material_minute_suffix">%1$s menit</string>
+    <string name="material_slider_range_end">Rentang akhir</string>
+    <string name="material_slider_range_start">Rentang awal</string>
+    <string name="material_slider_value">Nilai</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mode jam untuk masukan waktu.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Beralih ke mode jam</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_hour_error">Jam harus antara 1—12</string>
+    <string name="material_timepicker_hour_error_24h">Jam harus antara 0—23</string>
+    <string name="material_timepicker_minute">Menit</string>
+    <string name="material_timepicker_minute_error">Menit harus antara 0—59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pilih waktu</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mode masukan teks untuk masukan waktu.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Beralih ke mode input teks</string>
+    <string name="menu_colors_reset">Atur ulang</string>
+    <string name="menu_manage_colors">Kelola Skema Warna</string>
+    <string name="message_export_success">%1$s telah diekspor</string>
+    <string name="message_import_success">%1$s telah diimpor</string>
+    <string name="migration_checking">Memeriksa basis data…</string>
+    <string name="migration_copy_debug_log">Salin Log Debug</string>
+    <string name="migration_copy_warnings">Salin Peringatan</string>
+    <string name="migration_debug_log_title">Catatan Log Debug</string>
+    <string name="migration_failed_help">Jika masalah ini masih berlanjut, laporkan masalah ini di %1$s dengan menyertakan log debug yang telah disalin</string>
+    <string name="migration_failed_message">Terjadi kesalahan selama migrasi basis data: %s</string>
+    <string name="migration_failed_title">Migrasi gagal</string>
+    <string name="migration_retry">Coba lagi</string>
+    <string name="migration_stats_hosts">Host yang dimigrasikan: %d</string>
+    <string name="migration_stats_known_hosts">Daftar host yang dikenal telah dipindahkan: %d</string>
+    <string name="migration_stats_port_forwards">Port forwarding yang dipindahkan: %d</string>
+    <string name="migration_stats_pubkeys">Kunci SSH telah dipindahkan: %d</string>
+    <string name="migration_title">Memindahkan Basis Data</string>
+    <string name="migration_warning">Harap jangan tutup aplikasi selama proses migrasi</string>
+    <string name="migration_warnings_title">Peringatan Migrasi</string>
+    <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
+    <string name="mtrl_button_collapsed_content_description">Diciutkan</string>
+    <string name="mtrl_button_expanded_content_description">Diluaskan</string>
+    <string name="mtrl_button_overflow_icon_content_description">Menu tambahan</string>
+    <string name="mtrl_button_snackbar_close_content_description">Tutup</string>
+    <string name="mtrl_checkbox_state_description_checked">Dicentang</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Dicentang sebagian</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Tidak dicentang</string>
+    <string name="mtrl_chip_close_icon_content_description">Menghapus %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Lebih dari %1$d notifikasi baru</string>
+    <string name="mtrl_picker_a11y_next_month">Ubah ke bulan berikutnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Ubah ke bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_range_selection">Pilihan tanggal mulai: %1$s – Pilihan tanggal akhir: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">tidak ada</string>
+    <string name="mtrl_picker_cancel">Batal</string>
+    <string name="mtrl_picker_confirm">Oke</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tanggal</string>
+    <string name="mtrl_picker_date_header_unselected">Tanggal yang dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Tanggal akhir %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak valid.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Rentang tidak valid.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Pilih tahun ini %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Buka tahun %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Bulan berikutnya</string>
+    <string name="mtrl_picker_out_of_range">Di luar rentang: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Tampilan kalender</string>
+    <string name="mtrl_picker_pane_title_year_view">Tampilan tahun</string>
+    <string name="mtrl_picker_prev_month_tooltip">Bulan sebelumnya</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tanggal mulai – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
+    <string name="mtrl_picker_range_header_unselected">Tanggal mulai – Tanggal akhir</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_start_date_description">Tanggal mulai %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal mulai</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_today_description">Hari ini %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Beralih ke kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Beralih ke tampilan Kalender</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Beralih ke input teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Beralih ke tampilan tahun</string>
+    <string name="mtrl_timepicker_cancel">Batal</string>
+    <string name="mtrl_timepicker_confirm">Oke</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu navigasi"</string>
+    <string name="network_grace_period_expired">Jaringan tidak dipulihkan, memutuskan sambungan…</string>
+    <string name="network_lost_grace_period">Koneksi jaringan terputus, menunggu untuk terhubung kembali…</string>
+    <string name="network_restored_ip_changed">Jaringan telah dipulihkan, tetapi alamat IP telah berubah, sedang mencoba menghubungkan kembali…</string>
+    <string name="network_restored_no_previous_state">Jaringan telah dipulihkan, sedang memverifikasi koneksi…</string>
+    <string name="network_restored_same_ip">Jaringan telah dipulihkan, koneksi tetap terjaga</string>
+    <string name="no">Tidak</string>
+    <string name="no_logs_available">Tidak ada log yang tersedia</string>
+    <string msgid="6610465462668679431" name="not_selected">"Tidak dipilih"</string>
+    <string msgid="6573031135582639649" name="not_set">"Belum disetel"</string>
+    <string name="notification_permission_console_warning">Koneksi dapat terputus saat aplikasi berjalan di latar belakang</string>
+    <string name="notification_permission_denied_message">Untuk menjaga agar koneksi Anda tetap aktif di latar belakang, silakan aktifkan notifikasi untuk ConnectBot di pengaturan sistem.</string>
+    <string name="notification_permission_denied_snackbar">Koneksi dapat terputus tanpa pemberitahuan atau izin</string>
+    <string name="notification_permission_denied_title">Izin notifikasi diperlukan</string>
+    <string name="notification_permission_message">ConnectBot memerlukan izin notifikasi untuk menjaga koneksi Anda tetap aktif saat Anda beralih aplikasi. Tanpa izin ini, sistem mungkin memutuskan koneksi Anda untuk menghemat baterai.</string>
+    <string name="notification_permission_title">Tetap terhubung di latar belakang</string>
+    <string name="notification_text">%1$s memerlukan perhatian anda.</string>
+    <string name="only_alt">Hanya Alt</string>
+    <string name="open_settings">Buka pengaturan</string>
+    <string name="palette_editor_builtin_note">Skema bawaan bersifat hanya baca. Duplikat untuk menyesuaikan.</string>
+    <string name="password_toggle_content_description">Tampilkan sandi</string>
+    <string name="paste_shortcut">Ctrl+Shift+V</string>
+    <string name="portforward_delete">Hapus port forward</string>
+    <string name="portforward_destination_format_error">Formatnya adalah host:port (misalnya, localhost:80)</string>
+    <string name="portforward_destination_placeholder">localhost:80</string>
+    <string name="portforward_disable">Nonaktifkan</string>
+    <string name="portforward_disabled">Penerusan port dinonaktifkan</string>
+    <string name="portforward_dynamic">Dinamis (SOCKS)</string>
+    <string name="portforward_edit">Ubah port forward</string>
+    <string name="portforward_enable">Aktifkan</string>
+    <string name="portforward_enabled">Penerusan port diaktifkan</string>
+    <string name="portforward_host_address" ns2:machine_translated="true">Alamat host</string>
+    <string name="portforward_local">Lokal</string>
+    <string name="portforward_nickname_placeholder">Server Web Internal</string>
+    <string name="portforward_port_range_error">Nomor port harus antara 1 dan 65535</string>
+    <string name="portforward_pos">Buat penerusan port</string>
+    <string name="portforward_remote">Remote</string>
+    <string name="portforward_save">Simpan</string>
+    <string name="portforward_source_addr_all" ns2:machine_translated="true">Semua alamat</string>
+    <string name="portforward_source_addr_all_ipv4" ns2:machine_translated="true">Semua alamat IPv4</string>
+    <string name="portforward_source_addr_all_ipv6" ns2:machine_translated="true">Semua alamat IPv6</string>
+    <string name="portforward_source_addr_localhost" ns2:machine_translated="true">Alamat host lokal</string>
+    <string name="portforward_source_addr_localhost_ipv4" ns2:machine_translated="true">Host lokal (hanya IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" ns2:machine_translated="true">localhost (hanya IPv6)</string>
+    <string name="portforward_source_addr_specific" ns2:machine_translated="true">Alamat spesifik</string>
+    <string name="portforward_source_addr_specific_placeholder" ns2:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label">Jenis: %s</string>
+    <string name="pref_alwaysvisible_summary">Pastikan tombol-tombol penting selalu terlihat</string>
+    <string name="pref_alwaysvisible_title">Tombol-tombol khusus selalu terlihat</string>
+    <string name="pref_auth_on_launch_summary">Meminta sidik jari, pemindaian wajah, atau PIN perangkat saat membuka aplikasi</string>
+    <string name="pref_auth_on_launch_title">Autentikasi saat peluncuran</string>
+    <string name="pref_backupkeys_summary">Simpan cadangan kunci privat menggunakan mekanisme pencadangan Android</string>
+    <string name="pref_backupkeys_title">Cadangkan kunci publik</string>
+    <string name="pref_bell_category">Bel terminal</string>
+    <string name="pref_bell_notification_summary">Kirim pemberitahuan ketika sebuah terminal berjalan di belakang dengan membunyikan sebuah nada dering</string>
+    <string name="pref_bell_notification_title">Pemberitahuan di belakang layar</string>
+    <string name="pref_bell_summary">Putar suara saat ada notifikasi di terminal</string>
+    <string name="pref_bell_title">Bel berdering</string>
+    <string name="pref_bell_vibrate_summary">Getarkan saat ada notifikasi terminal</string>
+    <string name="pref_bell_vibrate_title">Getarkan saat berdering</string>
+    <string name="pref_bell_volume_title">Volume dering</string>
+    <string name="pref_bumpyarrows_summary">Getarkan perangkat saat mengirimkan tombol panah; berguna untuk koneksi yang lambat</string>
+    <string name="pref_bumpyarrows_title">Panah belok</string>
+    <string name="pref_camera_title">Jalan pintas kamera</string>
+    <string name="pref_conn_persist_summary">Pertahankan sesi Anda tetap aktif meskipun Anda beralih ke aplikasi lain</string>
+    <string name="pref_conn_persist_title">Tetap terhubung di latar belakang</string>
+    <string name="pref_ctrlfkeys_summary">Pada keyboard virtual, tombol angka mengirimkan F1-F10 dengan tombol Ctrl</string>
+    <string name="pref_ctrlfkeys_title">Ctrl+angka adalah tombol fungsi</string>
+    <string name="pref_customfont_summary">Tambahkan font dari Google Fonts berdasarkan namanya</string>
+    <string name="pref_customfont_title">Tambahkan font khusus</string>
+    <string name="pref_customterminal_summary">Tambahkan nilai TERM khusus untuk server jarak jauh</string>
+    <string name="pref_customterminal_title">Jenis Terminal Kustom</string>
+    <string name="pref_default_profile_none">Tidak ada (gunakan pengaturan host)</string>
+    <string name="pref_default_profile_title">Profil Default</string>
+    <string name="pref_emulation_category">Terminal Emulasi</string>
+    <string name="pref_emulation_title">Mode Emulasi</string>
+    <string name="pref_fontfamily_title">Font</string>
+    <string name="pref_fullscreen_summary">Sembunyikan bar status ketika dalam konsol</string>
+    <string name="pref_fullscreen_title">Layar penuh</string>
+    <string name="pref_keepalive_summary">Mencegah layar menjadi padam ketika bekerja dalam sebuah konsol</string>
+    <string name="pref_keepalive_title">Jaga layar tetap terbuka</string>
+    <string name="pref_keyboard_category">Papan tik</string>
+    <string name="pref_keymode_title">Jalan pintas direktori</string>
+    <string name="pref_language_download" ns2:machine_translated="true">Unduh paket bahasa</string>
+    <string name="pref_language_download_failed" ns2:machine_translated="true">Pengunduhan gagal, ketuk untuk mencoba lagi</string>
+    <string name="pref_language_system_default">Pengaturan bawaan sistem</string>
+    <string name="pref_language_title">Bahasa</string>
+    <string name="pref_localfont_summary">Impor file font dari penyimpanan (TTF, OTF)</string>
+    <string name="pref_localfont_title">Impor font lokal</string>
+    <string name="pref_memkeys_summary">Simpan kunci yang terbuka kedalam memori hingga layanan backend berakhir</string>
+    <string name="pref_memkeys_title">Ingat kunci dalam memori</string>
+    <string name="pref_pg_updn_gesture_summary">Geser sepertiga bagian kiri layar untuk mengirim perintah naik/turun ke terminal</string>
+    <string name="pref_pg_updn_gesture_title">Gerakan menggulir ke atas/bawah</string>
+    <string name="pref_profiles_category">Profil</string>
+    <string name="pref_rotation_title">Mode rotasi</string>
+    <string name="pref_scrollback_summary">Ukuran penyangga scrollback yang harus tersimpan di memori pada setiap konsol</string>
+    <string name="pref_scrollback_title">Ukuran Scrollback</string>
+    <string name="pref_security_category">Keamanan</string>
+    <string name="pref_shiftfkeys_summary">Pada keyboard fisik, tombol angka mengirimkan F1-F10 saat tombol Shift ditekan</string>
+    <string name="pref_shiftfkeys_title">Shift ditambah angka adalah tombol F</string>
+    <string name="pref_stickymodifiers_title">Tombol pengubah yang tetap aktif</string>
+    <string name="pref_theme_dark">Gelap</string>
+    <string name="pref_theme_light">Ringan</string>
+    <string name="pref_theme_system">Pengaturan bawaan sistem</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_titlebarhide_summary">Ketuk konsol untuk menampilkan bilah judul dan mengakses menu</string>
+    <string name="pref_titlebarhide_title">Sembunyikan bilah judul secara otomatis</string>
+    <string name="pref_ui_category">Antarmuka pengguna</string>
+    <string name="pref_volumefont_summary">Ukuran font juga dapat diubah di pengaturan profil</string>
+    <string name="pref_volumefont_title">Tombol volume mengubah ukuran font</string>
+    <string name="pref_wifilock_summary">Jaga Wi-Fi agar tidak padam ketika sesi aktif</string>
+    <string name="pref_wifilock_title">Wi-Fi selalu aktif</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" disalin ke papan klip."</string>
+    <string name="profile_controlled_setting">Dikendalikan oleh profil</string>
+    <string name="profile_create_button">Buat</string>
+    <string name="profile_create_cancel">Batalkan</string>
+    <string name="profile_create_dialog_title">Buat Profil</string>
+    <string name="profile_create_name_label">Nama Profil</string>
+    <string name="profile_delete_button">Hapus</string>
+    <string name="profile_delete_cancel">Batalkan</string>
+    <string name="profile_delete_dialog_message">Apakah Anda yakin ingin menghapus \'%s\'?</string>
+    <string name="profile_delete_dialog_title">Hapus Profil</string>
+    <string name="profile_editor_font_family_title">Keluarga Font</string>
+    <string name="profile_editor_font_size_title">Ukuran Font: %d</string>
+    <string name="profile_editor_force_size_columns">Kolom</string>
+    <string name="profile_editor_force_size_enable">Aktifkan ukuran paksa</string>
+    <string name="profile_editor_force_size_rows">Baris</string>
+    <string name="profile_editor_force_size_summary">Paksa terminal untuk menggunakan ukuran tertentu (kolom x baris) alih-alih menyesuaikan ukuran secara otomatis agar sesuai dengan layar.</string>
+    <string name="profile_editor_force_size_title">Paksa Ukuran</string>
+    <string name="profile_editor_name_label">Nama Profil</string>
+    <string name="profile_editor_save">Simpan</string>
+    <string name="profile_editor_section_color_scheme">Skema Warna</string>
+    <string name="profile_editor_section_font">Font</string>
+    <string name="profile_editor_section_icon_color">Warna Ikon</string>
+    <string name="profile_editor_section_terminal">Terminal</string>
+    <string name="profile_editor_title_edit">Edit Profil</string>
+    <string name="profile_editor_title_new">Profil Baru</string>
+    <string name="profile_icon_color_none">Tidak ada (gunakan warna host)</string>
+    <string name="profile_list_create_profile">Buat profil</string>
+    <string name="profile_list_delete">Hapus</string>
+    <string name="profile_list_duplicate">Duplikat</string>
+    <string name="profile_list_empty_message">Belum ada profil yang dibuat. Ketuk + untuk membuat profil.</string>
+    <string name="profile_list_more_options">Opsi lainnya</string>
+    <string name="profile_list_title">Profil</string>
+    <string name="profile_summary_emulation">Emulasi: %s</string>
+    <string name="profile_summary_font">Font: %1$s %2$dpt</string>
+    <string name="prompt_again">(sekali lagi)</string>
+    <string name="prompt_allow_agent_to_use_key">Ijinkan remote host untuk\nmenggunakan kunci \'%1$s\'?</string>
+    <string name="prompt_bits">Jumlah bit:</string>
+    <string name="prompt_continue_connecting">Apakah Anda yakin ingin\nterus mencoba menyambungkan?</string>
+    <string name="prompt_destination">Tujuan:</string>
+    <string name="prompt_host_disconnected">Sambungan dengan host telah terputus.\nTutup sesi ini?</string>
+    <string name="prompt_nickname">Nama panggilan:</string>
+    <string name="prompt_old_password">Kata sandi sebelumnya:</string>
+    <string name="prompt_password">Kata sandi:</string>
+    <string name="prompt_password_can_be_blank">Catatan: sandi dapat dikosongkan</string>
+    <string name="prompt_pubkey_password">Kata sandi untuk kunci \'%1$s\'</string>
+    <string name="prompt_source_port">Port asal</string>
+    <string name="prompt_type">Tipe:</string>
+    <string name="prompt_username">Nama pengguna:</string>
+    <string name="protocol_spinner_label">Protokol</string>
+    <string name="pubkey_biometric_description">Lindungi kunci ini dengan sidik jari Anda</string>
+    <string name="pubkey_biometric_description_icon">Dilindungi oleh sidik jari</string>
+    <string name="pubkey_biometric_key_type_warning">Perlindungan sidik jari hanya tersedia untuk kunci RSA dan EC</string>
+    <string name="pubkey_biometric_not_available">Autentikasi sidik jari tidak tersedia</string>
+    <string name="pubkey_biometric_not_enrolled">Tidak ada sidik jari yang terdaftar. Atur sidik jari di pengaturan perangkat untuk menggunakan fitur ini.</string>
+    <string name="pubkey_biometric_prompt_subtitle">Sentuh sensor sidik jari untuk membuka kunci \'%1$s\'</string>
+    <string name="pubkey_biometric_prompt_title">Otentikasi menggunakan kunci</string>
+    <string name="pubkey_biometric_protection">Perlindungan sidik jari</string>
+    <string name="pubkey_change_password">Ubah kata sandi</string>
+    <string name="pubkey_confirm_use">Konfirmasi sebelum digunakan</string>
+    <string name="pubkey_copy_private">Salin kunci pribadi</string>
+    <string name="pubkey_copy_private_encrypted">Salin kunci privat (terenkripsi)</string>
+    <string name="pubkey_copy_private_openssh">Salin kunci privat (OpenSSH)</string>
+    <string name="pubkey_copy_private_pem">Salin kunci privat (PEM)</string>
+    <string name="pubkey_copy_public">Salin kunci publik</string>
+    <string name="pubkey_delete">Tombol Hapus</string>
+    <string name="pubkey_editor_encrypted_startup_warning">Kunci terenkripsi tidak dapat dibuka saat memulai aplikasi</string>
+    <string name="pubkey_editor_key_type_label">Jenis kunci</string>
+    <string name="pubkey_editor_options_label">Opsi</string>
+    <string name="pubkey_encrypted_description">Terenkripsi</string>
+    <string name="pubkey_export_confirm_passphrase">Konfirmasi frasa sandi</string>
+    <string name="pubkey_export_passphrase_message">Masukkan frasa sandi untuk mengenkripsi kunci yang diekspor</string>
+    <string name="pubkey_export_passphrase_mismatch">Frasa sandi tidak cocok</string>
+    <string name="pubkey_export_private">Ekspor kunci privat</string>
+    <string name="pubkey_export_private_encrypted">Ekspor kunci privat (terenkripsi)</string>
+    <string name="pubkey_export_private_openssh">Ekspor kunci privat (OpenSSH)</string>
+    <string name="pubkey_export_private_pem">Ekspor kunci privat (PEM)</string>
+    <string name="pubkey_export_public">Ekspor kunci publik</string>
+    <string name="pubkey_export_set_passphrase">Tetapkan frasa sandi ekspor</string>
+    <string name="pubkey_gather_entropy">Kumpulkan Entropy</string>
+    <string name="pubkey_generate">Buat</string>
+    <string name="pubkey_generating">Membuat pasangan kunci…</string>
+    <string name="pubkey_import_button">Impor</string>
+    <string name="pubkey_import_clipboard_key_label" ns2:machine_translated="true">Isi kunci pribadi</string>
+    <string name="pubkey_import_confirm_password">Konfirmasi kata sandi</string>
+    <string name="pubkey_import_encrypt_key">Enkripsi kunci untuk penyimpanan</string>
+    <string name="pubkey_import_encrypted_message">Masukkan kata sandi untuk mendekripsi kunci \'%1$s\' (%2$s)</string>
+    <string name="pubkey_import_encrypted_title">Impor kunci terenkripsi</string>
+    <string name="pubkey_import_existing">Impor kunci publik yang sudah ada</string>
+    <string name="pubkey_import_from_clipboard" ns2:machine_translated="true">Impor dari papan klip</string>
+    <string name="pubkey_import_new_password">Kata sandi baru</string>
+    <string name="pubkey_import_reuse_password">Gunakan kata sandi yang sama untuk enkripsi</string>
+    <string name="pubkey_list_empty">Ketuk \"Menu\" untuk membuat atau mengimpor pasangan kunci.</string>
+    <string name="pubkey_load_on_start">Muat kunci pada saat memulai</string>
+    <string name="pubkey_nickname_exists">Kunci dengan nama panggilan ini sudah ada</string>
+    <string name="pubkey_not_encrypted_description">Tidak terenkripsi</string>
+    <string name="pubkey_paste_from_clipboard" ns2:machine_translated="true">Tempel dari papan klip</string>
+    <string name="pubkey_touch_hint">Untuk memastikan ketidaktentuan selama pembuatan kunci, gerakkan tangan anda secara acak diatas kotak dibawah ini.</string>
+    <string name="pubkey_touch_prompt">Sentuh boks ini untuk mengumpulkan ke tidak tentuan: %1$d%% selesai</string>
+    <string name="pubkey_type_label">Jenis: %s</string>
+    <string name="pubkey_unknown">Kunci tidak dikenal</string>
+    <string name="pubkey_unknown_format">Format tidak dikenal</string>
+    <string name="pubkey_unlock">Buka kunci</string>
+    <string name="pubkey_unlock_message">Masukkan kata sandi untuk membuka kunci \'%1$s\'</string>
+    <string msgid="5941395253238309765" name="range_end">"Rentang akhir"</string>
+    <string msgid="7097486360902471446" name="range_start">"Rentang awal"</string>
+    <string name="resize_disable_force_size">Nonaktifkan ukuran paksa</string>
+    <string name="resize_height_label">Tinggi (jumlah baris)</string>
+    <string name="resize_width_label">Lebar (kolom)</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"Masukkan kunci layar untuk melanjutkan"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string name="searchview_clear_text_content_description">Hapus teks</string>
+    <string name="searchview_navigation_content_description">Kembali</string>
+    <string name="section_ansi_colors">Warna ANSI (0–15)</string>
+    <string name="section_color_preview">Pratinjau</string>
+    <string name="section_fg_bg_colors">Latar Depan &amp; Latar Belakang</string>
+    <string msgid="6043586758067023" name="selected">"Dipilih"</string>
+    <string name="service_desc">"Mengelola koneksi SSH dan kunci publik  yang terrekam"</string>
+    <string name="shortcut_create">Buat Pintasan</string>
+    <string name="shortcut_customize_title">Sesuaikan Pintasan</string>
+    <string name="shortcut_icon_color">Warna Ikon</string>
+    <string name="shortcut_icon_style">Gaya Ikon</string>
+    <string name="shortcut_use_host_color">Gunakan warna host</string>
+    <string name="side_sheet_accessibility_pane_title">Sheet Samping</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Pemberitahuan"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Kosong"</string>
+    <string msgid="5834637030682409883" name="state_off">"Nonaktif"</string>
+    <string msgid="1490883874751719580" name="state_on">"Aktif"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Alihkan"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> persen."</string>
+    <string name="terminal_auth">Mencoba untuk mengotentifikasi</string>
+    <string name="terminal_auth_biometric">Meminta autentikasi biometrik untuk kunci \'%1$s\'</string>
+    <string name="terminal_auth_biometric_invalidated">Kunci biometrik \'%1$s\' telah dinonaktifkan. Hal ini dapat terjadi ketika sidik jari baru didaftarkan pada perangkat. Silakan buat kunci baru.</string>
+    <string name="terminal_auth_fail">[Host anda tidak mendukung otentifikasi \'kata sandi\' atau \'papan ketik interaktif\'.]</string>
+    <string name="terminal_auth_ki">Mencoba otentifikasi \'papan ketik interaktif\'</string>
+    <string name="terminal_auth_ki_fail">Metode otentifikasi \'papan ketik interaktif\' gagal</string>
+    <string name="terminal_auth_pass">Mencoba otentifikasi \'kata sandi\'</string>
+    <string name="terminal_auth_pass_fail">Metoda otentifikasi \'kata sandi\' gagal</string>
+    <string name="terminal_auth_pubkey_any">Mencoba otentifikasi \'kunci publik\' dengan kunci publik apapun dalam memori</string>
+    <string name="terminal_auth_pubkey_fail">Metode otentifikasi \'kunci publik\' dengan kunci \'%1$s\' gagal</string>
+    <string name="terminal_auth_pubkey_invalid">Kunci publik yang dipilih tidak valid, coba pilih kembali kunci dalam editor host</string>
+    <string name="terminal_auth_pubkey_specific">Mencoba otentifikasi \'kunci publik\' dengan kunci publik spesifik</string>
+    <string name="terminal_auth_saved_password">Mencoba kata sandi yang disimpan…</string>
+    <string name="terminal_auth_saved_password_fail">Autentikasi kata sandi yang disimpan gagal.</string>
+    <string name="terminal_connecting">Menyambungkan ke %1$s:%2$d melalui %3$s</string>
+    <string name="terminal_connecting_via_jump">Menghubungkan melalui host perantara: %s</string>
+    <string name="terminal_enable_portfoward">Aktifkan port forward: %1$s</string>
+    <string name="terminal_failed">Verifikasi kunci host gagal.</string>
+    <string name="terminal_jump_auth_failed">Autentikasi gagal untuk host perantara: %s</string>
+    <string name="terminal_jump_authenticated">Berhasil melakukan autentikasi ke host perantara: %s</string>
+    <string name="terminal_jump_connected">Terhubung ke host perantara: %s</string>
+    <string name="terminal_jump_failed">Gagal terhubung ke host perantara %1$s: %2$s</string>
+    <string name="terminal_jump_not_found">Host perantara tidak ditemukan di daftar host yang tersimpan</string>
+    <string name="terminal_jump_password">Kata sandi untuk host perantara %s:</string>
+    <string name="terminal_kex_algorithm">Algoritma pertukaran kunci: %s</string>
+    <string name="terminal_keyboard_text_input_button">Input teks</string>
+    <string name="terminal_no_route">Apakah Anda mencoba mengakses host lokal? Berikan izin jaringan lokal.</string>
+    <string name="terminal_no_session">Sesi tidak akan dimulai karena preferensi host</string>
+    <string name="terminal_sucess">Host terverifikasi \'%1$s\' kunci: %2$s</string>
+    <string name="terminal_text_input_dialog_label">Masukkan teks yang akan dikirim ke terminal</string>
+    <string name="terminal_text_input_dialog_title">Input Teks</string>
+    <string name="terminal_text_input_resize_handle">Ubah ukuran</string>
+    <string name="terminal_using_algorithm">Menggunakan algoritma : %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">Algoritma klien-ke-server: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">Algoritma server-ke-klien: %1$s %2$s</string>
+    <string name="terms_and_conditions">Syarat &amp; Ketentuan</string>
+    <string name="title_color_picker">Pilih warna</string>
+    <string name="title_colors">Warna</string>
+    <string name="title_contact">Hubungi &amp; Dukungan</string>
+    <string name="title_eula">Lisensi</string>
+    <string name="title_help">Bantuan</string>
+    <string name="title_palette_editor">Edit Palet Warna</string>
+    <string name="title_port_forwards_list">Penerusan port</string>
+    <string name="title_pubkey_generate">Buat</string>
+    <string name="title_pubkey_list">Kunci Publik</string>
+    <string name="title_scheme_manager">Kelola Skema Warna</string>
+    <string name="title_settings">Setelan</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"tooltip"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"tampilkan tooltip"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"Gunakan biometrik"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"Gunakan biometrik atau kunci layar"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"Gunakan wajah"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"Gunakan wajah atau kunci layar"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"Gunakan sidik jari"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"Gunakan sidik jari atau kunci layar"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"Gunakan kunci layar"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"NONAKTIF"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"AKTIF"</string>
+    <string name="view_logs">Lihat Log</string>
+    <string name="yes">Ya</string>
+</resources>

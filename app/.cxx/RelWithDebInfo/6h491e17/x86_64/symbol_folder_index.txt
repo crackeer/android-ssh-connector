@@ -1,0 +1,1 @@
+/Users/liuhu/github/connectbot/app/build/intermediates/cxx/RelWithDebInfo/6h491e17/obj/x86_64

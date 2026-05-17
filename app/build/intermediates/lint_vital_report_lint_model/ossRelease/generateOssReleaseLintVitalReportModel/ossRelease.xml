@@ -1,0 +1,37 @@
+<variant
+    name="ossRelease"
+    useSupportLibraryVectorDrawables="true"
+    package="org.connectbot"
+    minSdkVersion="24"
+    targetSdkVersion="36.0"
+    shrinking="true"
+    mergedManifest="build/intermediates/merged_manifest/ossRelease/processOssReleaseMainManifest/AndroidManifest.xml"
+    manifestMergeReport="build/outputs/logs/manifest-merger-oss-release-report.txt"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-9.2.1:proguard.cfg"
+    partialResultsDir="build/intermediates/lint_vital_partial_results/ossRelease/lintVitalAnalyzeOssRelease/out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/oss/java:src/release/java:src/ossRelease/java:src/main/kotlin:src/oss/kotlin:src/release/kotlin:src/ossRelease/kotlin"
+        resDirectories="src/main/res:src/oss/res:src/release/res:src/ossRelease/res"
+        assetsDirectories="src/main/assets:build/generated/exportSchema:src/oss/assets:src/release/assets:src/ossRelease/assets"
+        keepRulesDirectories="src/main/keepRules:src/oss/keepRules:src/release/keepRules:src/ossRelease/keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="memtagMode"
+        value="async" />
+  </manifestPlaceholders>
+  <artifact
+      classOutputs="build/intermediates/javac/ossRelease/compileOssReleaseJavaWithJavac/classes:build/intermediates/built_in_kotlinc/ossRelease/compileOssReleaseKotlin/classes:build/intermediates/compile_r_class_jar/ossRelease/generateOssReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="org.connectbot"
+      generatedSourceFolders="build/generated/ksp/ossRelease/java:build/generated/ksp/ossRelease/kotlin:build/generated/ap_generated_sources/ossRelease/out:build/generated/source/buildConfig/oss/release"
+      desugaredMethodsFiles="/Users/liuhu/.gradle/caches/9.5.1/transforms/1d1dedd1df10752e1737ed0dbfea55af/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

@@ -1,0 +1,11 @@
+org.connectbot.app-res-0 /Users/liuhu/github/connectbot/app/build/generated/res/easylauncherGoogleDebug
+org.connectbot.app-updated_navigation_xml-1 /Users/liuhu/github/connectbot/app/build/generated/updated_navigation_xml/googleDebug
+org.connectbot.app-googleDebug-2 /Users/liuhu/github/connectbot/app/build/intermediates/generated_locale_config_incremental_dir/googleDebug/generateGoogleDebugLocaleConfig
+org.connectbot.app-packageGoogleDebugResources-3 /Users/liuhu/github/connectbot/app/build/intermediates/incremental/googleDebug/packageGoogleDebugResources/merged.dir
+org.connectbot.app-packageGoogleDebugResources-4 /Users/liuhu/github/connectbot/app/build/intermediates/incremental/googleDebug/packageGoogleDebugResources/stripped.dir
+org.connectbot.app-googleDebug-5 /Users/liuhu/github/connectbot/app/build/intermediates/merged_res/googleDebug/mergeGoogleDebugResources
+org.connectbot.app-debug-6 /Users/liuhu/github/connectbot/app/src/debug/res
+org.connectbot.app-google-7 /Users/liuhu/github/connectbot/app/src/google/res
+org.connectbot.app-googleDebug-8 /Users/liuhu/github/connectbot/app/src/googleDebug/res
+org.connectbot.app-main-9 /Users/liuhu/github/connectbot/app/src/main/res
+gradleHome-0 /Users/liuhu/.gradle

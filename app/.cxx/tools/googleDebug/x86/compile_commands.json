@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/liuhu/github/connectbot/app/.cxx/Debug/6w3x19x6/x86",
+  "command": "/Users/liuhu/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/liuhu/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcom_google_ase_Exec_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/com_google_ase_Exec.dir/src/main/cpp/com_google_ase_Exec.cpp.o -c /Users/liuhu/github/connectbot/app/src/main/cpp/com_google_ase_Exec.cpp",
+  "file": "/Users/liuhu/github/connectbot/app/src/main/cpp/com_google_ase_Exec.cpp"
+}
+]

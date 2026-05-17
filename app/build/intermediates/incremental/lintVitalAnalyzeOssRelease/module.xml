@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/liuhu/github/connectbot/app"
+    name=":app"
+    type="APP"
+    maven="connectbot:app:unspecified"
+    agpVersion="9.2.1"
+    buildFolder="build"
+    bootClassPath="/Users/liuhu/Library/Android/sdk/platforms/android-37.0/android.jar:/Users/liuhu/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-37.0"
+    highlightGradualR8Api="false">
+  <lintOptions
+      lintConfig="lint.xml"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="ossRelease"/>
+</lint-module>

@@ -1,0 +1,3 @@
+/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86_64/CMakeFiles/com_google_ase_Exec.dir
+/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86_64/CMakeFiles/edit_cache.dir
+/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86_64/CMakeFiles/rebuild_cache.dir

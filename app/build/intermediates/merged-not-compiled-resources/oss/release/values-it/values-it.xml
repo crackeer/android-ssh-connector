@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nuova notifica</item>
+    <item quantity="other">%d nuove notifiche</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Portami a casa"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Torna indietro"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Scelta di un\'app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"ALT +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"CTRL +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"CANC"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"INVIO"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"FUNZIONE +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"META +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"MAIUSC +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"SPAZIO"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"SYM +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"MENU +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Condividi tramite <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="alert_disconnect_msg">Connessione persa</string>
+    <string name="alert_passwords_do_not_match_msg">Le password non corrispondono!</string>
+    <string name="alert_wrong_password_msg">Password errata!</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Compilazione automatica"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Compilazione automatica"</string>
+    <string name="app_copyright">Copyright © Kenny Root</string>
+    <string name="app_desc">Un client SSH semplice, potente ed open source.</string>
+    <string name="app_is_running">ConnectBot è in esecuzione</string>
+    <string name="auth_prompt_subtitle">Verifica la tua identità per continuare</string>
+    <string name="auth_prompt_title">Sblocca ConnectBot</string>
+    <string name="auth_screen_title">ConnectBot è bloccato</string>
+    <string name="auth_screen_unlock_button">Tocca per sbloccare</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"Per continuare, devi usare i tuoi dati biometrici o il tuo blocco schermo"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"Usa i tuoi dati biometrici per continuare"</string>
+    <string name="bottomsheet_action_collapse">Comprimi</string>
+    <string name="bottomsheet_action_collapse_description">Comprimi il riquadro inferiore</string>
+    <string name="bottomsheet_action_expand">Espandi</string>
+    <string name="bottomsheet_action_expand_description">Espandi il riquadro inferiore</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+    <string name="bottomsheet_action_half_expand_description">Espandi parzialmente il riquadro inferiore</string>
+    <string name="bottomsheet_drag_handle_content_description">Punto di trascinamento</string>
+    <string name="bottomsheet_state_collapsed">Compresso</string>
+    <string name="bottomsheet_state_expanded">Espanso</string>
+    <string name="bottomsheet_state_half_expanded">Parzialmente espanso</string>
+    <string name="button_add">Aggiungi</string>
+    <string name="button_add_custom">Aggiungi personalizzato…</string>
+    <string name="button_back">Indietro</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="button_close">Chiudi</string>
+    <string name="button_collapse">Comprimi</string>
+    <string name="button_confirm">Conferma</string>
+    <string name="button_delete_scheme">Cancella</string>
+    <string name="button_duplicate_scheme">Duplica</string>
+    <string name="button_edit_palette">Modifica palette</string>
+    <string name="button_export_scheme">Esporta schema</string>
+    <string name="button_host_options">Opzioni host</string>
+    <string name="button_import">Importa</string>
+    <string name="button_import_scheme">Schema di importazione</string>
+    <string name="button_key_ctrl">Ctrl</string>
+    <string name="button_key_end">Fine</string>
+    <string name="button_key_esc">Esc</string>
+    <string name="button_key_f1">F1</string>
+    <string name="button_key_f10">F10</string>
+    <string name="button_key_f11">F11</string>
+    <string name="button_key_f12">F12</string>
+    <string name="button_key_f2">F2</string>
+    <string name="button_key_f3">F3</string>
+    <string name="button_key_f4">F4</string>
+    <string name="button_key_f5">F5</string>
+    <string name="button_key_f6">F6</string>
+    <string name="button_key_f7">F7</string>
+    <string name="button_key_f8">F8</string>
+    <string name="button_key_f9">F9</string>
+    <string name="button_key_home">Home</string>
+    <string name="button_key_pgdn">PgGiù</string>
+    <string name="button_key_pgup">PgSu</string>
+    <string name="button_manage_custom">Gestisci le configurazioni personalizzate…</string>
+    <string name="button_manage_schemes">Gestisci schemi</string>
+    <string name="button_more_options">Altre opzioni</string>
+    <string name="button_navigate_up">Naviga verso l\'alto</string>
+    <string name="button_new_scheme">Nuovo schema</string>
+    <string name="button_no">No</string>
+    <string name="button_ok">OK</string>
+    <string name="button_remove">Rimuovi</string>
+    <string name="button_rename_scheme">Rinomina</string>
+    <string name="button_reset_all_colors">Reimposta tutto</string>
+    <string name="button_resize">Ridimensiona</string>
+    <string name="button_send">Invia</string>
+    <string name="button_yes">Sì</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Rispondi"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Rifiuta"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Riaggancia"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Chiamata in arrivo"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chiamata in corso"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Applicazione filtro a chiamata in arrivo"</string>
+    <string name="character_counter_content_description">%1$d caratteri inserirti su %2$d</string>
+    <string name="character_counter_overflowed_content_description">Sono presenti %2$d caratteri in più rispetto al limite di %1$d</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
+    <string msgid="406453423630273620" name="close_drawer">"Chiudi il menu di navigazione"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Chiudi il foglio"</string>
+    <string name="color_amber">Ambra</string>
+    <string name="color_bg_label">CS: %1$d</string>
+    <string name="color_blue">Blu</string>
+    <string name="color_cyan">Ciano</string>
+    <string name="color_deep_purple">Purple profondo</string>
+    <string name="color_gray">Grigio</string>
+    <string name="color_green">Verde</string>
+    <string name="color_indigo">Indigo</string>
+    <string name="color_light_blue">Azzurro Chiaro</string>
+    <string name="color_light_green">Verde Chiaro</string>
+    <string name="color_lime">Limetta</string>
+    <string name="color_orange">Arancione</string>
+    <string name="color_pink">Rosa</string>
+    <string name="color_purple">Viola</string>
+    <string name="color_red">Rosso</string>
+    <string name="color_teal">Turchese</string>
+    <string name="color_yellow">Giallo</string>
+    <string name="colors_fg_label">CP: %1$d</string>
+    <string name="colorscheme_default">Predefinito</string>
+    <string name="colorscheme_default_description">Colori del terminale predefiniti</string>
+    <string name="colorscheme_dracula_description">Un tema scuro per il terminale</string>
+    <string name="colorscheme_gruvbox_dark_description">Schema dei colori del groove retrò</string>
+    <string name="colorscheme_monokai_description">Tema ispirato a Sublime Text</string>
+    <string name="colorscheme_nord_description">Una tavolozza di colori artica azzurro nordica</string>
+    <string name="colorscheme_solarized_dark_description">Colori precisi per macchine e persone</string>
+    <string name="colorscheme_solarized_light_description">Solarizzato con sfondo chiaro</string>
+    <string name="colorscheme_tomorrow_night_description">Un tema scuro pulito e confortevole</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Utilizza password"</string>
+    <string name="connect_anyway">Connettiti comunque</string>
+    <string name="console_default_title">Console</string>
+    <string name="console_menu_close">Chiudi</string>
+    <string name="console_menu_paste">Incolla</string>
+    <string name="console_menu_portforwards">Inoltro porte</string>
+    <string name="console_menu_reconnect">Riconnetti</string>
+    <string name="console_menu_resize">Forza Dimensione</string>
+    <string name="console_menu_text_input">Inserimento di testo</string>
+    <string name="console_menu_urlscan">Scansione URL</string>
+    <string name="console_url_no_handler">Nessuna app disponibile per aprire questo URL</string>
+    <string name="console_url_not_supported">Questo tipo di URL non è supportato</string>
+    <string msgid="6083905920877235314" name="copy">"Copia"</string>
+    <string name="copy_logs">Copia registri</string>
+    <string name="decrease_font_shortcut">Ctrl e -</string>
+    <string name="decrease_font_size">Diminuisce la dimensione del carattere</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Valore non valido"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Errore sconosciuto"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Finestra popup"</string>
+    <string name="delete_host_confirm">Sei sicuro di voler eliminare lhost \'%1$s\'?</string>
+    <string name="delete_message">Sei sicuro di voler eliminare \'%1$s\'?</string>
+    <string name="delete_neg">Annulla</string>
+    <string name="delete_pos">Sì, elimina</string>
+    <string name="dialog_custom_value_label">Inserisci valore personalizzato</string>
+    <string name="dialog_customfont_hint">Nome del font di Google ad esempio Cascadia Code</string>
+    <string name="dialog_customfont_title">Aggiungi font personalizzato</string>
+    <string name="dialog_customterminal_hint">Tipo di terminale ad esempio rxvt-unicode</string>
+    <string name="dialog_customterminal_title">Aggiungi tipo di terminale personalizzato</string>
+    <string name="dialog_localfont_hint">Nome visualizzato per il carattere</string>
+    <string name="dialog_localfont_title">Importa Carattere</string>
+    <string name="dialog_manage_customterminal_title">Gestisci i tipi di terminale personalizzati</string>
+    <string name="dialog_message_delete_scheme">Sei sicuro di voler eliminare \"%1$s\"? Questo azione non può essere annullata.</string>
+    <string name="dialog_message_reset_all">Questa operazione ripristinerà i valori predefiniti di tutti i 256 colori. Questa azione non può essere annullata.</string>
+    <string name="dialog_title_delete_scheme">Elimina schema?</string>
+    <string name="dialog_title_edit_color">Modifica Colore %1$d</string>
+    <string name="dialog_title_new_scheme">Nuovo schema di colori</string>
+    <string name="dialog_title_rename_scheme">Rinomina Schema Colore</string>
+    <string name="dialog_title_reset_all">Reimposta tutti i colori?</string>
+    <string name="disconnect_all_message">Disconnettersi da tutti gli host connessi?</string>
+    <string name="disconnect_all_neg">Annulla</string>
+    <string name="disconnect_all_pos">Sì, disconnettiti</string>
+    <string name="disconnect_host_alert">Sei sicuro di voler disconnettere da \'%1$s\'?</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu a discesa"</string>
+    <string name="empty_custom_schemes">Nessuno schema personalizzato. Tocca \"Nuovo schema\" per crearne uno.</string>
+    <string name="empty_hosts_message">Nessun host configurato</string>
+    <string name="empty_port_forwards_message">Nessun inoltro di porta configurato.</string>
+    <string name="empty_pubkeys_message">Nessuna chiave trovata.</string>
+    <string name="empty_urls_message">Nessun URL trovato nel buffer del terminale</string>
+    <string name="error_a11y_label">Errore: non valido</string>
+    <string name="error_color_scheme_load_failed">Impossibile caricare lo schema dei colori %s</string>
+    <string name="error_connection_failed">Impossibile connettersi a %1$s (%2$s) %3$s</string>
+    <string name="error_export_failed">Impossibile esportare lo schema %1$s</string>
+    <string name="error_host_save_failed">Impossibile salvare host %1$s %2$s</string>
+    <string name="error_icon_content_description">Errore</string>
+    <string name="error_import_failed">Impossibile importare lo schema %1$s</string>
+    <string name="error_invalid_json">File JSON non valido</string>
+    <string name="error_key_load_failed">Impossibile caricare la chiave \'%1$s\': %2$s</string>
+    <string name="error_port_forward_load_failed">Impossibile caricare le reindirizzazioni delle porte per %1$s %2$s</string>
+    <string name="expand">Espandi</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avanzate"</string>
+    <string name="export_hosts_failed">Impossibile esportare l\'elenco degli host: %s</string>
+    <string name="export_hosts_success">Esportati %1$d host e %2$d profili</string>
+    <string name="export_hosts_title">Esporta gli host</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra il menu a discesa</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"Per continuare, devi usare il tuo volto o il tuo blocco schermo"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"Usa il tuo volto per continuare"</string>
+    <string name="fingerprint_copy_description">Copia impronta digitale negli appunti</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Icona dell\'impronta"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Tocca sensore impronte"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware per l\'impronta non disponibile."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Questo dispositivo non è dotato di sensore di impronte"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"È stato effettuato un numero eccessivo di tentativi. Riprova più tardi."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Nessuna impronta digitale registrata."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Operazione di autenticazione dell\'impronta annullata dall\'utente."</string>
+    <string name="fingerprint_format_header">Formato dell\'impronta digitale</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Non riconosciuta"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"Per continuare, devi usare la tua impronta o il tuo blocco schermo"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"Usa la tua impronta per continuare"</string>
+    <string name="font_downloading">Scaricamento del font in corso…</string>
+    <string name="font_importing">Importazione del carattere…</string>
+    <string name="font_system_default">Predefinito (Monospazio)</string>
+    <string name="font_use_default">Usa predefinito</string>
+    <string name="font_validating">Convalida del carattere…</string>
+    <string name="forget_host_keys_confirm">Sei sicuro di voler cancellare le chiavi host salvate per \'%1$s\'? Alla prossima connessione, ti verrà chiesto di verificare la chiave host.</string>
+    <string name="format_hostname">nome host</string>
+    <string name="format_port">porta</string>
+    <string name="format_username">nome utente</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Non hai impostato PIN, sequenza o password."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Questo dispositivo non supporta il PIN, la sequenza o la password."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Autenticazione annullata dall\'utente."</string>
+    <string name="grant_permission">Consenti</string>
+    <string name="help_donate_coffee">Offrimi un caffè</string>
+    <string name="help_donate_github">GitHub Sponsors</string>
+    <string name="help_github">Codice sorgente</string>
+    <string name="help_report_bug">Segnala un bug</string>
+    <string name="help_section_about">Informazioni</string>
+    <string name="help_section_contact">Contatti e assistenza</string>
+    <string name="help_section_donate">Supporta lo sviluppo</string>
+    <string name="help_website">Sito web</string>
+    <string name="hints">Suggerimenti</string>
+    <string name="host_authenticity_warning">L\'autenticità dell\'host \'%1$s\' non può essere accertata.</string>
+    <string name="host_duplicate_nickname">%1$s (copia)</string>
+    <string name="host_editor_hide_advanced">Nascondi opzioni avanzate</string>
+    <string name="host_editor_quick_connect_example">Esempio root\@192.168.1.122</string>
+    <string name="host_editor_quick_connect_label">Collegamento rapido</string>
+    <string name="host_editor_quick_connect_placeholder">utente\@nomehost:porta</string>
+    <string name="host_editor_show_advanced">Mostra opzioni avanzate</string>
+    <string name="host_fingerprint">L\'impronta digitale della chiave dell\'Host %1$s è %2$s</string>
+    <string name="host_key_type_and_size">%1$s %2$d bit</string>
+    <string name="host_key_verification_title">Verifica della chiave host</string>
+    <string name="host_verification_failure_warning">E\' POSSIBILE CHE QUALCUNO STIA FACENDO QUALCOSA DI MALEVOLO!\nQualcuno potrebbe spiarti in questo momento (attacco man-in-the-middle)!\nMa è anche possibile che la chiave dell\'host sia cambiata.</string>
+    <string name="host_verification_failure_warning_header">ATTENZIONE: L\'IDENTIFICAZIONE DELL\'HOST REMOTO E\' CAMBIATA!</string>
+    <string name="hostpref_add_host">Aggiungi host</string>
+    <string name="hostpref_authagent_title">Usa l\'agente di autorizzazione SSH</string>
+    <string name="hostpref_authagent_with_confirmation">richiedi conferma</string>
+    <string name="hostpref_clear_password">Cancella password salvata</string>
+    <string name="hostpref_color_title">Categoria colore</string>
+    <string name="hostpref_colorscheme_title">Schema dei colori del terminale</string>
+    <string name="hostpref_compression_summary">Può essere utile con connessioni lente</string>
+    <string name="hostpref_compression_title">Compressione</string>
+    <string name="hostpref_delkey_title">Tasto CANC</string>
+    <string name="hostpref_encoding_title">Codifica</string>
+    <string name="hostpref_fontfamily_title">Carattere</string>
+    <string name="hostpref_fontsize_title">Dimensione caratteri (pt)</string>
+    <string name="hostpref_hostname_title">Host</string>
+    <string name="hostpref_ipversion_summary">Seleziona la versione dell\'indirizzo IP da utilizzare per la connessione</string>
+    <string name="hostpref_ipversion_title">Versione IP</string>
+    <string name="hostpref_jumphost_summary">Connetti attraverso un altro host SSH</string>
+    <string name="hostpref_jumphost_title">Host di salto ProxyJump</string>
+    <string name="hostpref_nickname_title">Soprannome</string>
+    <string name="hostpref_password_title">Password</string>
+    <string name="hostpref_password_unchanged">Password (invariata)</string>
+    <string name="hostpref_port_title">Porta</string>
+    <string name="hostpref_postlogin_summary">Comandi da eseguire su un server remoto una volta autenticati</string>
+    <string name="hostpref_postlogin_title">Automazione post-accesso</string>
+    <string name="hostpref_profile_none">Nessuno (usa le impostazioni dellhost)</string>
+    <string name="hostpref_profile_summary">Seleziona un profilo per utilizzare le sue impostazioni del terminale</string>
+    <string name="hostpref_profile_title">Profilo</string>
+    <string name="hostpref_pubkeyid_title">Usa autenticazione a chiave pubblica</string>
+    <string name="hostpref_quickdisconnect_summary">Chiudi immediatamente senza conferma dopo la disconnessione del computer remoto.</string>
+    <string name="hostpref_quickdisconnect_title">Chiudi alla disconnessione</string>
+    <string name="hostpref_save_host">Salva host</string>
+    <string name="hostpref_save_password_summary">Memorizza in modo sicuro la password di accesso per l\'autenticazione automatica</string>
+    <string name="hostpref_setting_title">Impostazione host</string>
+    <string name="hostpref_stayconnected_summary">Tenta di riconnettersi in caso di disconnessione</string>
+    <string name="hostpref_stayconnected_title">Mantieni connessioni</string>
+    <string name="hostpref_username_title">Nome utente</string>
+    <string name="hostpref_wantsession_summary">Disabilita questa preferenza per usare solo port forward</string>
+    <string name="hostpref_wantsession_title">Avvia sessione shell</string>
+    <string name="icon_content_description">Icona della finestra di dialogo</string>
+    <string name="icon_style_cloud">Cloud</string>
+    <string name="icon_style_key">Chiave</string>
+    <string name="icon_style_server">Server</string>
+    <string name="icon_style_terminal">Terminale</string>
+    <string name="image_description_connected">Connesso.</string>
+    <string name="image_description_disconnected">Disconnesso.</string>
+    <string name="image_description_down">Freccia giù</string>
+    <string name="image_description_hide_keyboard">Nascondi tastiera.</string>
+    <string name="image_description_left">Freccia sinistra</string>
+    <string name="image_description_right">Freccia destra</string>
+    <string name="image_description_send_escape_character">Mandare un carattere escape.</string>
+    <string name="image_description_send_tab_character">Invia carattere TAB.</string>
+    <string name="image_description_show_keyboard">Mostra la tastiera.</string>
+    <string name="image_description_toggle_control_character">"Alterna  il carattere di controllo."</string>
+    <string name="image_description_up">Freccia su</string>
+    <string name="import_hosts_failed">Impossibile importare gli host: %s</string>
+    <string name="import_hosts_success">Importati %1$d host (saltati %2$d) e %3$d profili (saltati %4$d)</string>
+    <string msgid="6827826412747255547" name="in_progress">"In corso"</string>
+    <string name="increase_font_shortcut">Ctrl e +</string>
+    <string name="increase_font_size">Aumenta dimensione carattere</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Elemento parzialmente selezionato"</string>
+    <string name="ipversion_auto">Automatico</string>
+    <string name="ipversion_ipv4">Solo IPv4</string>
+    <string name="ipversion_ipv6">Solo IPv6</string>
+    <string name="item_view_role_description">Scheda</string>
+    <string name="keyboard_shortcuts">Scorciatoie da tastiera</string>
+    <string name="label_background_color">Sfondo</string>
+    <string name="label_base_scheme">Schema di base:</string>
+    <string name="label_blue">Blu</string>
+    <string name="label_built_in_scheme">Integrato</string>
+    <string name="label_custom_scheme">Personalizzato</string>
+    <string name="label_foreground_color">In primo piano</string>
+    <string name="label_green">Verde</string>
+    <string name="label_hex_color">Colore Esadecimale</string>
+    <string name="label_red">Rosso</string>
+    <string name="label_scheme_description">Descrizione facoltativa</string>
+    <string name="label_scheme_name">Nome dello schema</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A poi Spazio</string>
+    <string name="list_camera_ctrlaspace_description">Ctrl+A poi spazio</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description">Esc+A</string>
+    <string name="list_camera_esc_description">Esc</string>
+    <string name="list_camera_none">Niente</string>
+    <string name="list_camera_none_description">Nessuno</string>
+    <string name="list_camera_text_input">Inserimento di testo</string>
+    <string name="list_camera_text_input_description">Inserimento di testo</string>
+    <string name="list_color_schemes">Schemi di colori</string>
+    <string name="list_host_delete">Elimina connessione</string>
+    <string name="list_host_disconnect">Disconnetti</string>
+    <string name="list_host_duplicate">Host duplicato</string>
+    <string name="list_host_edit">Modifica connessione</string>
+    <string name="list_host_forget_keys">Dimentica le chiavi host</string>
+    <string name="list_host_portforwards">Modifica inoltri porta</string>
+    <string name="list_jumphost_none">Nessuno collegamento diretto</string>
+    <string name="list_keymode_left">Usa tasti sul lato sinistro</string>
+    <string name="list_keymode_none">Disabilita</string>
+    <string name="list_keymode_right">Usa tasti sul lato destro</string>
+    <string name="list_menu_disconnect">Disconnetti tutto</string>
+    <string name="list_menu_export_hosts">Esporta gli host</string>
+    <string name="list_menu_import_hosts">Importa gli host</string>
+    <string name="list_menu_pubkeys">Gestione chiavi pubbliche</string>
+    <string name="list_menu_settings">Impostazioni</string>
+    <string name="list_menu_sortcolor">Ordina per colore</string>
+    <string name="list_menu_sortname">Ordina per nome</string>
+    <string name="list_pubkey_edit">Modifica chiave pubblica</string>
+    <string name="list_pubkeyids_any">Usa qualsiasi chiave sbloccata</string>
+    <string name="list_pubkeyids_none">Non usare chiavi</string>
+    <string name="list_rotation_auto">Automatica</string>
+    <string name="list_rotation_default">Predefinita</string>
+    <string name="list_rotation_land">Forza orizzontale</string>
+    <string name="list_rotation_port">Forza verticale</string>
+    <string name="loading_message">Caricamento…</string>
+    <string name="local_shell_unavailable">Fallimento! La shell locale non è disponibile su questo telefono.</string>
+    <string name="logs_bug_report_info">Per segnalare un errore copia questi log e apri una nuova richiesta su https://connectbot.org/bug</string>
+    <string name="logs_copied">Registri copiati negli appunti</string>
+    <string name="logs_title">Registri dell\'applicazione</string>
+    <string name="m3_loading_indicator_content_description">Caricamento in corso…</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Menu extra</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Altre opzioni</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Comprimi il riquadro inferiore"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Chiudi il riquadro inferiore"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Punto di trascinamento"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Espandi il riquadro inferiore"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Riquadro inferiore"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Altre opzioni"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Data inserita"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Data inserita: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"La data non corrisponde al pattern previsto: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Data non consentita: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"La data non rientra nell\'intervallo di anni previsto (%1$s-%2$s)"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Data"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Nessuna selezione"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Seleziona data"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Data selezionata"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Selezione attuale: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Vai all\'anno %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Nessuna selezione"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Scorri per visualizzare gli anni precedenti"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Scorri per visualizzare gli anni successivi"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Passa alla modalità di immissione calendario"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Scorri per selezionare un anno o tocca per tornare alla selezione di un giorno"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Passa alla modalità di immissione testo"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Passa al mese successivo"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Passa al mese precedente"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Passa alla selezione di un anno"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Seleziona data"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Oggi"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Selettore dell\'anno visibile"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Intervallo di date inserito non valido"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Inserisci date"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Nell\'intervallo"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Data di fine"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Scorri per visualizzare il mese successivo"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Scorri per visualizzare il mese precedente"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Data di inizio"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Seleziona date"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Finestra di dialogo"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Compresso"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Espanso"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Attiva/disattiva menu a discesa"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Comprimi la barra degli strumenti"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Espandi la barra degli strumenti"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Altre opzioni"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Cerca"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Chiudi"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Avviso"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Suggerimenti sotto"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Inserisci l\'ora"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Seleziona l\'ora"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Ora"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ore"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"L\'ora deve essere 1-12"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"L\'ora deve essere 0-23"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Seleziona l\'ora"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d in punto"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"per l\'ora"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuto"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"Il minuto deve essere 0-59"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Seleziona i minuti"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuti"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"per i minuti"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Seleziona AM o PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Passa alla modalità di immissione testo"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Passa alla modalità orologio"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Mostra descrizione comando"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Descrizione comando"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Chiudi modalità laterale"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Modalità di navigazione laterale"</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_24h_suffix">%1$s ore</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">%1$s in punto</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_slider_range_end">Fine intervallo</string>
+    <string name="material_slider_range_start">Inizio intervallo</string>
+    <string name="material_slider_value">Valore</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Passa alla modalità orologio</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_hour_error">Ora deve essere 1-12</string>
+    <string name="material_timepicker_hour_error_24h">Ora deve essere 0-23</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_minute_error">Minuto deve essere 0-59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Seleziona l\'ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di immissione testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Passa alla modalità di immissione testo</string>
+    <string name="menu_colors_reset">Reimposta</string>
+    <string name="menu_manage_colors">Gestisci gli schemi di colori</string>
+    <string name="message_export_success">Esportato %1$s</string>
+    <string name="message_import_success">Importato %1$s</string>
+    <string name="migration_checking">Controllo del database…</string>
+    <string name="migration_copy_debug_log">Copia registro di debug</string>
+    <string name="migration_copy_warnings">Copia Avvisi</string>
+    <string name="migration_debug_log_title">Registro di debug</string>
+    <string name="migration_failed_help">Se il problema persiste si prega di segnalare questo problema su %1$s con il log di debug copiato sopra</string>
+    <string name="migration_failed_message">Si è verificato un errore durante la migrazione del database %s</string>
+    <string name="migration_failed_title">Migrazione Fallita</string>
+    <string name="migration_retry">Riprova</string>
+    <string name="migration_stats_hosts">Host migrati %d</string>
+    <string name="migration_stats_known_hosts">Host noti migrati %d</string>
+    <string name="migration_stats_port_forwards">Inoltro porte migrato %d</string>
+    <string name="migration_stats_pubkeys">Chiavi SSH migrate: %d</string>
+    <string name="migration_title">Migrazione del database</string>
+    <string name="migration_warning">Per favore non chiudere l\'app durante la migrazione</string>
+    <string name="migration_warnings_title">Avvisi di migrazione</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+    <string name="mtrl_button_collapsed_content_description">Compresso</string>
+    <string name="mtrl_button_expanded_content_description">Espanso</string>
+    <string name="mtrl_button_overflow_icon_content_description">Menu extra</string>
+    <string name="mtrl_button_snackbar_close_content_description">Chiudi</string>
+    <string name="mtrl_checkbox_state_description_checked">Selezionata</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parzialmente selezionata</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Non selezionata</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+    <string name="mtrl_picker_announce_current_range_selection">Selezione della data di inizio: %1$s - Selezione della data di fine: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">Nessuna selezione</string>
+    <string name="mtrl_picker_cancel">Annulla</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Data di fine: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Vai all\'anno corrente %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Mese successivo</string>
+    <string name="mtrl_picker_out_of_range">Non compresa nell\'intervallo: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Visualizzazione Calendario</string>
+    <string name="mtrl_picker_pane_title_year_view">Visualizzazione Anno</string>
+    <string name="mtrl_picker_prev_month_tooltip">Mese precedente</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio - Data di fine</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_start_date_description">Data di inizio: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Oggi %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di immissione Calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Passa a calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Passa alla visualizzazione Calendario</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione Testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Passa alla modalità di immissione testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Passa alla visualizzazione Anno</string>
+    <string name="mtrl_timepicker_cancel">Annulla</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu di navigazione"</string>
+    <string name="network_grace_period_expired">Rete non ripristinata, disconnetto…</string>
+    <string name="network_lost_grace_period">Rete persa in attesa di riconnessione…</string>
+    <string name="network_restored_ip_changed">Rete ripristinata ma indirizzo IP cambiato, riconnessione in corso…</string>
+    <string name="network_restored_no_previous_state">Rete ripristinata, verifica della connessione…</string>
+    <string name="network_restored_same_ip">Rete ripristinata connessione mantenuta</string>
+    <string name="no">No</string>
+    <string name="no_logs_available">Nessun log disponibile</string>
+    <string msgid="6610465462668679431" name="not_selected">"Opzione non selezionata"</string>
+    <string msgid="6573031135582639649" name="not_set">"Non impostato"</string>
+    <string name="notification_permission_console_warning">La connessione potrebbe interrompersi in background</string>
+    <string name="notification_permission_denied_message">Per mantenere attive le connessioni in background, abilita le notifiche per ConnectBot nelle impostazioni di sistema.</string>
+    <string name="notification_permission_denied_snackbar">Le connessioni potrebbero interrompersi senza preavviso</string>
+    <string name="notification_permission_denied_title">È necessario il permesso per le notifiche</string>
+    <string name="notification_permission_message">ConnectBot richiede il permesso di inviare notifiche per mantenere attive le connessioni quando si passa da un\'app all\'altra. In caso contrario, il sistema potrebbe interrompere le connessioni per risparmiare batteria.</string>
+    <string name="notification_permission_title">Rimani connesso in background</string>
+    <string name="notification_text">%1$s richiede la tua attenzione.</string>
+    <string name="only_alt">Solo alt</string>
+    <string name="open_settings">Apri le impostazioni</string>
+    <string name="palette_editor_builtin_note">Gli schemi predefiniti sono di sola lettura. Duplicarli per personalizzarli.</string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="paste_shortcut">Ctrl-Shift-V</string>
+    <string name="portforward_delete">Elimina inoltro porta</string>
+    <string name="portforward_destination_format_error">Il formato deve essere host:porta ad esempio localhost:80</string>
+    <string name="portforward_destination_placeholder">localhost80</string>
+    <string name="portforward_disable">Disabilita</string>
+    <string name="portforward_disabled">Inoltro della porta disabilitato</string>
+    <string name="portforward_dynamic">Dinamica (SOCKS)</string>
+    <string name="portforward_edit">Modifica inoltro porte</string>
+    <string name="portforward_enable">Abilita</string>
+    <string name="portforward_enabled">Inoltro della porta abilitato</string>
+    <string name="portforward_host_address" ns2:machine_translated="true">Indirizzo host</string>
+    <string name="portforward_local">Locale</string>
+    <string name="portforward_nickname_placeholder">Server web interno</string>
+    <string name="portforward_port_range_error">La porta deve essere compresa tra 1 e 65535</string>
+    <string name="portforward_pos">Crea inoltro porta</string>
+    <string name="portforward_remote">Remota</string>
+    <string name="portforward_save">Salva</string>
+    <string name="portforward_source_addr_all" ns2:machine_translated="true">Tutti gli indirizzi</string>
+    <string name="portforward_source_addr_all_ipv4" ns2:machine_translated="true">Tutti gli indirizzi IPv4</string>
+    <string name="portforward_source_addr_all_ipv6" ns2:machine_translated="true">Tutti gli indirizzi IPv6</string>
+    <string name="portforward_source_addr_localhost" ns2:machine_translated="true">localhost</string>
+    <string name="portforward_source_addr_localhost_ipv4" ns2:machine_translated="true">localhost (solo IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" ns2:machine_translated="true">localhost (solo IPv6)</string>
+    <string name="portforward_source_addr_specific" ns2:machine_translated="true">Indirizzo specifico</string>
+    <string name="portforward_source_addr_specific_placeholder" ns2:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label">Tipo: %s</string>
+    <string name="pref_alwaysvisible_summary">Mantieni sempre visibili i tasti speciali</string>
+    <string name="pref_alwaysvisible_title">Tasti speciali sempre visibili</string>
+    <string name="pref_auth_on_launch_summary">Richiedi l\'impronta digitale, il riconoscimento facciale o il PIN del dispositivo all\'apertura dell\'app</string>
+    <string name="pref_auth_on_launch_title">Autenticazione all\'avvio</string>
+    <string name="pref_backupkeys_summary">Mantenere una copia delle chiavi private tramite il meccanismo di backup di Android</string>
+    <string name="pref_backupkeys_title">Backup delle chiavi pubbliche</string>
+    <string name="pref_bell_category">Campanella del terminale</string>
+    <string name="pref_bell_notification_summary">Invia una notifica quando un terminale eseguito in sottofondo suona una campanella.</string>
+    <string name="pref_bell_notification_title">Notifiche in sottofondo</string>
+    <string name="pref_bell_summary">Suona un suono all avviso del terminale</string>
+    <string name="pref_bell_title">Campanella udibile</string>
+    <string name="pref_bell_vibrate_summary">Vibra all avviso del terminale</string>
+    <string name="pref_bell_vibrate_title">Vibra alla campanella</string>
+    <string name="pref_bell_volume_title">Volume della campanella</string>
+    <string name="pref_bumpyarrows_summary">Vibra durante l\'invio dei tasti freccia; utile per connessioni lente</string>
+    <string name="pref_bumpyarrows_title">Vibrazione frecce</string>
+    <string name="pref_camera_title">Scorciatoia camera</string>
+    <string name="pref_conn_persist_summary">Mantieni le sessioni aperte anche quando passi ad altre app</string>
+    <string name="pref_conn_persist_title">Rimani connesso in background</string>
+    <string name="pref_ctrlfkeys_summary">Con le tastiere hardware, i tasti numerici inviano F1-F10 con ctrl</string>
+    <string name="pref_ctrlfkeys_title">Ctrl+num sono tasti funzione</string>
+    <string name="pref_customfont_summary">Aggiungi un carattere da Google Fonts per nome</string>
+    <string name="pref_customfont_title">Aggiungi font personalizzato</string>
+    <string name="pref_customterminal_summary">Aggiungi valori personalizzati di TERM per i server remoti</string>
+    <string name="pref_customterminal_title">Tipi di terminale personalizzati</string>
+    <string name="pref_default_profile_none">Nessuno (usa le impostazioni dellhost)</string>
+    <string name="pref_default_profile_title">Profilo predefinito</string>
+    <string name="pref_emulation_category">Emulazione terminale</string>
+    <string name="pref_emulation_title">Modalità emulazione</string>
+    <string name="pref_fontfamily_title">Carattere</string>
+    <string name="pref_fullscreen_summary">Nascondi la barra di stato in console</string>
+    <string name="pref_fullscreen_title">Schermo intero</string>
+    <string name="pref_keepalive_summary">Impedisce lo spegnimento dello schermo quando si è collegati</string>
+    <string name="pref_keepalive_title">Impedisci lo spegnimento dello schermo</string>
+    <string name="pref_keyboard_category">Tastiera</string>
+    <string name="pref_keymode_title">Scorciatoie directory</string>
+    <string name="pref_language_download" ns2:machine_translated="true">Scarica il pacchetto lingue</string>
+    <string name="pref_language_download_failed" ns2:machine_translated="true">Download non riuscito, toccare per riprovare.</string>
+    <string name="pref_language_system_default">Impostazione predefinita del sistema</string>
+    <string name="pref_language_title">Lingua</string>
+    <string name="pref_localfont_summary">Importa un file di carattere dall\'archiviazione TTF OTF</string>
+    <string name="pref_localfont_title">Importa carattere locale</string>
+    <string name="pref_memkeys_summary">Mantiene le chiavi in memoria finché il servizio non viene terminato</string>
+    <string name="pref_memkeys_title">Mantieni chiavi in memoria</string>
+    <string name="pref_pg_updn_gesture_summary">Scorri con le dita nel primo terzo dello schermo a sinistra per scorrere di una pagina in su/giù nel terminale.</string>
+    <string name="pref_pg_updn_gesture_title">Gesto per pagina su/giù</string>
+    <string name="pref_profiles_category">Profili</string>
+    <string name="pref_rotation_title">Modalità rotazione</string>
+    <string name="pref_scrollback_summary">Dimensione del buffer scrollback da tenere in memoria per ciascuna console</string>
+    <string name="pref_scrollback_title">Dimensione scrollback</string>
+    <string name="pref_security_category">Sicurezza</string>
+    <string name="pref_shiftfkeys_summary">Con le tastiere hardware, i tasti numerici inviano F1-F10 con shift</string>
+    <string name="pref_shiftfkeys_title">Shift+num sono i tasti funzione</string>
+    <string name="pref_stickymodifiers_title">Tasti modificatori adesivi</string>
+    <string name="pref_theme_dark">Scuro</string>
+    <string name="pref_theme_light">Luminoso</string>
+    <string name="pref_theme_system">Impostazioni predefinite del sistema</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_titlebarhide_summary">Tocca la console per mostrare la barra del titolo e il menu principale</string>
+    <string name="pref_titlebarhide_title">Nascondi automaticamente la barra del titolo</string>
+    <string name="pref_ui_category">Interfaccia utente</string>
+    <string name="pref_volumefont_summary">La dimensione dei caratteri può essere modificata nelle impostazioni dei singoli host</string>
+    <string name="pref_volumefont_title">I pulsanti del volume cambiano la dimensione dei caratteri</string>
+    <string name="pref_wifilock_summary">Non spegne la connessione Wi-Fi quando una sessione è attiva</string>
+    <string name="pref_wifilock_title">Mantieni Wi-Fi attivo</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\"copiato negli appunti."</string>
+    <string name="profile_controlled_setting">Controllato dal profilo</string>
+    <string name="profile_create_button">Crea</string>
+    <string name="profile_create_cancel">Annulla</string>
+    <string name="profile_create_dialog_title">Crea Profilo</string>
+    <string name="profile_create_name_label">Nome Profilo</string>
+    <string name="profile_delete_button">Elimina</string>
+    <string name="profile_delete_cancel">Annulla</string>
+    <string name="profile_delete_dialog_message">Sei sicuro di voler eliminare \'%s\'?</string>
+    <string name="profile_delete_dialog_title">Elimina Profilo</string>
+    <string name="profile_editor_font_family_title">Famiglia di caratteri</string>
+    <string name="profile_editor_font_size_title">Dimensione del carattere: %d</string>
+    <string name="profile_editor_force_size_columns">Colonne</string>
+    <string name="profile_editor_force_size_enable">Abilita l\'impostazione forzata delle dimensioni</string>
+    <string name="profile_editor_force_size_rows">Righe</string>
+    <string name="profile_editor_force_size_summary">Imposta forzatamente le dimensioni del terminale (colonne x righe) invece di lasciarlo adattarsi automaticamente alle dimensioni dello schermo.</string>
+    <string name="profile_editor_force_size_title">Imposta dimensione forzata</string>
+    <string name="profile_editor_name_label">Nome Profilo</string>
+    <string name="profile_editor_save">Salva</string>
+    <string name="profile_editor_section_color_scheme">Schema dei colori</string>
+    <string name="profile_editor_section_font">Carattere</string>
+    <string name="profile_editor_section_icon_color">Colore Icona</string>
+    <string name="profile_editor_section_terminal">Terminale</string>
+    <string name="profile_editor_title_edit">Modifica Profilo</string>
+    <string name="profile_editor_title_new">Nuovo Profilo</string>
+    <string name="profile_icon_color_none">Nessuno (usa il colore dellhost)</string>
+    <string name="profile_list_create_profile">Crea profilo</string>
+    <string name="profile_list_delete">Cancella</string>
+    <string name="profile_list_duplicate">Duplica</string>
+    <string name="profile_list_empty_message">Nessun profilo ancora. Tocca + per crearne uno.</string>
+    <string name="profile_list_more_options">Altre opzioni</string>
+    <string name="profile_list_title">Profili</string>
+    <string name="profile_summary_emulation">Emulazione %s</string>
+    <string name="profile_summary_font">Carattere %1$s %2$dpt</string>
+    <string name="prompt_again">(ripeti)</string>
+    <string name="prompt_allow_agent_to_use_key">Permetti all\'host remoto di\n usare la chiave \'%1$s\'?</string>
+    <string name="prompt_bits">Bits:</string>
+    <string name="prompt_continue_connecting">Sei sicuro di voler\ncontinuare a connetterti?</string>
+    <string name="prompt_destination">Destinazione:</string>
+    <string name="prompt_host_disconnected">L\'host si è disconnesso.\nChiudere la sessione?</string>
+    <string name="prompt_nickname">Soprannome:</string>
+    <string name="prompt_old_password">Vecchia password:</string>
+    <string name="prompt_password">Password:</string>
+    <string name="prompt_password_can_be_blank">Nota: la password può essere vuota</string>
+    <string name="prompt_pubkey_password">Password per la chiave \'%1$s\'</string>
+    <string name="prompt_source_port">Porta sorgente:</string>
+    <string name="prompt_type">Tipo:</string>
+    <string name="prompt_username">Nome utente:</string>
+    <string name="protocol_spinner_label">Protocollo</string>
+    <string name="pubkey_biometric_description">Proteggi questa chiave con le tue impronte digitali</string>
+    <string name="pubkey_biometric_description_icon">Protetto da impronta digitale</string>
+    <string name="pubkey_biometric_key_type_warning">La protezione delle impronte digitali è disponibile solo per le chiavi RSA e EC</string>
+    <string name="pubkey_biometric_not_available">L\'autenticazione tramite impronta digitale non è disponibile</string>
+    <string name="pubkey_biometric_not_enrolled">Nessun\'impronta digitale registrata. Imposta le impronte digitali nelle impostazioni del dispositivo per utilizzare questa funzione.</string>
+    <string name="pubkey_biometric_prompt_subtitle">Tocca il sensore delle impronte digitali per sbloccare \'%1$s\'</string>
+    <string name="pubkey_biometric_prompt_title">Autentica per utilizzare la chiave</string>
+    <string name="pubkey_biometric_protection">Protezione delle impronte digitali</string>
+    <string name="pubkey_change_password">Cambia password</string>
+    <string name="pubkey_confirm_use">Conferma prima di usare</string>
+    <string name="pubkey_copy_private">Copia chiave privata</string>
+    <string name="pubkey_copy_private_encrypted">Copia chiave privata crittografata</string>
+    <string name="pubkey_copy_private_openssh">Copia chiave privata OpenSSH</string>
+    <string name="pubkey_copy_private_pem">Copia chiave privata PEM</string>
+    <string name="pubkey_copy_public">Copia chiave pubblica</string>
+    <string name="pubkey_delete">Elimina chiave</string>
+    <string name="pubkey_editor_encrypted_startup_warning">Le chiavi crittografate non possono essere sbloccate all avvio</string>
+    <string name="pubkey_editor_key_type_label">Tipo di chiave</string>
+    <string name="pubkey_editor_options_label">Opzioni</string>
+    <string name="pubkey_encrypted_description">Critografato</string>
+    <string name="pubkey_export_confirm_passphrase">Conferma la frase di accesso</string>
+    <string name="pubkey_export_passphrase_message">Inserisci una frase di accesso per crittografare la chiave esportata</string>
+    <string name="pubkey_export_passphrase_mismatch">Le passphrase non corrispondono</string>
+    <string name="pubkey_export_private">Esporta chiave privata</string>
+    <string name="pubkey_export_private_encrypted">Esporta chiave privata crittografata</string>
+    <string name="pubkey_export_private_openssh">Esporta chiave privata OpenSSH</string>
+    <string name="pubkey_export_private_pem">Esporta chiave privata PEM</string>
+    <string name="pubkey_export_public">Esporta chiave pubblica</string>
+    <string name="pubkey_export_set_passphrase">Imposta esporta passphrase</string>
+    <string name="pubkey_gather_entropy">Raccolta entropia</string>
+    <string name="pubkey_generate">Genera</string>
+    <string name="pubkey_generating">La coppia di chiavi viene generata…</string>
+    <string name="pubkey_import_button">Importa</string>
+    <string name="pubkey_import_clipboard_key_label" ns2:machine_translated="true">Contenuto della chiave privata</string>
+    <string name="pubkey_import_confirm_password">Conferma password</string>
+    <string name="pubkey_import_encrypt_key">Crittografa la chiave per l\'archiviazione</string>
+    <string name="pubkey_import_encrypted_message">Inserisci la password per decrittare la chiave \'%1$s\' (%2$s)</string>
+    <string name="pubkey_import_encrypted_title">Importa chiave crittografata</string>
+    <string name="pubkey_import_existing">Importa chiave pubblica</string>
+    <string name="pubkey_import_from_clipboard" ns2:machine_translated="true">Importa dagli appunti</string>
+    <string name="pubkey_import_new_password">Nuova password</string>
+    <string name="pubkey_import_reuse_password">Utilizza la stessa password per la crittografia</string>
+    <string name="pubkey_list_empty">Toccare \"Menu\" per creare o importare coppie di chiavi.</string>
+    <string name="pubkey_load_on_start">Carica la chiave all\'avvio</string>
+    <string name="pubkey_nickname_exists">Una chiave con questo soprannome esiste già</string>
+    <string name="pubkey_not_encrypted_description">Non criptato</string>
+    <string name="pubkey_paste_from_clipboard" ns2:machine_translated="true">Incolla dagli appunti</string>
+    <string name="pubkey_touch_hint">Per poter assicurare una sorgente di casualità durante la generazione della chiave, muovere le dita casualmente sul riquadro sottostante.</string>
+    <string name="pubkey_touch_prompt">Tocca questo riquadro per raccogliere informazioni casuali: %1$d%% fatto</string>
+    <string name="pubkey_type_label">Tipo: %s</string>
+    <string name="pubkey_unknown">Chiave sconosciuta</string>
+    <string name="pubkey_unknown_format">Formato sconosciuto</string>
+    <string name="pubkey_unlock">Sblocca la chiave</string>
+    <string name="pubkey_unlock_message">Inserisci la password per sbloccare la chiave \'%1$s\'</string>
+    <string msgid="5941395253238309765" name="range_end">"Fine intervallo"</string>
+    <string msgid="7097486360902471446" name="range_start">"Inizio intervallo"</string>
+    <string name="resize_disable_force_size">Disattiva l\'impostazione forzata delle dimensioni</string>
+    <string name="resize_height_label">Altezza righe</string>
+    <string name="resize_width_label">Larghezza colonne</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"Inserisci il tuo blocco schermo per continuare"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="searchview_clear_text_content_description">Cancella testo</string>
+    <string name="searchview_navigation_content_description">Indietro</string>
+    <string name="section_ansi_colors">Colori ANSI (0–15)</string>
+    <string name="section_color_preview">Anteprima</string>
+    <string name="section_fg_bg_colors">In primo piano e in secondo piano</string>
+    <string msgid="6043586758067023" name="selected">"Elemento selezionato"</string>
+    <string name="service_desc">Mantieni le connessioni SSH e le chiavi pubbliche caricate</string>
+    <string name="shortcut_create">Crea collegamento</string>
+    <string name="shortcut_customize_title">Personalizza scorciatoia</string>
+    <string name="shortcut_icon_color">Colore dell\'icona</string>
+    <string name="shortcut_icon_style">Stile icona</string>
+    <string name="shortcut_use_host_color">Utilizza il colore per l\'host</string>
+    <string name="side_sheet_accessibility_pane_title">Scheda secondaria</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Avviso"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Vuoto"</string>
+    <string msgid="5834637030682409883" name="state_off">"Off"</string>
+    <string msgid="1490883874751719580" name="state_on">"On"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Opzione"</string>
+    <string msgid="1672349317127674378" name="tab">"Scheda"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> percento."</string>
+    <string name="terminal_auth">Tentativo di autenticazione</string>
+    <string name="terminal_auth_biometric">Richiesta di autenticazione biometrica per la chiave \'%1$s\'</string>
+    <string name="terminal_auth_biometric_invalidated">La chiave biometrica \'%1$s\' è stata invalidata. Questo può accadere quando vengono registrate nuove impronte digitali sul dispositivo. Si prega di generare una nuova chiave.</string>
+    <string name="terminal_auth_fail">[Il tuo host non supporta l\'autenticazione \'password\' o \'keyboard-interactive\']</string>
+    <string name="terminal_auth_ki">Provando l\'autenticazione \'keyboard-interactive\'</string>
+    <string name="terminal_auth_ki_fail">Metodo di autenticazione \'keyboard-interactive\' fallito</string>
+    <string name="terminal_auth_pass">Provando l\'autenticazione \'password\'</string>
+    <string name="terminal_auth_pass_fail">Metodo di autenticazione \'password\' fallito</string>
+    <string name="terminal_auth_pubkey_any">Tentativo di utilizzo autenticazione a \'chiave pubblica\' con una delle chiavi pubbliche in memoria</string>
+    <string name="terminal_auth_pubkey_fail">Metodo di autenticazione a \'chiave pubblica\' con la chiave \'%1$s\' fallito</string>
+    <string name="terminal_auth_pubkey_invalid">La chiave pubblica selezionata non è valida, provare a riselezionare la chiave nell\'host editor</string>
+    <string name="terminal_auth_pubkey_specific">Tentativo di autenticazione a \'chiave pubblica\' con una chiave pubblica specifica</string>
+    <string name="terminal_auth_saved_password">Tentativo di utilizzo della password salvata…</string>
+    <string name="terminal_auth_saved_password_fail">Autenticazione con password salvata non riuscita</string>
+    <string name="terminal_connecting">Connessione a %1$s:%2$d via %3$s</string>
+    <string name="terminal_connecting_via_jump">Connettendo tramite host di salto %s</string>
+    <string name="terminal_enable_portfoward">Abilita il port forward: %1$s</string>
+    <string name="terminal_failed">Verifica della chiave dell\'host fallita.</string>
+    <string name="terminal_jump_auth_failed">Autenticazione fallita per host di salto: %s</string>
+    <string name="terminal_jump_authenticated">Autenticato al server di salto: %s</string>
+    <string name="terminal_jump_connected">Connesso al jump host %s</string>
+    <string name="terminal_jump_failed">Impossibile connettersi allhost di salto %1$s %2$s</string>
+    <string name="terminal_jump_not_found">Host di salto non trovato negli host salvati</string>
+    <string name="terminal_jump_password">Password per host di salto %s</string>
+    <string name="terminal_kex_algorithm">Algoritmo scambio chiavi: %s</string>
+    <string name="terminal_keyboard_text_input_button">Inserimento di testo</string>
+    <string name="terminal_no_route">Stai cercando di accedere a un host locale? Grantisci le autorizzazioni alla rete locale.</string>
+    <string name="terminal_no_session">La sessione non inizierà a causa delle preferenze dell\'host.</string>
+    <string name="terminal_sucess">Host verificato \'%1$s\' chiave: %2$s</string>
+    <string name="terminal_text_input_dialog_label">Inserisci il testo da inviare al terminale</string>
+    <string name="terminal_text_input_dialog_title">Inserimento di testo</string>
+    <string name="terminal_text_input_resize_handle">Ridimensiona</string>
+    <string name="terminal_using_algorithm">Algoritmo in uso: %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">Algoritmo client-to-server: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">Algoritmo server-to-client: %1$s %2$s</string>
+    <string name="terms_and_conditions">Termini e condizioni</string>
+    <string name="title_color_picker">Scelta colore</string>
+    <string name="title_colors">Colori</string>
+    <string name="title_contact">Contatti e assistenza</string>
+    <string name="title_eula">Licenza</string>
+    <string name="title_help">Guida</string>
+    <string name="title_palette_editor">Modifica tavolozza dei colori</string>
+    <string name="title_port_forwards_list">Inoltro porte</string>
+    <string name="title_pubkey_generate">Genera</string>
+    <string name="title_pubkey_list">Chiavi pubbliche</string>
+    <string name="title_scheme_manager">Gestisci schemi di colori</string>
+    <string name="title_settings">Impostazioni</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Descrizione comando"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Mostra descrizione comando"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"Usa i dati biometrici"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"Usa i dati biometrici o il blocco schermo"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"Usa il volto"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"Usa il volto o il blocco schermo"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"Usa l\'impronta"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"Usa l\'impronta o il blocco schermo"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"Usa il blocco schermo"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"OFF"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ON"</string>
+    <string name="view_logs">Visualizza registri</string>
+    <string name="yes">Sì</string>
+</resources>

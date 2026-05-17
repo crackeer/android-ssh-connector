@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/armeabi-v7a'
+ninja: no work to do.

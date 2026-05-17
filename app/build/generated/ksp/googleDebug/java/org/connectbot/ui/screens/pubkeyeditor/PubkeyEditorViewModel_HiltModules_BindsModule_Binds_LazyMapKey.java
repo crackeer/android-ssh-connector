@@ -1,0 +1,28 @@
+package org.connectbot.ui.screens.pubkeyeditor;
+
+import dagger.internal.DaggerGenerated;
+import dagger.internal.IdentifierNameString;
+import dagger.internal.KeepFieldType;
+import javax.annotation.processing.Generated;
+
+@IdentifierNameString
+@DaggerGenerated
+@Generated(
+    value = "dagger.internal.codegen.ComponentProcessor",
+    comments = "https://dagger.dev"
+)
+@SuppressWarnings({
+    "unchecked",
+    "rawtypes",
+    "KotlinInternal",
+    "KotlinInternalInJava",
+    "cast",
+    "deprecation",
+    "nullness:initialization.field.uninitialized"
+})
+public final class PubkeyEditorViewModel_HiltModules_BindsModule_Binds_LazyMapKey {
+  @KeepFieldType
+  static PubkeyEditorViewModel keepFieldType;
+
+  public static String lazyClassKeyName = "org.connectbot.ui.screens.pubkeyeditor.PubkeyEditorViewModel";
+}

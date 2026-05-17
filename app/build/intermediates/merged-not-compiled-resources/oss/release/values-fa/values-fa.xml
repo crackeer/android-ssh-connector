@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d اعلان جدید</item>
+    <item quantity="other">%d اعلان جدید</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"رفتن به بالا"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"دیدن همه"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"خاموش"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"روشن"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"‎Alt+‎"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"‎Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"‎Function+‎"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"‎Meta+‎"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"‎Shift+‎"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فاصله"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"‎Sym+‎"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"منو+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"جستجو…‏"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"پاک کردن پُرسمان"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"درخواست جستجو"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ارسال پُرسمان"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"هم‌رسانی با"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"هم‌رسانی با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="alert_disconnect_msg">اتصال قطع شد</string>
+    <string name="alert_passwords_do_not_match_msg">گذرواژه همسان نیست!</string>
+    <string name="alert_wrong_password_msg">گذرواژه اشتباه است!</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"تکمیل خودکار"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"تکمیل خودکار"</string>
+    <string name="app_copyright">حق نشر © کنی روت</string>
+    <string name="app_desc">کلاینت SSH ساده، قدرتمند، کد باز</string>
+    <string name="app_is_running">برنامه کانکت‌بات در حال اجراست</string>
+    <string name="auth_prompt_subtitle">برای ادامه، هویت خود را تأیید کنید.</string>
+    <string name="auth_prompt_title">آنلاک کردن ConnectBot</string>
+    <string name="auth_screen_title">ConnectBot قفل شده است.</string>
+    <string name="auth_screen_unlock_button">برای باز کردن، ضربه بزنید.</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"برای ادامه، از زیست‌سنجشی یا قفل صفحه استفاده کنید"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"برای ادامه، از زیست‌سنجشی استفاده کنید"</string>
+    <string name="bottomsheet_action_collapse">جمع کردن</string>
+    <string name="bottomsheet_action_collapse_description">جمع کردن برگ زیرین</string>
+    <string name="bottomsheet_action_expand">ازهم باز کردن</string>
+    <string name="bottomsheet_action_expand_description">ازهم باز کردن برگ زیرین</string>
+    <string name="bottomsheet_action_expand_halfway">گسترده کردن تا نیمه</string>
+    <string name="bottomsheet_action_half_expand_description">نیمه باز کردن برگ زیرین</string>
+    <string name="bottomsheet_drag_handle_content_description">دستگیره کشاندن</string>
+    <string name="bottomsheet_state_collapsed">جمع شد</string>
+    <string name="bottomsheet_state_expanded">ازهم باز شد</string>
+    <string name="bottomsheet_state_half_expanded">تا نیمه باز شد</string>
+    <string name="button_add">افزودن</string>
+    <string name="button_add_custom">افزودن سفارشی...</string>
+    <string name="button_back">بازگشت</string>
+    <string name="button_cancel">لغو کردن</string>
+    <string name="button_close">بستن</string>
+    <string name="button_collapse">کوچک کردن</string>
+    <string name="button_confirm">تایید کنید</string>
+    <string name="button_delete_scheme">حذف</string>
+    <string name="button_duplicate_scheme">تکراری</string>
+    <string name="button_edit_palette">ویرایش پالت</string>
+    <string name="button_export_scheme">طرح خروجی</string>
+    <string name="button_host_options">گزینه‌های میزبان</string>
+    <string name="button_import">وارد کردن</string>
+    <string name="button_import_scheme">وارد کردن طرح‌واره</string>
+    <string name="button_key_ctrl">Ctrl</string>
+    <string name="button_key_end">پایان</string>
+    <string name="button_key_esc">Esc</string>
+    <string name="button_key_f1">F1</string>
+    <string name="button_key_f10">F10</string>
+    <string name="button_key_f11">F11</string>
+    <string name="button_key_f12">F12</string>
+    <string name="button_key_f2">F2</string>
+    <string name="button_key_f3">F3</string>
+    <string name="button_key_f4">F4</string>
+    <string name="button_key_f5">F5</string>
+    <string name="button_key_f6">F6</string>
+    <string name="button_key_f7">F7</string>
+    <string name="button_key_f8">F8</string>
+    <string name="button_key_f9">F9</string>
+    <string name="button_key_home">صفحه اصلی</string>
+    <string name="button_key_pgdn">PgDn</string>
+    <string name="button_key_pgup">دکمه Page Up</string>
+    <string name="button_manage_custom">مدیریت تنظیمات دلخواه...</string>
+    <string name="button_manage_schemes">مدیریت طرح‌ها</string>
+    <string name="button_more_options">گزینه‌های بیشتر</string>
+    <string name="button_navigate_up">به بالا بروید</string>
+    <string name="button_new_scheme">طرح جدید</string>
+    <string name="button_no">خیر</string>
+    <string name="button_ok">بسیار خب</string>
+    <string name="button_remove">حذف کن</string>
+    <string name="button_rename_scheme">تغییر نام</string>
+    <string name="button_reset_all_colors">همه تنظیمات را بازنشانی کنید</string>
+    <string name="button_resize">تغییر اندازه</string>
+    <string name="button_send">ارسال</string>
+    <string name="button_yes">بله</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"جواب"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ویدیو"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"رد کردن"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"قطع تماس"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"تماس ورودی"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"تماس درحال انجام"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"درحال غربال کردن تماس ورودی"</string>
+    <string name="character_counter_content_description">نویسه‌های واردشده %1$d از %2$d</string>
+    <string name="character_counter_overflowed_content_description">محدودیت نویسه از حد مجاز %1$d از %2$d بیشتر شده است</string>
+    <string name="clear_text_end_icon_content_description">پاک کردن نوشتار</string>
+    <string msgid="406453423630273620" name="close_drawer">"بستن منوی پیمایش"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"بستن برگ"</string>
+    <string name="color_amber">کهربا</string>
+    <string name="color_bg_label">پشت: %1$d</string>
+    <string name="color_blue">آبی</string>
+    <string name="color_cyan">آبی فیروزه ای</string>
+    <string name="color_deep_purple">دیپ پرپل</string>
+    <string name="color_gray">خاکستری</string>
+    <string name="color_green">سبز</string>
+    <string name="color_indigo">نیلی</string>
+    <string name="color_light_blue">آبی روشن</string>
+    <string name="color_light_green">سبز روشن</string>
+    <string name="color_lime">لایم</string>
+    <string name="color_orange">نارنگی</string>
+    <string name="color_pink">صورتی</string>
+    <string name="color_purple">بنفش</string>
+    <string name="color_red">قرمز</string>
+    <string name="color_teal">فیروزه‌ای</string>
+    <string name="color_yellow">زرد</string>
+    <string name="colors_fg_label">متن: %1$d</string>
+    <string name="colorscheme_default">پیش‌فرض</string>
+    <string name="colorscheme_default_description">رنگ‌های پیش‌فرض ترمینال</string>
+    <string name="colorscheme_dracula_description">یک تم تیره برای ترمینال</string>
+    <string name="colorscheme_gruvbox_dark_description">طرح رنگی با حس و حال نوستالژیک</string>
+    <string name="colorscheme_monokai_description">تمی با الهام از سابلیم تکست</string>
+    <string name="colorscheme_nord_description">پالت رنگی با طیف رنگ‌های آبی و سفید، الهام‌گرفته از مناطق قطبی</string>
+    <string name="colorscheme_solarized_dark_description">رنگ‌های دقیق برای ماشین‌ها و انسان‌ها</string>
+    <string name="colorscheme_solarized_light_description">با پس‌زمینه روشن</string>
+    <string name="colorscheme_tomorrow_night_description">یک تم تیره، شیک و کاربرپسند</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"استفاده از گذرواژه"</string>
+    <string name="connect_anyway">به هر حال، اتصال برقرار شود</string>
+    <string name="console_default_title">کنسول</string>
+    <string name="console_menu_close">بستن</string>
+    <string name="console_menu_paste">چسباندن</string>
+    <string name="console_menu_portforwards">پورت فوروارد</string>
+    <string name="console_menu_reconnect">دوباره متصل شوید.</string>
+    <string name="console_menu_resize">اندازه را به زور تنظیم کن</string>
+    <string name="console_menu_text_input">ورودی متن</string>
+    <string name="console_menu_urlscan">بررسی URL</string>
+    <string name="console_url_no_handler">هیچ برنامه‌ای برای باز کردن این آدرس اینترنتی موجود نیست</string>
+    <string name="console_url_not_supported">این نوع URL پشتیبانی نمی‌شود</string>
+    <string msgid="6083905920877235314" name="copy">"کپی"</string>
+    <string name="copy_logs">کپی کردن گزارش‌ها</string>
+    <string name="decrease_font_shortcut">کلید \" Ctrl \" و کلید \" - \"</string>
+    <string name="decrease_font_size">کاهش اندازۀ قلم</string>
+    <string msgid="8038256446254964252" name="default_error_message">"ورودی نامعتبر"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"خطای ناشناس"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"پنجره بالاپر"</string>
+    <string name="delete_host_confirm">آیا مطمئن هستید که می‌خواهید هاست \'%1$s\' را حذف کنید؟</string>
+    <string name="delete_message">مطمئنید که می‌خواهید «%1$s» را پاک کنید؟</string>
+    <string name="delete_neg">لغو</string>
+    <string name="delete_pos">بله، پاک کن</string>
+    <string name="dialog_custom_value_label">مقدار دلخواه را وارد کنید</string>
+    <string name="dialog_customfont_hint">نام فونت گوگل (به عنوان مثال، Cascadia Code)</string>
+    <string name="dialog_customfont_title">افزودن فونت سفارشی</string>
+    <string name="dialog_customterminal_hint">نوع ترمینال (به عنوان مثال، rxvt-unicode)</string>
+    <string name="dialog_customterminal_title">اضافه کردن نوع ترمینال سفارشی</string>
+    <string name="dialog_localfont_hint">نام نمایشی برای فونت</string>
+    <string name="dialog_localfont_title">وارد کردن فونت</string>
+    <string name="dialog_manage_customterminal_title">مدیریت انواع ترمینال سفارشی</string>
+    <string name="dialog_message_delete_scheme">آیا مطمئن هستید که می‌خواهید \"%1$s\" را حذف کنید؟ این عمل قابل برگشت نیست.</string>
+    <string name="dialog_message_reset_all">این کار تمام ۲۵۶ رنگ را به مقادیر پیش‌فرض خود بازنشانی می‌کند. این عمل قابل برگشت نیست.</string>
+    <string name="dialog_title_delete_scheme">آیا می‌خواهید طرح را حذف کنید؟</string>
+    <string name="dialog_title_edit_color">ویرایش رنگ %1$d</string>
+    <string name="dialog_title_new_scheme">طرح رنگی جدید</string>
+    <string name="dialog_title_rename_scheme">تغییر نام طرح رنگ</string>
+    <string name="dialog_title_reset_all">آیا می‌خواهید تمام رنگ‌ها را به حالت پیش‌فرض بازگردانید؟</string>
+    <string name="disconnect_all_message">آیا مطمئنید که می‌خواهید تمام اتصال‌ها را قطع کنید؟</string>
+    <string name="disconnect_all_neg">لغو</string>
+    <string name="disconnect_all_pos">بله، قطع کن</string>
+    <string name="disconnect_host_alert">آیا مطمئن هستید که می‌خواهید از \'%1$s\' قطع اتصال کنید؟</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"منوی کرکره‌ای"</string>
+    <string name="empty_custom_schemes">هیچ طرح سفارشی وجود ندارد. برای ایجاد یک طرح جدید، روی \"طرح جدید\" ضربه بزنید.</string>
+    <string name="empty_hosts_message">هیچ هاستی پیکربندی نشده است.</string>
+    <string name="empty_port_forwards_message">هیچ پورت فورواردی پیکربندی نشده است.</string>
+    <string name="empty_pubkeys_message">هیچ کلیدی یافت نشد.</string>
+    <string name="empty_urls_message">هیچ آدرس اینترنتی در حافظه ترمینال یافت نشد.</string>
+    <string name="error_a11y_label">خطا: نامعتبر</string>
+    <string name="error_color_scheme_load_failed">بارگذاری طرح رنگ با شکست مواجه شد: %s</string>
+    <string name="error_connection_failed">اتصال به %1$s (%2$s) با شکست مواجه شد: %3$s</string>
+    <string name="error_export_failed">بروز خطا در هنگام خروجی‌گیری از طرح: %1$s</string>
+    <string name="error_host_save_failed">ذخیره کردن اطلاعات مربوط به هاست %1$s با شکست مواجه شد: %2$s</string>
+    <string name="error_icon_content_description">خطا</string>
+    <string name="error_import_failed">وارد کردن طرح با شکست مواجه شد: %1$s</string>
+    <string name="error_invalid_json">فایل JSON نامعتبر است.</string>
+    <string name="error_key_load_failed">بارگذاری کلید \'%1$s\' با شکست مواجه شد: %2$s</string>
+    <string name="error_port_forward_load_failed">بارگذاری تنظیمات پورت فوروارد برای %1$s با شکست مواجه شد: %2$s</string>
+    <string name="expand">گسترش دهید</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"پیشرفته"</string>
+    <string name="export_hosts_failed">بروز خطا در هنگام ذخیره لیست سرورها: %s</string>
+    <string name="export_hosts_success">تعداد %1$d هاست و %2$d پروفایل صادر شد.</string>
+    <string name="export_hosts_title">لیست سرورها را صادر کنید</string>
+    <string name="exposed_dropdown_menu_content_description">نمایش منوی کرکره‌ای</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"برای ادامه، از تشخیص چهره یا قفل صفحه استفاده کنید"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"برای ادامه، از چهره‌تان استفاده کنید"</string>
+    <string name="fingerprint_copy_description">اثر انگشت را در حافظه کلیپ‌بورد کپی کنید.</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"نماد اثر انگشت"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"حسگر اثر انگشت را لمس کنید"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"سخت‌افزار اثر انگشت در دسترس نیست."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"این دستگاه حسگر اثر انگشت ندارد"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"تعداد تلاش‌ها بیش از حد مجاز است. لطفاً بعداً دوباره امتحان کنید."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"اثر انگشتی ثبت نشده است."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"کاربر عملیات اثر انگشت را لغو کرد"</string>
+    <string name="fingerprint_format_header">فرمت اثر انگشت</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"شناسایی نشد"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"برای ادامه، از اثر انگشت یا قفل صفحه استفاده کنید"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"برای ادامه، از اثر انگشتتان استفاده کنید"</string>
+    <string name="font_downloading">در حال دانلود فونت...</string>
+    <string name="font_importing">در حال وارد کردن فونت...</string>
+    <string name="font_system_default">پیش‌فرض (فونت تک‌فاصله)</string>
+    <string name="font_use_default">از تنظیمات پیش‌فرض استفاده کنید</string>
+    <string name="font_validating">در حال بررسی اعتبار فونت...</string>
+    <string name="forget_host_keys_confirm">آیا مطمئن هستید که می‌خواهید کلیدهای میزبانی ذخیره شده برای «%1$s» را حذف کنید؟ در اتصال بعدی، از شما خواسته می‌شود تا کلید میزبانی را تأیید کنید.</string>
+    <string name="format_hostname">نام میزبان</string>
+    <string name="format_port">درگاه</string>
+    <string name="format_username">نام کاربری</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"پین، الگو، یا گذرواژه‌ای تنظیم نشده است."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"این دستگاه از پین، الگو، یا گذرواژه پشتیبانی نمی‌کند."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"کاربر اصالت‌سنجی را لغو کرد."</string>
+    <string name="grant_permission">اجازه بده</string>
+    <string name="help_donate_coffee">یک فنجان قهوه برای من بخرید</string>
+    <string name="help_donate_github">حمایت مالی از طریق گیت‌هاب</string>
+    <string name="help_github">کد منبع</string>
+    <string name="help_report_bug">گزارش یک اشکال</string>
+    <string name="help_section_about">درباره</string>
+    <string name="help_section_contact">تماس و پشتیبانی</string>
+    <string name="help_section_donate">از توسعه این برنامه پشتیبانی کنید.</string>
+    <string name="help_website">وب‌سایت</string>
+    <string name="hints">راهنمایی‌ها</string>
+    <string name="host_authenticity_warning">میزبان \'%1$s\' نمیتواند احراز هویت شود.</string>
+    <string name="host_duplicate_nickname">%1$s (کپی)</string>
+    <string name="host_editor_hide_advanced">گزینه‌های پیشرفته را پنهان کن</string>
+    <string name="host_editor_quick_connect_example">به عنوان مثال: root\@192.168.1.1:22</string>
+    <string name="host_editor_quick_connect_label">اتصال سریع</string>
+    <string name="host_editor_quick_connect_placeholder">user\@hostname:port</string>
+    <string name="host_editor_show_advanced">نمایش گزینه‌های پیشرفته</string>
+    <string name="host_fingerprint">"%2$s کلید اثرانگشت میزبان  %1$s  می باشد"</string>
+    <string name="host_key_type_and_size">%1$s %2$d بیت</string>
+    <string name="host_key_verification_title">تایید کلید میزبان</string>
+    <string name="host_verification_failure_warning">ممکن است کسی در حال انجام یک کار خرابکارانه باشد!\nممکن است کسی در حال حاضر در حال استراق سمع از شما باشد (حمله \"مرد میانی\")!\nهمچنین ممکن است کلید میزبان به تازگی تغییر کرده باشد.</string>
+    <string name="host_verification_failure_warning_header">هشدار: تعیین هویت میزبان راه دور تغییر کرده است!</string>
+    <string name="hostpref_add_host">افزودن میزبان</string>
+    <string name="hostpref_authagent_title">از احراز هویت SSH استفاده کنید.</string>
+    <string name="hostpref_authagent_with_confirmation">نیاز به تایید دارد</string>
+    <string name="hostpref_clear_password">حذف رمز عبور ذخیره شده</string>
+    <string name="hostpref_color_title">دسته‌بندی رنگی</string>
+    <string name="hostpref_colorscheme_title">طرح رنگی ترمینال</string>
+    <string name="hostpref_compression_summary">این گزینه می‌تواند برای شبکه‌های کند مفید باشد</string>
+    <string name="hostpref_compression_title">فشرده‌سازی</string>
+    <string name="hostpref_delkey_title">کلید DEL</string>
+    <string name="hostpref_encoding_title">رمزگذاری</string>
+    <string name="hostpref_fontfamily_title">فونت</string>
+    <string name="hostpref_fontsize_title">اندازه متن (pt)</string>
+    <string name="hostpref_hostname_title">میزبان</string>
+    <string name="hostpref_ipversion_summary">انتخاب کنید که از کدام نسخه آدرس IP هنگام اتصال استفاده شود.</string>
+    <string name="hostpref_ipversion_title">نسخه IP</string>
+    <string name="hostpref_jumphost_summary">از طریق یک هاست SSH دیگر متصل شوید.</string>
+    <string name="hostpref_jumphost_title">هاست واسط (ProxyJump)</string>
+    <string name="hostpref_nickname_title">لقب</string>
+    <string name="hostpref_password_title">گذرواژه</string>
+    <string name="hostpref_password_unchanged">گذرواژه (تغییر نکرده)</string>
+    <string name="hostpref_port_title">درگاه</string>
+    <string name="hostpref_postlogin_summary">دستوراتی که پس از تصدیق هویت باید روی کارساز راه‌دور اجرا شوند</string>
+    <string name="hostpref_postlogin_title">خودکارسازی پس از ورود</string>
+    <string name="hostpref_profile_none">هیچ‌کدام (از تنظیمات هاست استفاده کنید)</string>
+    <string name="hostpref_profile_summary">یک پروفایل را انتخاب کنید تا از تنظیمات ترمینال آن استفاده شود.</string>
+    <string name="hostpref_profile_title">پروفایل</string>
+    <string name="hostpref_pubkeyid_title">تصدیق هویت با استفاده از کلید عمومی</string>
+    <string name="hostpref_quickdisconnect_summary">در صورت قطع شدن از کارساز راه‌دور، بلادرنگ و بدون اعلان بسته شود.</string>
+    <string name="hostpref_quickdisconnect_title">بستن در صورت قطع ارتباط</string>
+    <string name="hostpref_save_host">ذخیره میزبان</string>
+    <string name="hostpref_save_password_summary">گذرواژه ورود را به صورت امن ذخیره کنید تا به صورت خودکار احراز هویت انجام شود.</string>
+    <string name="hostpref_setting_title">تنظیمات میزبان</string>
+    <string name="hostpref_stayconnected_summary">در صورت قطع ارتباط، دوباره وصل شود</string>
+    <string name="hostpref_stayconnected_title">متصل بماند</string>
+    <string name="hostpref_username_title">نام کاربری</string>
+    <string name="hostpref_wantsession_summary">با غیرفعال کردن این گزینه، فقط از پورت فوروارد استفاده کنید.</string>
+    <string name="hostpref_wantsession_title">آغاز جلسه Shell</string>
+    <string name="icon_content_description">نماد کادر گفتگو</string>
+    <string name="icon_style_cloud">ابر</string>
+    <string name="icon_style_key">کلید</string>
+    <string name="icon_style_server">سرور</string>
+    <string name="icon_style_terminal">ترمینال</string>
+    <string name="image_description_connected">وصل.</string>
+    <string name="image_description_disconnected">قطع.</string>
+    <string name="image_description_down">فلش پایین</string>
+    <string name="image_description_hide_keyboard">پنهان‌سازی صفحه‌کلید.</string>
+    <string name="image_description_left">فلش چپ</string>
+    <string name="image_description_right">فلش راست</string>
+    <string name="image_description_send_escape_character">کاراکتر Escape را ارسال کنید.</string>
+    <string name="image_description_send_tab_character">کاراکتر TAB را ارسال کنید.</string>
+    <string name="image_description_show_keyboard">نمایش صفحه‌کلید</string>
+    <string name="image_description_toggle_control_character">تغییر کاراکتر کنترلی.</string>
+    <string name="image_description_up">فلش بالا</string>
+    <string name="import_hosts_failed">وارد کردن لیست سرورها با شکست مواجه شد: %s</string>
+    <string name="import_hosts_success">%1$d هاست وارد شد (%2$d نادیده گرفته شد) و %3$d پروفایل (%4$d نادیده گرفته شد)</string>
+    <string msgid="6827826412747255547" name="in_progress">"درحال انجام"</string>
+    <string name="increase_font_shortcut">کلید \" Ctrl \" و کلید \" + \"</string>
+    <string name="increase_font_size">افزایش اندازۀ قلم</string>
+    <string msgid="7933458017204019916" name="indeterminate">"ناقص علامت زده‌شده"</string>
+    <string name="ipversion_auto">خودکار</string>
+    <string name="ipversion_ipv4">فقط IPv4</string>
+    <string name="ipversion_ipv6">فقط IPv6</string>
+    <string name="item_view_role_description">زبانه</string>
+    <string name="keyboard_shortcuts">میانبُرهای صفحه‌کلید</string>
+    <string name="label_background_color">پس‌زمینه</string>
+    <string name="label_base_scheme">طرح پایه:</string>
+    <string name="label_blue">آبی</string>
+    <string name="label_built_in_scheme">به صورت پیش‌فرض موجود</string>
+    <string name="label_custom_scheme">سفارشی</string>
+    <string name="label_foreground_color">پیش‌زمینه</string>
+    <string name="label_green">سبز</string>
+    <string name="label_hex_color">رنگ هگزادسیمال</string>
+    <string name="label_red">قرمز</string>
+    <string name="label_scheme_description">توضیحات (اختیاری)</string>
+    <string name="label_scheme_name">نام طرح</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A و سپس کلید Space</string>
+    <string name="list_camera_ctrlaspace_description">Ctrl+A و سپس کلید Space</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description">Esc+A</string>
+    <string name="list_camera_esc_description">Esc</string>
+    <string name="list_camera_none">هیچ</string>
+    <string name="list_camera_none_description">هیچ‌کدام</string>
+    <string name="list_camera_text_input">ورودی متن</string>
+    <string name="list_camera_text_input_description">ورودی متن</string>
+    <string name="list_color_schemes">طرح‌های رنگی</string>
+    <string name="list_host_delete">پاک کردن میزبان</string>
+    <string name="list_host_disconnect">قطع اتصال</string>
+    <string name="list_host_duplicate">میزبان تکراری</string>
+    <string name="list_host_edit">ویرایش میزبان</string>
+    <string name="list_host_forget_keys">کلیدهای میزبان را فراموش کن</string>
+    <string name="list_host_portforwards">ویرایش پورت فورواردها</string>
+    <string name="list_jumphost_none">هیچ‌کدام (اتصال مستقیم)</string>
+    <string name="list_keymode_left">استفاده از کلیدهای سمت چپ</string>
+    <string name="list_keymode_none">غیرفعال</string>
+    <string name="list_keymode_right">استفاده از کلیدهای سمت راست</string>
+    <string name="list_menu_disconnect">قطع همه اتصال‌ها</string>
+    <string name="list_menu_export_hosts">لیست میزبانی‌ها را صادر کنید</string>
+    <string name="list_menu_import_hosts">وارد کردن هاست‌ها</string>
+    <string name="list_menu_pubkeys">مدیریت کلیدهای عمومی</string>
+    <string name="list_menu_settings">تنظیمات</string>
+    <string name="list_menu_sortcolor">مرتب‌سازی بر اساس رنگ</string>
+    <string name="list_menu_sortname">مرتب‌سازی بر اساس نام</string>
+    <string name="list_pubkey_edit">ویرایش کلید عمومی</string>
+    <string name="list_pubkeyids_any">از هر کلیدی که قفلش باز شده است استفاده کنید.</string>
+    <string name="list_pubkeyids_none">از کلیدها استفاده نکن</string>
+    <string name="list_rotation_auto">خوکار</string>
+    <string name="list_rotation_default">پیش‌گزیده</string>
+    <string name="list_rotation_land">الزام بر حالت افقی</string>
+    <string name="list_rotation_port">الزام بر حالت عمودی</string>
+    <string name="loading_message">در حال بارگذاری...</string>
+    <string name="local_shell_unavailable">عملیات با شکست مواجه شد. دسترسی به شل محلی در این تلفن امکان‌پذیر نیست.</string>
+    <string name="logs_bug_report_info">برای گزارش یک مشکل، این گزارش‌ها را کپی کرده و یک درخواست جدید در آدرس https://connectbot.org/bug ایجاد کنید.</string>
+    <string name="logs_copied">لاگ‌ها در حافظه کلیپ‌بورد کپی شدند.</string>
+    <string name="logs_title">لاگ‌های برنامه</string>
+    <string name="m3_loading_indicator_content_description">درحال بار کردن</string>
+    <string name="m3_overflow_linear_layout_button_content_description">منو سرریز</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">گزینه‌های بیشتر</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"جمع کردن برگ زیرین"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"بستن برگ زیرین"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"دستگیره کشاندن"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ازهم باز کردن برگ زیرین"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"برگ زیرین"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"گزینه‌های بیشتر"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"تاریخ واردشده"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"‏تاریخ واردشده: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"‏تاریخ با الگوی موردانتظار مطابقت ندارد: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"‏تاریخ مجاز نیست: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"‏تاریخ خارج از محدوده سال %1$s تا %2$s است"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"تاریخ"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"هیچ‌کدام"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"انتخاب تاریخ"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"تاریخ انتخابی"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"‏انتخاب فعلی: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"‏پیمایش به سال %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"هیچ‌کدام"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"برای نمایش سال‌های قبل پیمایش کنید"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"برای نمایش سال‌های بعد پیمایش کنید"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"تعویض به حالت ورودی تقویم"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"برای انتخاب سال، تند بکشید یا برای برگشتن به انتخاب روز، تک‌ضرب بزنید"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"رفتن به حالت ورودی نوشتاری"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"تغییر به ماه بعدی"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"تغییر به ماه قبلی"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"رفتن به انتخاب سال"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"انتخاب تاریخ"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"امروز"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"انتخاب‌گر سال نمایان است"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"محدوده تاریخ واردشده نامعتبر است"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"تاریخ‌ها را وارد کنید"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"در محدوده"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"تاریخ پایان"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"برای نمایش ماه بعد پیمایش کنید"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"برای نمایش ماه قبل پیمایش کنید"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"تاریخ شروع"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"تاریخ‌ها را انتخاب کنید"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"کادر گفتگو"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"جمع شد"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"ازهم باز شد"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"جمع کردن/ ازهم باز کردن منوِ کرکره‌ای"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"جمع کردن نوارابزار"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"ازهم بازکردن نوارابزار"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"گزینه‌های بیشتر"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"جستجو"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"بستن"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"هشدار"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"پیشنهادهای زیر"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"وارد کردن زمان"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"ق.ظ."</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"انتخاب زمان"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ساعت"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"‏%1$d ساعت"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"‏مقدار مجاز ساعت: ۱‎–۱۲"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"‏مقدار مجاز ساعت: ۰‎–۲۳"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"انتخاب ساعت"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"‏ساعت %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"برای ساعت"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"دقیقه"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"‏مقدار مجاز دقیقه: ۰‎–۵۹"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"انتخاب دقیقه"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"‏%1$d دقیقه"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"برای دقیقه"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"انتخاب ق.ظ. یا ب.ظ."</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"ب.ظ."</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"رفتن به حالت ورودی نوشتاری"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"رفتن به حالت ساعت"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"نمایش نکته‌ابزار"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"نکته‌ابزار"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"بستن ریل"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"ریل پیمایش"</string>
+    <string name="material_clock_toggle_content_description">انتخاب .ق.ظ. یا ب.ظ.</string>
+    <string name="material_hour_24h_suffix">%1$s ساعت</string>
+    <string name="material_hour_selection">انتخاب ساعت</string>
+    <string name="material_hour_suffix">ساعت %1$s</string>
+    <string name="material_minute_selection">انتخاب دقیقه</string>
+    <string name="material_minute_suffix">%1$s دقیقه</string>
+    <string name="material_slider_range_end">پایان محدوده</string>
+    <string name="material_slider_range_start">شروع محدوده</string>
+    <string name="material_slider_value">مقدار</string>
+    <string name="material_timepicker_am">ق.ظ</string>
+    <string name="material_timepicker_clock_mode_description">برای وارد کردن زمان، به حالت ساعت تغییر وضعیت دهید.</string>
+    <string name="material_timepicker_clock_mode_tooltip">رفتن به «حالت ساعت»</string>
+    <string name="material_timepicker_hour">ساعت</string>
+    <string name="material_timepicker_hour_error">ساعت باید بین ۱ تا ۱۲ باشد</string>
+    <string name="material_timepicker_hour_error_24h">ساعت باید بین ۰ تا ۲۳ باشد</string>
+    <string name="material_timepicker_minute">دقیقه</string>
+    <string name="material_timepicker_minute_error">دقیقه باید بین ۰ تا ۵۹ باشد</string>
+    <string name="material_timepicker_pm">ب.ظ</string>
+    <string name="material_timepicker_select_time">انتخاب زمان</string>
+    <string name="material_timepicker_text_input_mode_description">برای وارد کردن زمان، به حالت ورودی نوشتاری تعویض کنید.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">رفتن به «حالت ورودی نوشتاری»</string>
+    <string name="menu_colors_reset">تنظیم دوباره</string>
+    <string name="menu_manage_colors">مدیریت طرح‌های رنگی</string>
+    <string name="message_export_success">صادر شد: %1$s</string>
+    <string name="message_import_success">وارد کردن %1$s</string>
+    <string name="migration_checking">در حال بررسی پایگاه داده...</string>
+    <string name="migration_copy_debug_log">کپی کردن گزارش اشکال‌زدایی</string>
+    <string name="migration_copy_warnings">کپی کردن: هشدارها</string>
+    <string name="migration_debug_log_title">لاگ اشکال‌زدایی</string>
+    <string name="migration_failed_help">اگر مشکل همچنان ادامه داشت، لطفاً این موضوع را در %1$s به همراه گزارش اشکال‌زدایی که در بالا کپی شده، گزارش دهید.</string>
+    <string name="migration_failed_message">در حین انتقال پایگاه داده، خطایی رخ داد: %s</string>
+    <string name="migration_failed_title">انتقال با شکست مواجه شد.</string>
+    <string name="migration_retry">تلاش مجدد</string>
+    <string name="migration_stats_hosts">تعداد هاست‌های منتقل‌شده: %d</string>
+    <string name="migration_stats_known_hosts">میزبان‌های شناخته‌شده منتقل شدند: %d</string>
+    <string name="migration_stats_port_forwards">پورت فورواردها منتقل شدند: %d</string>
+    <string name="migration_stats_pubkeys">کلیدهای SSH منتقل شدند: %d</string>
+    <string name="migration_title">انتقال پایگاه داده</string>
+    <string name="migration_warning">لطفاً در حین انتقال، برنامه را نبندید.</string>
+    <string name="migration_warnings_title">هشدارها در مورد انتقال داده‌ها</string>
+    <string name="mtrl_badge_numberless_content_description">اعلان جدید</string>
+    <string name="mtrl_button_collapsed_content_description">جمع‌شده</string>
+    <string name="mtrl_button_expanded_content_description">ازهم بازشده</string>
+    <string name="mtrl_button_overflow_icon_content_description">منو سرریز</string>
+    <string name="mtrl_button_snackbar_close_content_description">بستن</string>
+    <string name="mtrl_checkbox_state_description_checked">دارای علامت</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">ناقص علامت زده‌شده</string>
+    <string name="mtrl_checkbox_state_description_unchecked">بدون علامت</string>
+    <string name="mtrl_chip_close_icon_content_description">برداشتن %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">بیش از %1$d اعلان جدید</string>
+    <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
+    <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
+    <string name="mtrl_picker_announce_current_range_selection">تاریخ شروع انتخاب‌شده: %1$s – تاریخ پایان انتخاب‌شده: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">خالی</string>
+    <string name="mtrl_picker_cancel">لغو</string>
+    <string name="mtrl_picker_confirm">تأیید</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
+    <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">تاریخ پایان: %1$s</string>
+    <string name="mtrl_picker_invalid_format">قالب نامعتبر است.</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">قالب: %1$s</string>
+    <string name="mtrl_picker_invalid_range">محدوده نامعتبر است.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">پیمایش به سال فعلی %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">رفتن به سال %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">ماه آینده</string>
+    <string name="mtrl_picker_out_of_range">خارج از محدوده: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">نمای تقویم</string>
+    <string name="mtrl_picker_pane_title_year_view">نمای سالانه</string>
+    <string name="mtrl_picker_prev_month_tooltip">ماه قبل</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاریخ شروع – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاریخ پایان</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">انتخاب محدوده</string>
+    <string name="mtrl_picker_range_header_unselected">تاریخ شروع – تاریخ پایان</string>
+    <string name="mtrl_picker_save">ذخیره</string>
+    <string name="mtrl_picker_start_date_description">تاریخ شروع: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">تاریخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاریخ پایان</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاریخ شروع</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">امروز %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">تعویض به حالت ورودی تقویم</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">رفتن به تقویم</string>
+    <string name="mtrl_picker_toggle_to_day_selection">تغییر به نمای «تقویم»</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">رفتن به حالت ورودی نوشتاری</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">رفتن به ورودی نوشتاری</string>
+    <string name="mtrl_picker_toggle_to_year_selection">تغییر به نمای سال</string>
+    <string name="mtrl_timepicker_cancel">لغو</string>
+    <string name="mtrl_timepicker_confirm">تأیید</string>
+    <string msgid="542007171693138492" name="navigation_menu">"منوی پیمایش"</string>
+    <string name="network_grace_period_expired">شبکه بازیابی نشد، در حال قطع اتصال...</string>
+    <string name="network_lost_grace_period">اتصال شبکه قطع شد، در حال انتظار برای برقراری مجدد اتصال...</string>
+    <string name="network_restored_ip_changed">شبکه دوباره فعال شد اما آدرس IP تغییر کرد، در حال اتصال مجدد...</string>
+    <string name="network_restored_no_previous_state">شبکه دوباره برقرار شد، در حال بررسی اتصال...</string>
+    <string name="network_restored_same_ip">شبکه بازیابی شد، اتصال برقرار ماند</string>
+    <string name="no">خیر</string>
+    <string name="no_logs_available">هیچ لاگی در دسترس نیست</string>
+    <string msgid="6610465462668679431" name="not_selected">"انتخاب‌نشده"</string>
+    <string msgid="6573031135582639649" name="not_set">"تنظیم نشده"</string>
+    <string name="notification_permission_console_warning">ممکن است اتصال در حالت پس‌زمینه قطع شود</string>
+    <string name="notification_permission_denied_message">برای اینکه اتصالات شما در پس‌زمینه فعال بمانند، لطفاً اعلان‌ها را برای ConnectBot در تنظیمات سیستم فعال کنید.</string>
+    <string name="notification_permission_denied_snackbar">ممکن است اتصال‌ها بدون اطلاع‌رسانی قطع شوند</string>
+    <string name="notification_permission_denied_title">مجوز اعلان مورد نیاز است</string>
+    <string name="notification_permission_message">برای اینکه ConnectBot بتواند اتصالات شما را فعال نگه دارد، به مجوز اعلان نیاز دارد. در غیر این صورت، سیستم ممکن است برای صرفه‌جویی در مصرف باتری، اتصالات شما را قطع کند.</string>
+    <string name="notification_permission_title">در پس‌زمینه به اتصال ادامه دهید</string>
+    <string name="notification_text">%1$s می‌خواهد توجه شما را جلب کند.</string>
+    <string name="only_alt">فقط Alt</string>
+    <string name="open_settings">تنظیمات را باز کنید</string>
+    <string name="palette_editor_builtin_note">طرح‌های پیش‌فرض فقط خواندنی هستند. برای سفارشی‌سازی، آن‌ها را کپی کنید.</string>
+    <string name="password_toggle_content_description">نشان دادن گذرواژه</string>
+    <string name="paste_shortcut">کلید \" Ctrl \" و کلید \" Shift \" و کلید \" v \"</string>
+    <string name="portforward_delete">حذف پورت فوروارد</string>
+    <string name="portforward_destination_format_error">قالب باید به این صورت باشد: آدرس:پورت (مثلاً localhost:80)</string>
+    <string name="portforward_destination_placeholder">localhost:80</string>
+    <string name="portforward_disable">غیرفعال کردن</string>
+    <string name="portforward_disabled">پورت فوروارد غیرفعال شد</string>
+    <string name="portforward_dynamic">پویا (SOCKS)</string>
+    <string name="portforward_edit">ویرایش پورت فوروارد</string>
+    <string name="portforward_enable">فعال کنید</string>
+    <string name="portforward_enabled">پورت فوروارد فعال شد</string>
+    <string name="portforward_host_address" ns2:machine_translated="true">آدرس میزبان</string>
+    <string name="portforward_local">محلی</string>
+    <string name="portforward_nickname_placeholder">وب‌سرور داخلی</string>
+    <string name="portforward_port_range_error">پورت باید بین ۱ و ۶۵۵۳۵ باشد.</string>
+    <string name="portforward_pos">پورت فوروارد ایجاد کنید</string>
+    <string name="portforward_remote">راه‌دور</string>
+    <string name="portforward_save">ذخیره</string>
+    <string name="portforward_source_addr_all" ns2:machine_translated="true">تمام آدرس‌ها</string>
+    <string name="portforward_source_addr_all_ipv4" ns2:machine_translated="true">تمام آدرس‌های IPv4</string>
+    <string name="portforward_source_addr_all_ipv6" ns2:machine_translated="true">تمام آدرس‌های IPv6</string>
+    <string name="portforward_source_addr_localhost" ns2:machine_translated="true">آدرس محلی</string>
+    <string name="portforward_source_addr_localhost_ipv4" ns2:machine_translated="true">لوکال‌هاست (فقط IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" ns2:machine_translated="true">لوکال‌هاست (فقط IPv6)</string>
+    <string name="portforward_source_addr_specific" ns2:machine_translated="true">آدرس مشخص</string>
+    <string name="portforward_source_addr_specific_placeholder" ns2:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label">نوع: %s</string>
+    <string name="pref_alwaysvisible_summary">کلیدهای مهم را همیشه در دسترس نگه دارید.</string>
+    <string name="pref_alwaysvisible_title">کلیدهای ویژه همواره دیده شوند</string>
+    <string name="pref_auth_on_launch_summary">هنگام باز کردن برنامه، درخواست اثر انگشت، تشخیص چهره یا پین دستگاه را فعال کنید.</string>
+    <string name="pref_auth_on_launch_title">احراز هویت هنگام شروع برنامه</string>
+    <string name="pref_backupkeys_summary">نگهداشتن پشتیبان گیری های کلیدهای خصوصی با استفاده از ماشین پشتیبان گیر اندروید</string>
+    <string name="pref_backupkeys_title">پشتیبان گیری از کلیدهای عمومی</string>
+    <string name="pref_bell_category">صدای زنگ ترمینال</string>
+    <string name="pref_bell_notification_summary">فرستادن اعلان زمانی که یک پایانه در حال اجرا، زنگی را به صدا در می‌آورد.</string>
+    <string name="pref_bell_notification_title">اعلان‌های پس‌زمینه</string>
+    <string name="pref_bell_summary">پخش صدا در هنگام دریافت هشدار در ترمینال</string>
+    <string name="pref_bell_title">صدای زنگ قابل شنیدن</string>
+    <string name="pref_bell_vibrate_summary">وقتی اعلان در ترمینال نمایش داده می‌شود، دستگاه را به لرزه درآور.</string>
+    <string name="pref_bell_vibrate_title">وقتی زنگ می‌خورد، گوشی را به لرزه درآور.</string>
+    <string name="pref_bell_volume_title">میزان صدای زنگ</string>
+    <string name="pref_bumpyarrows_summary">هنگام ارسال کلیدهای جهت‌دار، دستگاه را به لرزه درآورید؛ این ویژگی برای اتصالات با تأخیر زیاد مفید است.</string>
+    <string name="pref_bumpyarrows_title">فلش‌های نامنظم</string>
+    <string name="pref_camera_title">میان‌بر دوربین</string>
+    <string name="pref_conn_persist_summary">حتی زمانی که به برنامه‌های دیگر می‌روید، اتصال‌های خود را فعال نگه دارید</string>
+    <string name="pref_conn_persist_title">در پس‌زمینه به اتصال ادامه دهید</string>
+    <string name="pref_ctrlfkeys_summary">در صفحه‌کلیدهای نرم‌افزاری، کلیدهای عددی، کلیدهای F1 تا F10 را همراه با Ctrl ارسال می‌کنند.</string>
+    <string name="pref_ctrlfkeys_title">کلیدهای Ctrl+عدد، معادل کلیدهای F هستند</string>
+    <string name="pref_customfont_summary">یک فونت از Google Fonts با نام آن اضافه کنید.</string>
+    <string name="pref_customfont_title">افزودن فونت سفارشی</string>
+    <string name="pref_customterminal_summary">مقادیر سفارشی TERM را برای سرورهای راه دور اضافه کنید.</string>
+    <string name="pref_customterminal_title">انواع ترمینال سفارشی</string>
+    <string name="pref_default_profile_none">هیچ‌کدام (از تنظیمات هاست استفاده کنید)</string>
+    <string name="pref_default_profile_title">پروفایل پیش‌فرض</string>
+    <string name="pref_emulation_category">شبیه ساز ترمینال</string>
+    <string name="pref_emulation_title">حالت شبیه سازی</string>
+    <string name="pref_fontfamily_title">فونت</string>
+    <string name="pref_fullscreen_summary">پنهان‌سازی نوار وضعیت حین کار در کنسول</string>
+    <string name="pref_fullscreen_title">تمام صفحه</string>
+    <string name="pref_keepalive_summary">در حین کار در کنسول، مانع از خاموش شدن صفحه نمایش می‌شود</string>
+    <string name="pref_keepalive_title">صفحه روشن نگه‌داشته شود</string>
+    <string name="pref_keyboard_category">صفحه‌کلید</string>
+    <string name="pref_keymode_title">میان‌برهای پوشه</string>
+    <string name="pref_language_download" ns2:machine_translated="true">دانلود بسته‌ی زبانی</string>
+    <string name="pref_language_download_failed" ns2:machine_translated="true">دانلود با خطا مواجه شد، برای تلاش مجدد ضربه بزنید</string>
+    <string name="pref_language_system_default">مقدار پیش‌فرض سیستم</string>
+    <string name="pref_language_title">زبان</string>
+    <string name="pref_localfont_summary">یک فایل فونت از حافظه دستگاه وارد کنید (فرمت‌های TTF و OTF).</string>
+    <string name="pref_localfont_title">فونت محلی را وارد کنید</string>
+    <string name="pref_memkeys_summary">کلیدهای باز شده را تا زمانی که سرویس پس‌زمینه خاتمه یابد، در حافظه نگه دارید.</string>
+    <string name="pref_memkeys_title">کلیدها را در حافظه نگه دارید</string>
+    <string name="pref_pg_updn_gesture_summary">با کشیدن انگشت روی یک سوم سمت چپ صفحه، دستورات \"صفحه بالا\" یا \"صفحه پایین\" را به ترمینال ارسال کنید.</string>
+    <string name="pref_pg_updn_gesture_title">حرکت پیمایش به بالا/پایین صفحه</string>
+    <string name="pref_profiles_category">پروفایل‌ها</string>
+    <string name="pref_rotation_title">حالت چرخش</string>
+    <string name="pref_scrollback_summary">اندازه حائل اسکرول به عقب برای هر کنسول تا در حافظه نگهداری شود</string>
+    <string name="pref_scrollback_title">اندازه اسکرول به عقب</string>
+    <string name="pref_security_category">امنیت</string>
+    <string name="pref_shiftfkeys_summary">در صفحه‌کلیدهای سخت‌افزاری، کلیدهای عددی با نگه داشتن کلید Shift، دستورات F1 تا F10 را ارسال می‌کنند</string>
+    <string name="pref_shiftfkeys_title">کلیدهای Shift+عدد، معادل کلیدهای F هستند</string>
+    <string name="pref_stickymodifiers_title">کلیدهای اصلاح‌کننده چسبنده</string>
+    <string name="pref_theme_dark">تاریک</string>
+    <string name="pref_theme_light">نور</string>
+    <string name="pref_theme_system">مقدار پیش‌فرض سیستم</string>
+    <string name="pref_theme_title">تم</string>
+    <string name="pref_titlebarhide_summary">برای نمایش نوار عنوان و دسترسی به منو، روی کنسول ضربه بزنید.</string>
+    <string name="pref_titlebarhide_title">"مخفی شدن خودکار  نوار عنوان"</string>
+    <string name="pref_ui_category">رابط کاربری</string>
+    <string name="pref_volumefont_summary">اندازه فونت را همچنین می‌توان در تنظیمات پروفایل تغییر داد.</string>
+    <string name="pref_volumefont_title">کلیدهای صدا، اندازه متن را تغییر دهند</string>
+    <string name="pref_wifilock_summary">تا زمانی که جلسه فعال است، مانع از خاموش شدن وای‌فای می‌شود</string>
+    <string name="pref_wifilock_title">وای‌فای فعال نگه داشته شود</string>
+    <string msgid="6685851473431805375" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>» در بریده‌دان کپی شد."</string>
+    <string name="profile_controlled_setting">کنترل‌شده توسط پروفایل</string>
+    <string name="profile_create_button">ایجاد کنید</string>
+    <string name="profile_create_cancel">لغو کردن</string>
+    <string name="profile_create_dialog_title">ایجاد پروفایل</string>
+    <string name="profile_create_name_label">نام پروفایل</string>
+    <string name="profile_delete_button">حذف کنید.</string>
+    <string name="profile_delete_cancel">لغو کردن</string>
+    <string name="profile_delete_dialog_message">آیا مطمئن هستید که می‌خواهید \'%s\' را حذف کنید؟</string>
+    <string name="profile_delete_dialog_title">حذف پروفایل</string>
+    <string name="profile_editor_font_family_title">خانواده فونت</string>
+    <string name="profile_editor_font_size_title">اندازه فونت: %d</string>
+    <string name="profile_editor_force_size_columns">ستون‌ها</string>
+    <string name="profile_editor_force_size_enable">فعال کردن حالت اجباری اندازه</string>
+    <string name="profile_editor_force_size_rows">ردیف‌ها</string>
+    <string name="profile_editor_force_size_summary">به جای تنظیم خودکار اندازه ترمینال برای متناسب شدن با صفحه، اندازه خاصی (تعداد ستون‌ها در تعداد سطرها) را برای آن تعیین کنید.</string>
+    <string name="profile_editor_force_size_title">اندازه اجباری</string>
+    <string name="profile_editor_name_label">نام پروفایل</string>
+    <string name="profile_editor_save">ذخیره</string>
+    <string name="profile_editor_section_color_scheme">طرح رنگ</string>
+    <string name="profile_editor_section_font">فونت</string>
+    <string name="profile_editor_section_icon_color">رنگ آیکون</string>
+    <string name="profile_editor_section_terminal">ترمینال</string>
+    <string name="profile_editor_title_edit">ویرایش پروفایل</string>
+    <string name="profile_editor_title_new">پروفایل جدید</string>
+    <string name="profile_icon_color_none">هیچ‌کدام (از رنگ میزبان استفاده کنید)</string>
+    <string name="profile_list_create_profile">ایجاد پروفایل</string>
+    <string name="profile_list_delete">حذف کنید</string>
+    <string name="profile_list_duplicate">تکراری</string>
+    <string name="profile_list_empty_message">هنوز هیچ پروفایلی وجود ندارد. برای ایجاد یک پروفایل، روی علامت + ضربه بزنید.</string>
+    <string name="profile_list_more_options">گزینه‌های بیشتر</string>
+    <string name="profile_list_title">پروفایل‌ها</string>
+    <string name="profile_summary_emulation">شبیه‌سازی: %s</string>
+    <string name="profile_summary_font">فونت: %1$s %2$dpt</string>
+    <string name="prompt_again">(دوباره)</string>
+    <string name="prompt_allow_agent_to_use_key">اجازه به میزبان راه دور برای\nاستفاده از کلید \'%1$s\'</string>
+    <string name="prompt_bits">بیت ها:</string>
+    <string name="prompt_continue_connecting">مطمئن هستید که میخواهید\nبه برقراری اتصال، ادامه دهید؟</string>
+    <string name="prompt_destination">:مقصد</string>
+    <string name="prompt_host_disconnected">اتصال میزبان قطع شد.\nسیژن را ببندم؟</string>
+    <string name="prompt_nickname">نام مستعار:</string>
+    <string name="prompt_old_password">گذرواژه قدیمی:</string>
+    <string name="prompt_password">گذرواژه:</string>
+    <string name="prompt_password_can_be_blank">توجه: گذرواژه می تواند خالی باشد</string>
+    <string name="prompt_pubkey_password">گذرواژه برای کلید \'%1$s\'</string>
+    <string name="prompt_source_port">پورت منبع:</string>
+    <string name="prompt_type">نوع:</string>
+    <string name="prompt_username">نام کاربری:</string>
+    <string name="protocol_spinner_label">پروتکل</string>
+    <string name="pubkey_biometric_description">از این کلید با اثر انگشت خود محافظت کنید.</string>
+    <string name="pubkey_biometric_description_icon">توسط اثر انگشت محافظت شده است.</string>
+    <string name="pubkey_biometric_key_type_warning">محافظت از اثر انگشت فقط برای کلیدهای RSA و EC در دسترس است.</string>
+    <string name="pubkey_biometric_not_available">احراز هویت از طریق اثر انگشت در دسترس نیست.</string>
+    <string name="pubkey_biometric_not_enrolled">هیچ اثر انگشتی ثبت نشده است. برای استفاده از این ویژگی، اثر انگشت را در تنظیمات دستگاه تنظیم کنید.</string>
+    <string name="pubkey_biometric_prompt_subtitle">برای باز کردن قفل «%1$s»، انگشت خود را روی حسگر اثر انگشت قرار دهید.</string>
+    <string name="pubkey_biometric_prompt_title">برای استفاده از کلید، احراز هویت کنید.</string>
+    <string name="pubkey_biometric_protection">محافظت از اثر انگشت</string>
+    <string name="pubkey_change_password">تغییر گذرواژه</string>
+    <string name="pubkey_confirm_use">قبل از استفاده تایید کنید</string>
+    <string name="pubkey_copy_private">کپی کردن کلید خصوصی</string>
+    <string name="pubkey_copy_private_encrypted">کلید خصوصی (رمزگذاری شده) را کپی کنید.</string>
+    <string name="pubkey_copy_private_openssh">کلید خصوصی را کپی کنید (OpenSSH)</string>
+    <string name="pubkey_copy_private_pem">کلید خصوصی (PEM) را کپی کنید.</string>
+    <string name="pubkey_copy_public">کپی کردن کلید عمومی</string>
+    <string name="pubkey_delete">حذف کلید</string>
+    <string name="pubkey_editor_encrypted_startup_warning">کلیدهای رمزگذاری شده را نمی‌توان در هنگام راه‌اندازی باز کرد.</string>
+    <string name="pubkey_editor_key_type_label">نوع کلید</string>
+    <string name="pubkey_editor_options_label">گزینه‌ها</string>
+    <string name="pubkey_encrypted_description">رمزگذاری شده</string>
+    <string name="pubkey_export_confirm_passphrase">عبارت عبور را تأیید کنید.</string>
+    <string name="pubkey_export_passphrase_message">یک عبارت عبور وارد کنید تا کلید صادر شده رمزگذاری شود.</string>
+    <string name="pubkey_export_passphrase_mismatch">عبارات عبور با هم مطابقت ندارند</string>
+    <string name="pubkey_export_private">کلید خصوصی را صادر کنید.</string>
+    <string name="pubkey_export_private_encrypted">کلید خصوصی را صادر کنید (رمزگذاری شده)</string>
+    <string name="pubkey_export_private_openssh">کلید خصوصی را صادر کنید (OpenSSH)</string>
+    <string name="pubkey_export_private_pem">کلید خصوصی را صادر کنید (فرمت PEM)</string>
+    <string name="pubkey_export_public">کلید عمومی را صادر کنید</string>
+    <string name="pubkey_export_set_passphrase">عبارت عبور خروجی را تنظیم کنید.</string>
+    <string name="pubkey_gather_entropy">جمع آوری لگاریتمی اتفاقی</string>
+    <string name="pubkey_generate">تولید</string>
+    <string name="pubkey_generating">تولید کلید جفت شونده …</string>
+    <string name="pubkey_import_button">وارد کردن</string>
+    <string name="pubkey_import_clipboard_key_label" ns2:machine_translated="true">محتوای کلید خصوصی</string>
+    <string name="pubkey_import_confirm_password">تایید رمز عبور</string>
+    <string name="pubkey_import_encrypt_key">کلید را برای ذخیره‌سازی رمزگذاری کنید.</string>
+    <string name="pubkey_import_encrypted_message">برای رمزگشایی کلید \'%1$s\' (%2$s)، رمز عبور را وارد کنید.</string>
+    <string name="pubkey_import_encrypted_title">کلید رمزگذاری شده را وارد کنید.</string>
+    <string name="pubkey_import_existing">وارد کردن کلید عمومی موجود</string>
+    <string name="pubkey_import_from_clipboard" ns2:machine_translated="true">وارد کردن از حافظه موقت</string>
+    <string name="pubkey_import_new_password">گذرواژه جدید</string>
+    <string name="pubkey_import_reuse_password">از یک رمز عبور برای رمزگذاری استفاده کنید.</string>
+    <string name="pubkey_list_empty">برای ایجاد یا وارد کردن جفت کلیدها، روی \"منو\" ضربه بزنید.</string>
+    <string name="pubkey_load_on_start">بارگذاری کلید در زمان آغاز</string>
+    <string name="pubkey_nickname_exists">یک کلید با این نام مستعار از قبل وجود دارد.</string>
+    <string name="pubkey_not_encrypted_description">رمزگذاری نشده</string>
+    <string name="pubkey_paste_from_clipboard" ns2:machine_translated="true">چسباندن از حافظه موقت</string>
+    <string name="pubkey_touch_hint">"به منظور اطمینان از تصادفی بودن در زمان تولید کلید، انگشت خود را به طور تصادفی در طول کادر زیر  حرکت دهید."</string>
+    <string name="pubkey_touch_prompt">"برای جمع آوری اتفاقی این جعبه را لمس کنید:  %1$d%% انجام شد"</string>
+    <string name="pubkey_type_label">نوع: %s</string>
+    <string name="pubkey_unknown">کلید ناشناخته</string>
+    <string name="pubkey_unknown_format">فرمت ناشناخته</string>
+    <string name="pubkey_unlock">بازکردن کلید</string>
+    <string name="pubkey_unlock_message">برای باز کردن کلید \'%1$s\'، رمز عبور را وارد کنید.</string>
+    <string msgid="5941395253238309765" name="range_end">"پایان محدوده"</string>
+    <string msgid="7097486360902471446" name="range_start">"شروع محدوده"</string>
+    <string name="resize_disable_force_size">غیرفعال کردن تنظیمات اجباری اندازه</string>
+    <string name="resize_height_label">ارتفاع (تعداد ردیف‌ها)</string>
+    <string name="resize_width_label">عرض (تعداد ستون‌ها)</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"برای ادامه، قفل صفحه‌تان را وارد کنید"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"جستجو"</string>
+    <string name="searchview_clear_text_content_description">پاک کردن نوشتار</string>
+    <string name="searchview_navigation_content_description">برگشتن</string>
+    <string name="section_ansi_colors">رنگ‌های ANSI (۰–۱۵)</string>
+    <string name="section_color_preview">پیش‌نمایش</string>
+    <string name="section_fg_bg_colors">پیش‌زمینه و پس‌زمینه</string>
+    <string msgid="6043586758067023" name="selected">"انتخاب شد"</string>
+    <string name="service_desc">کانکشن‌های SSH و کلیدهای همگانی بارگذاری شده را نگه می‌دارد</string>
+    <string name="shortcut_create">ایجاد میانبر</string>
+    <string name="shortcut_customize_title">میانبر را سفارشی کنید</string>
+    <string name="shortcut_icon_color">رنگ آیکون</string>
+    <string name="shortcut_icon_style">سبک آیکون</string>
+    <string name="shortcut_use_host_color">از رنگ‌های مخصوص برای هر هاست استفاده کنید.</string>
+    <string name="side_sheet_accessibility_pane_title">برگ کناری</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"هشدار"</string>
+    <string msgid="4139871816613051306" name="state_empty">"خالی"</string>
+    <string msgid="5834637030682409883" name="state_off">"خاموش"</string>
+    <string msgid="1490883874751719580" name="state_on">"روشن"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"کلید"</string>
+    <string msgid="1672349317127674378" name="tab">"زبانه"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> درصد."</string>
+    <string name="terminal_auth">در حال تلاش برای احراز هویت</string>
+    <string name="terminal_auth_biometric">درخواست احراز هویت بیومتریک برای کلید \'%1$s\'</string>
+    <string name="terminal_auth_biometric_invalidated">کلید بیومتریک \'%1$s\' نامعتبر شده است. این ممکن است زمانی اتفاق بیفتد که اثر انگشت‌های جدید روی دستگاه ثبت شوند. لطفاً یک کلید جدید ایجاد کنید.</string>
+    <string name="terminal_auth_fail">[سرور شما از روش‌های احراز هویت «گذرواژه» یا «تعاملی مبتنی بر صفحه‌کلید» پشتیبانی نمی‌کند.]</string>
+    <string name="terminal_auth_ki">تلاش برای احراز هویت از طریق روش \'تعاملی مبتنی بر صفحه کلید\'</string>
+    <string name="terminal_auth_ki_fail">روش احراز هویت \'keyboard-interactive\' با شکست مواجه شد.</string>
+    <string name="terminal_auth_pass">تلاش برای احراز هویت با استفاده از \'رمز عبور\'</string>
+    <string name="terminal_auth_pass_fail">روش احراز هویت \'رمز عبور\' با شکست مواجه شد.</string>
+    <string name="terminal_auth_pubkey_any">تلاش برای احراز هویت با استفاده از روش \'کلید عمومی\' و هر کلید عمومی موجود در حافظه</string>
+    <string name="terminal_auth_pubkey_fail">روش احراز هویت \'کلید عمومی\' با کلید \'%1$s\' با شکست مواجه شد.</string>
+    <string name="terminal_auth_pubkey_invalid">کلید عمومی انتخاب‌شده نامعتبر است، لطفاً کلید را دوباره در ویرایشگر میزبان انتخاب کنید.</string>
+    <string name="terminal_auth_pubkey_specific">تلاش برای احراز هویت با استفاده از کلید عمومی مشخص</string>
+    <string name="terminal_auth_saved_password">تلاش برای استفاده از رمز عبور ذخیره شده...</string>
+    <string name="terminal_auth_saved_password_fail">احراز هویت با رمز عبور ذخیره شده با شکست مواجه شد.</string>
+    <string name="terminal_connecting">در حال اتصال به %1$s:%2$d از طریق %3$s</string>
+    <string name="terminal_connecting_via_jump">اتصال از طریق هاست واسط: %s</string>
+    <string name="terminal_enable_portfoward">فعال کردن انتقال پورت: %1$s</string>
+    <string name="terminal_failed">اعتبارسنجی کلید میزبان ناموفق بود.</string>
+    <string name="terminal_jump_auth_failed">احراز هویت برای هاست واسط با شکست مواجه شد: %s</string>
+    <string name="terminal_jump_authenticated">ورود به سرور واسط با موفقیت انجام شد: %s</string>
+    <string name="terminal_jump_connected">به هاست واسط متصل شد: %s</string>
+    <string name="terminal_jump_failed">اتصال به هاست واسط %1$s با شکست مواجه شد: %2$s</string>
+    <string name="terminal_jump_not_found">هاست واسط در لیست هاست‌های ذخیره شده یافت نشد.</string>
+    <string name="terminal_jump_password">گذرواژه برای سرور واسط %s:</string>
+    <string name="terminal_kex_algorithm">الگوریتم تبادل کلید: %s</string>
+    <string name="terminal_keyboard_text_input_button">ورودی متن</string>
+    <string name="terminal_no_route">آیا می‌خواهید به یک هاست محلی دسترسی پیدا کنید؟ مجوزهای شبکه محلی را فعال کنید.</string>
+    <string name="terminal_no_session">به دلیل تنظیمات مربوط به هاست، نشست آغاز نخواهد شد.</string>
+    <string name="terminal_sucess">میزبان «%1$s» با کلید: %2$s معتبر است</string>
+    <string name="terminal_text_input_dialog_label">متنی را که می‌خواهید به ترمینال ارسال کنید، وارد کنید.</string>
+    <string name="terminal_text_input_dialog_title">ورودی متن</string>
+    <string name="terminal_text_input_resize_handle">تغییر اندازه</string>
+    <string name="terminal_using_algorithm">در حال استفاده از الگوریتم: %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">الگوریتم کارخواه-به-کارساز: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">الگوریتم کارساز-به-کارخواه: %1$s %2$s</string>
+    <string name="terms_and_conditions">بندها و پیمان</string>
+    <string name="title_color_picker">رنگی برگزینید</string>
+    <string name="title_colors">رنگ‌ها</string>
+    <string name="title_contact">تماس و پشتیبانی</string>
+    <string name="title_eula">لایسنس</string>
+    <string name="title_help">راهنما</string>
+    <string name="title_palette_editor">ویرایش پالت رنگ</string>
+    <string name="title_port_forwards_list">پورت فوروارد</string>
+    <string name="title_pubkey_generate">تولید</string>
+    <string name="title_pubkey_list">کلیدهای همگانی</string>
+    <string name="title_scheme_manager">مدیریت طرح‌های رنگی</string>
+    <string name="title_settings">تنظیمات</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"نکته‌ابزار"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"نمایش نکته‌ابزار"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"استفاده از داده‌های زیست‌سنجشی"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"استفاده از داده‌های زیست‌سنجشی یا قفل صفحه"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"استفاده از چهره"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"استفاده از قفل صفحه یا چهره"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"استفاده از اثر انگشت"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"استفاده از اثر انگشت یا قفل صفحه"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"از قفل صفحه استفاده کنید"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"خاموش"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"روشن"</string>
+    <string name="view_logs">مشاهده گزارش‌ها</string>
+    <string name="yes">بله</string>
+</resources>

@@ -1,0 +1,11 @@
+org.connectbot.app-updated_navigation_xml-0 /Users/liuhu/github/connectbot/app/build/generated/updated_navigation_xml/ossRelease
+org.connectbot.app-ossRelease-1 /Users/liuhu/github/connectbot/app/build/intermediates/generated_locale_config_incremental_dir/ossRelease/generateOssReleaseLocaleConfig
+org.connectbot.app-packageOssReleaseResources-2 /Users/liuhu/github/connectbot/app/build/intermediates/incremental/ossRelease/packageOssReleaseResources/merged.dir
+org.connectbot.app-packageOssReleaseResources-3 /Users/liuhu/github/connectbot/app/build/intermediates/incremental/ossRelease/packageOssReleaseResources/stripped.dir
+org.connectbot.app-oss-4 /Users/liuhu/github/connectbot/app/build/intermediates/merged-not-compiled-resources/oss/release
+org.connectbot.app-ossRelease-5 /Users/liuhu/github/connectbot/app/build/intermediates/merged_res/ossRelease/mergeOssReleaseResources
+org.connectbot.app-main-6 /Users/liuhu/github/connectbot/app/src/main/res
+org.connectbot.app-oss-7 /Users/liuhu/github/connectbot/app/src/oss/res
+org.connectbot.app-ossRelease-8 /Users/liuhu/github/connectbot/app/src/ossRelease/res
+org.connectbot.app-release-9 /Users/liuhu/github/connectbot/app/src/release/res
+gradleHome-0 /Users/liuhu/.gradle

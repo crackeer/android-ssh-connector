@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificació nova</item>
+    <item quantity="other">%d notificacions noves</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navega fins a la pàgina d\'inici"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navega cap amunt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra-ho tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="alert_disconnect_msg">Connexió perduda</string>
+    <string name="alert_passwords_do_not_match_msg">Les contrasenyes no coincideixen!</string>
+    <string name="alert_wrong_password_msg">La contrasenya no és correcta.</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Emplenament automàtic"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Emplenament automàtic"</string>
+    <string name="app_copyright">Copyright © Kenny Root</string>
+    <string name="app_desc">Client SSH simple, potent i lliure</string>
+    <string name="app_is_running">El ConnectBot està en marxa</string>
+    <string name="auth_prompt_subtitle">Verifiqueu la vostra identitat per continuar.</string>
+    <string name="auth_prompt_title">Desbloqueja ConnectBot</string>
+    <string name="auth_screen_title">ConnectBot està bloquejat.</string>
+    <string name="auth_screen_unlock_button">Toqueu per desbloquejar</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"Utilitza la biometria o el bloqueig de pantalla per continuar"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"Utilitza la biometria per continuar"</string>
+    <string name="bottomsheet_action_collapse">Replega</string>
+    <string name="bottomsheet_action_collapse_description">Replega el full inferior</string>
+    <string name="bottomsheet_action_expand">Desplega</string>
+    <string name="bottomsheet_action_expand_description">Desplega el full inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Desplega fins a la meitat</string>
+    <string name="bottomsheet_action_half_expand_description">Desplega el full inferior fins a la meitat</string>
+    <string name="bottomsheet_drag_handle_content_description">Ansa de posicionament</string>
+    <string name="bottomsheet_state_collapsed">Replegat</string>
+    <string name="bottomsheet_state_expanded">Desplegat</string>
+    <string name="bottomsheet_state_half_expanded">Desplegat fins a la meitat</string>
+    <string name="button_add">Afegiu</string>
+    <string name="button_add_custom">Afegeix personalitzat…</string>
+    <string name="button_back">Torna</string>
+    <string name="button_cancel">Cancel·la</string>
+    <string name="button_close">Tanca</string>
+    <string name="button_collapse">Reduir</string>
+    <string name="button_confirm">Confirma</string>
+    <string name="button_delete_scheme">Suprimeix</string>
+    <string name="button_duplicate_scheme">Duplicat</string>
+    <string name="button_edit_palette">Edita la paleta</string>
+    <string name="button_export_scheme">Exporta l\'esquema</string>
+    <string name="button_host_options">Opcions de l\'amfitrió</string>
+    <string name="button_import">Importa</string>
+    <string name="button_import_scheme">Importa l\'esquema</string>
+    <string name="button_key_ctrl">Ctrl</string>
+    <string name="button_key_end">Fi</string>
+    <string name="button_key_esc">Esc</string>
+    <string name="button_key_f1">F1</string>
+    <string name="button_key_f10">F10</string>
+    <string name="button_key_f11">F11</string>
+    <string name="button_key_f12">F12</string>
+    <string name="button_key_f2">F2</string>
+    <string name="button_key_f3">F3</string>
+    <string name="button_key_f4">F4</string>
+    <string name="button_key_f5">F5</string>
+    <string name="button_key_f6">F6</string>
+    <string name="button_key_f7">F7</string>
+    <string name="button_key_f8">F8</string>
+    <string name="button_key_f9">F9</string>
+    <string name="button_key_home">Inici</string>
+    <string name="button_key_pgdn">Av Pàg</string>
+    <string name="button_key_pgup">Re Pàg</string>
+    <string name="button_manage_custom">Gestiona els perfils personalitzats…</string>
+    <string name="button_manage_schemes">Gestiona els esquemes</string>
+    <string name="button_more_options">Més opcions</string>
+    <string name="button_navigate_up">Desplaceu-vos cap amunt</string>
+    <string name="button_new_scheme">Nou esquema</string>
+    <string name="button_no">No</string>
+    <string name="button_ok">D\'acord</string>
+    <string name="button_remove">Elimina</string>
+    <string name="button_rename_scheme">Canvia el nom</string>
+    <string name="button_reset_all_colors">Restaura-ho tot</string>
+    <string name="button_resize">Redimensiona</string>
+    <string name="button_send">Envia</string>
+    <string name="button_yes">Sí</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Respon"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Rebutja"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Penja"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Trucada entrant"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Trucada en curs"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"S\'està filtrant una trucada entrant"</string>
+    <string name="character_counter_content_description">Caràcters introduïts: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">S\'ha superat el límit de caràcters (%1$d de %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Esborra el text</string>
+    <string msgid="406453423630273620" name="close_drawer">"Tanca el menú de navegació"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tanca el full"</string>
+    <string name="color_amber">Amber</string>
+    <string name="color_bg_label">Fons: %1$d</string>
+    <string name="color_blue">Blau</string>
+    <string name="color_cyan">Cian</string>
+    <string name="color_deep_purple">Deep Purple</string>
+    <string name="color_gray">Gris</string>
+    <string name="color_green">Verd</string>
+    <string name="color_indigo">Indigo</string>
+    <string name="color_light_blue">Blau clar</string>
+    <string name="color_light_green">Verd clar</string>
+    <string name="color_lime">Llima</string>
+    <string name="color_orange">Taronja</string>
+    <string name="color_pink">Rosa</string>
+    <string name="color_purple">Lila</string>
+    <string name="color_red">Vermell</string>
+    <string name="color_teal">Color turquesa</string>
+    <string name="color_yellow">Groc</string>
+    <string name="colors_fg_label">Principal: %1$d</string>
+    <string name="colorscheme_default">Per defecte</string>
+    <string name="colorscheme_default_description">Colors per defecte del terminal</string>
+    <string name="colorscheme_dracula_description">Un tema fosc per al terminal</string>
+    <string name="colorscheme_gruvbox_dark_description">Paleta de colors amb estil retro</string>
+    <string name="colorscheme_monokai_description">Tema inspirat en Sublime Text</string>
+    <string name="colorscheme_nord_description">Una paleta de colors àrtica, amb tons blaus del nord.</string>
+    <string name="colorscheme_solarized_dark_description">Colors precisos per a màquines i persones</string>
+    <string name="colorscheme_solarized_light_description">Solarized amb fons clar</string>
+    <string name="colorscheme_tomorrow_night_description">Un tema fosc, elegant i còmode.</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Utilitza la contrasenya"</string>
+    <string name="connect_anyway">Connecta de totes maneres</string>
+    <string name="console_default_title">Consola</string>
+    <string name="console_menu_close">Tanca</string>
+    <string name="console_menu_paste">Enganxa</string>
+    <string name="console_menu_portforwards">Redireccionament de ports</string>
+    <string name="console_menu_reconnect">Torna a connectar</string>
+    <string name="console_menu_resize">Força el tamany</string>
+    <string name="console_menu_text_input">Entrada de text</string>
+    <string name="console_menu_urlscan">Llistat de URL</string>
+    <string name="console_url_no_handler">No hi ha cap aplicació disponible per obrir aquesta URL.</string>
+    <string name="console_url_not_supported">Aquest tipus d\'URL no és compatible</string>
+    <string msgid="6083905920877235314" name="copy">"Copia"</string>
+    <string name="copy_logs">Copia els registres</string>
+    <string name="decrease_font_shortcut">Ctrl -</string>
+    <string name="decrease_font_size">Redueix la mida de la font</string>
+    <string msgid="8038256446254964252" name="default_error_message">"L\'entrada no és vàlida"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Error desconegut"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Finestra emergent"</string>
+    <string name="delete_host_confirm">Estàs segur que vols eliminar l\'amfitrió \'%1$s\'?</string>
+    <string name="delete_message">Estas segur que vols esborrar \'%1$s\'?</string>
+    <string name="delete_neg">Cancel·la</string>
+    <string name="delete_pos">Sí, esborra</string>
+    <string name="dialog_custom_value_label">Introduïu un valor personalitzat</string>
+    <string name="dialog_customfont_hint">Nom de Google Fonts (per exemple, Cascadia Code)</string>
+    <string name="dialog_customfont_title">Afegeix un tipus de lletra personalitzat</string>
+    <string name="dialog_customterminal_hint">Tipus de terminal (per exemple, rxvt-unicode)</string>
+    <string name="dialog_customterminal_title">Afegeix un tipus de terminal personalitzat</string>
+    <string name="dialog_localfont_hint">Nom per visualitzar de la font</string>
+    <string name="dialog_localfont_title">Importa el tipus de lletra</string>
+    <string name="dialog_manage_customterminal_title">Gestiona els tipus de terminal personalitzats</string>
+    <string name="dialog_message_delete_scheme">Estàs segur que vols eliminar \"%1$s\"? Aquesta acció no es pot revertir.</string>
+    <string name="dialog_message_reset_all">Això restablirà tots els 256 colors als seus valors per defecte. Aquesta acció no es pot revertir.</string>
+    <string name="dialog_title_delete_scheme">Vols eliminar l\'esquema?</string>
+    <string name="dialog_title_edit_color">Edita el color %1$d</string>
+    <string name="dialog_title_new_scheme">Nou esquema de colors</string>
+    <string name="dialog_title_rename_scheme">Canviar el nom del esquema de colors</string>
+    <string name="dialog_title_reset_all">Restaurar tots els colors?</string>
+    <string name="disconnect_all_message">Segur que voleu desconnectar de tots els equips remots?</string>
+    <string name="disconnect_all_neg">Cancel·la</string>
+    <string name="disconnect_all_pos">Sí, desconnecta</string>
+    <string name="disconnect_host_alert">Estàs segur que vols desconnectar-te de \'%1$s\'?</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menú desplegable"</string>
+    <string name="empty_custom_schemes">No hi ha esquemes personalitzats. Toqueu \"Nou esquema\" per crear-ne un.</string>
+    <string name="empty_hosts_message">No s\'han configurat amfitrions.</string>
+    <string name="empty_port_forwards_message">No s\'han configurat reenviaments de ports.</string>
+    <string name="empty_pubkeys_message">No s\'han trobat claus.</string>
+    <string name="empty_urls_message">No s\'han trobat URL a la memòria intermèdia del terminal.</string>
+    <string name="error_a11y_label">Error: no vàlid</string>
+    <string name="error_color_scheme_load_failed">No s\'ha pogut carregar l\'esquema de colors: %s</string>
+    <string name="error_connection_failed">No s\'ha pogut connectar a %1$s (%2$s): %3$s</string>
+    <string name="error_export_failed">No s\'ha pogut exportar l\'esquema: %1$s</string>
+    <string name="error_host_save_failed">No s\'ha pogut desar l\'amfitrió %1$s: %2$s</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_import_failed">No s\'ha pogut importar l\'esquema: %1$s</string>
+    <string name="error_invalid_json">Fitxer JSON no vàlid.</string>
+    <string name="error_key_load_failed">No s\'ha pogut carregar la clau \'%1$s\': %2$s</string>
+    <string name="error_port_forward_load_failed">No s\'han pogut carregar els reenviaments de ports per a %1$s: %2$s</string>
+    <string name="expand">Amplia</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Opcions avançades"</string>
+    <string name="export_hosts_failed">No s\'han pogut exportar els hostes: %s</string>
+    <string name="export_hosts_success">S\'han exportat %1$d amfitrions i %2$d perfils.</string>
+    <string name="export_hosts_title">Exporta els hostes</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"Utilitza la cara o el bloqueig de pantalla per continuar"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"Utilitza la cara per continuar"</string>
+    <string name="fingerprint_copy_description">Copia la petjada digital al porta-retalls</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Icona d\'empremta digital"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toca sensor d\'empremtes"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"El maquinari d\'empremtes digitals no està disponible."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Aquest dispositiu no té sensor d\'empremtes digitals"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Massa intents. Torna-ho a provar més tard."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"No s\'ha registrat cap empremta digital."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"L\'usuari ha cancel·lat l\'operació d\'empremta digital."</string>
+    <string name="fingerprint_format_header">Format de la petjada digital</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"No s\'ha reconegut"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"Utilitza l\'empremta digital o el bloqueig de pantalla per continuar"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"Utilitza l\'empremta digital per continuar"</string>
+    <string name="font_downloading">Descarregant el tipus de lletra…</string>
+    <string name="font_importing">S\'està carregant el tipus de lletra...</string>
+    <string name="font_system_default">Per defecte (tipus de lletra de mida fixa)</string>
+    <string name="font_use_default">Utilitza la configuració per defecte</string>
+    <string name="font_validating">Validant el tipus de lletra…</string>
+    <string name="forget_host_keys_confirm">Estàs segur que vols oblidar les claus d\'amfitrió emmagatzemades per a \'%1$s\'? Se\'t demanarà que verifiquis la clau d\'amfitrió la propera vegada que et connectis.</string>
+    <string name="format_hostname">servidor</string>
+    <string name="format_port">port</string>
+    <string name="format_username">Usuari</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"No s\'ha definit cap PIN, patró o contrasenya."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Aquest dispositiu no admet utilitzar cap PIN, patró ni contrasenya."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"L\'usuari ha cancel·lat l\'autenticació."</string>
+    <string name="grant_permission">Permetre</string>
+    <string name="help_donate_coffee">Fes-me un don</string>
+    <string name="help_donate_github">GitHub Sponsors</string>
+    <string name="help_github">El codi font</string>
+    <string name="help_report_bug">Informa d\'un error</string>
+    <string name="help_section_about">Sobre</string>
+    <string name="help_section_contact">Contacte i assistència</string>
+    <string name="help_section_donate">Doneu suport al desenvolupament</string>
+    <string name="help_website">Lloc web</string>
+    <string name="hints">Consells</string>
+    <string name="host_authenticity_warning">La autenticació amb el servidor \'%1$s\' no es pot establir.</string>
+    <string name="host_duplicate_nickname">%1$s (còpia)</string>
+    <string name="host_editor_hide_advanced">Amaga les opcions avançades</string>
+    <string name="host_editor_quick_connect_example">Exemple: root\@192.168.1.1:22</string>
+    <string name="host_editor_quick_connect_label">Connexió ràpida</string>
+    <string name="host_editor_quick_connect_placeholder">usuari\@nomdelservidor:port</string>
+    <string name="host_editor_show_advanced">Mostra les opcions avançades</string>
+    <string name="host_fingerprint">Servidor %1$s empremta de la clau és %2$s</string>
+    <string name="host_key_type_and_size">%1$s %2$d bits</string>
+    <string name="host_key_verification_title">Verificació de la clau de l\'amfitrió</string>
+    <string name="host_verification_failure_warning">ES POSSIBLE QUE ALGÚ ESTIGUI FENT ALGUNA COSA LLETGA!\nAlgú pot estar escoltant la teva comunicació (atac home-al-mig)!\nTambé és possible que simplement el servidor hagi canviat la clau.</string>
+    <string name="host_verification_failure_warning_header">ALERTA: LA IDENTIFICACIÓ DEL SERVIDOR REMOT HA CANVIAT!</string>
+    <string name="hostpref_add_host">Afegeix un equip remot</string>
+    <string name="hostpref_authagent_title">Usa agent d\'autenticació SSH</string>
+    <string name="hostpref_authagent_with_confirmation">Requereix confirmació</string>
+    <string name="hostpref_clear_password">Elimina la contrasenya desada</string>
+    <string name="hostpref_color_title">Color de la categoria</string>
+    <string name="hostpref_colorscheme_title">Esquema de colors del terminal</string>
+    <string name="hostpref_compression_summary">Això pot ajudar per xarxes lentes</string>
+    <string name="hostpref_compression_title">Compressió</string>
+    <string name="hostpref_delkey_title">Tecla DEL</string>
+    <string name="hostpref_encoding_title">Codificació</string>
+    <string name="hostpref_fontfamily_title">Font</string>
+    <string name="hostpref_fontsize_title">Mida de la lletra (pt)</string>
+    <string name="hostpref_hostname_title">Servidor</string>
+    <string name="hostpref_ipversion_summary">Seleccioneu la versió d\'adreça IP que voleu utilitzar quan us connecteu</string>
+    <string name="hostpref_ipversion_title">Versió IP</string>
+    <string name="hostpref_jumphost_summary">Connecta\'t a través d\'un altre host SSH</string>
+    <string name="hostpref_jumphost_title">Servidor intermedi (ProxyJump)</string>
+    <string name="hostpref_nickname_title">Sobrenom</string>
+    <string name="hostpref_password_title">Contrasenya</string>
+    <string name="hostpref_password_unchanged">Contrasenya (sense canvis)</string>
+    <string name="hostpref_port_title">Port</string>
+    <string name="hostpref_postlogin_summary">Comandes a executar en el servidor remot un cop autenticat.</string>
+    <string name="hostpref_postlogin_title">Automatització post-entrada</string>
+    <string name="hostpref_profile_none">Cap (utilitza la configuració de l\'amfitrió)</string>
+    <string name="hostpref_profile_summary">Seleccioneu un perfil per utilitzar la seva configuració de terminal.</string>
+    <string name="hostpref_profile_title">Perfil</string>
+    <string name="hostpref_pubkeyid_title">Usa autenticació de claus públiques</string>
+    <string name="hostpref_quickdisconnect_summary">Tanca immediatament sense demanar en desconnectar de l\'equip remot.</string>
+    <string name="hostpref_quickdisconnect_title">Tanca en desconnectar</string>
+    <string name="hostpref_save_host">Desa l\'equip remot</string>
+    <string name="hostpref_save_password_summary">Emmagatzemeu de manera segura la contrasenya d\'inici de sessió per a l\'autenticació automàtica.</string>
+    <string name="hostpref_setting_title">Configuració de l\'amfitrió</string>
+    <string name="hostpref_stayconnected_summary">Intenta reconnectar al servidor si es desconnecta</string>
+    <string name="hostpref_stayconnected_title">Manté connectat</string>
+    <string name="hostpref_username_title">Nom d\'usuari</string>
+    <string name="hostpref_wantsession_summary">Deshabilita aquesta preferència per només usar redireccionament de ports</string>
+    <string name="hostpref_wantsession_title">Inicia una sessió de shell</string>
+    <string name="icon_content_description">Icona del quadre de diàleg</string>
+    <string name="icon_style_cloud">Cloud</string>
+    <string name="icon_style_key">Clau</string>
+    <string name="icon_style_server">Servidor</string>
+    <string name="icon_style_terminal">Terminal</string>
+    <string name="image_description_connected">Connectat.</string>
+    <string name="image_description_disconnected">Desconnectat.</string>
+    <string name="image_description_down">Fletxa avall</string>
+    <string name="image_description_hide_keyboard">Amaga el teclat</string>
+    <string name="image_description_left">Fletxa esquerra</string>
+    <string name="image_description_right">Fletxa dreta</string>
+    <string name="image_description_send_escape_character">Envia el caràcter d\'escapada</string>
+    <string name="image_description_send_tab_character">Envia el caràcter de tabulació</string>
+    <string name="image_description_show_keyboard">Mostra el teclat</string>
+    <string name="image_description_toggle_control_character">Commuta el caràcter de control.</string>
+    <string name="image_description_up">Fletxa amunt</string>
+    <string name="import_hosts_failed">No s\'han pogut importar els hostals: %s</string>
+    <string name="import_hosts_success">S\'han importat %1$d hosts (%2$d ignorats) i %3$d perfils (%4$d ignorats).</string>
+    <string msgid="6827826412747255547" name="in_progress">"En curs"</string>
+    <string name="increase_font_shortcut">Ctrl +</string>
+    <string name="increase_font_size">Augmenta la mida de la font</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Marcat parcialment"</string>
+    <string name="ipversion_auto">Automàtic</string>
+    <string name="ipversion_ipv4">Només IPv4</string>
+    <string name="ipversion_ipv6">Només IPv6</string>
+    <string name="item_view_role_description">Tabulador</string>
+    <string name="keyboard_shortcuts">Dreceres</string>
+    <string name="label_background_color">Informació general</string>
+    <string name="label_base_scheme">Esquema bàsic:</string>
+    <string name="label_blue">Blau</string>
+    <string name="label_built_in_scheme">Integrat</string>
+    <string name="label_custom_scheme">Personalitzat</string>
+    <string name="label_foreground_color">Primer pla</string>
+    <string name="label_green">Verd</string>
+    <string name="label_hex_color">Color hexadecimal</string>
+    <string name="label_red">Vermell</string>
+    <string name="label_scheme_description">Descripció (opcional)</string>
+    <string name="label_scheme_name">Nom de l\'esquema</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A llavors Espai</string>
+    <string name="list_camera_ctrlaspace_description">Ctrl+A i després la barra espaiadora</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description">Esc+A</string>
+    <string name="list_camera_esc_description">Esc</string>
+    <string name="list_camera_none">Res</string>
+    <string name="list_camera_none_description">Cap</string>
+    <string name="list_camera_text_input">Entrada de text</string>
+    <string name="list_camera_text_input_description">Entrada de text</string>
+    <string name="list_color_schemes">Esquemes de colors</string>
+    <string name="list_host_delete">Elimina servidors</string>
+    <string name="list_host_disconnect">Desconnecta</string>
+    <string name="list_host_duplicate">Amfitrió duplicat</string>
+    <string name="list_host_edit">Edita el servidor</string>
+    <string name="list_host_forget_keys">Omet les claus d\'amfitrió</string>
+    <string name="list_host_portforwards">Edita el redireccionament de ports</string>
+    <string name="list_jumphost_none">Cap (connexió directa)</string>
+    <string name="list_keymode_left">Utilitza les tecles de l\'esquerra</string>
+    <string name="list_keymode_none">Deshabilita</string>
+    <string name="list_keymode_right">Utilitza les tecles de la dreta</string>
+    <string name="list_menu_disconnect">Desconnecta-ho tot</string>
+    <string name="list_menu_export_hosts">Exporta els hostes</string>
+    <string name="list_menu_import_hosts">Importa els hostes</string>
+    <string name="list_menu_pubkeys">Gestiona Claus</string>
+    <string name="list_menu_settings">Arrenjaments</string>
+    <string name="list_menu_sortcolor">Ordena per color</string>
+    <string name="list_menu_sortname">Ordena per nom</string>
+    <string name="list_pubkey_edit">Edita la clau pública</string>
+    <string name="list_pubkeyids_any">Fes servir qualsevol clau desbloquejada</string>
+    <string name="list_pubkeyids_none">No usis claus</string>
+    <string name="list_rotation_auto">Automàtic</string>
+    <string name="list_rotation_default">Per defecte</string>
+    <string name="list_rotation_land">Força horitzontal</string>
+    <string name="list_rotation_port">Força vertical</string>
+    <string name="loading_message">S\'està carregant...</string>
+    <string name="local_shell_unavailable">Fallada! El shell local no està disponible en aquest telèfon.</string>
+    <string name="logs_bug_report_info">Per informar d\'un error, copieu aquests registres i obriu un nou registre a https://connectbot.org/bug</string>
+    <string name="logs_copied">Els registres s\'han copiat a la memòria portallàpies.</string>
+    <string name="logs_title">Registre d\'aplicacions</string>
+    <string name="m3_loading_indicator_content_description">S\'està carregant</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Menú de desbordament</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Més opcions</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Replega el full inferior"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Ignora el full inferior"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Ansa de posicionament"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Desplega el full inferior"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Full inferior"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Més opcions"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Data introduïda"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Data introduïda: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"La data no coincideix amb el patró esperat: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Data no permesa: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"La data no es troba dins de l\'interval d\'anys esperat: %1$s-%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Data"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Cap"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Selecciona la data"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Data seleccionada"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Selecció actual: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navega fins a l\'any %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Cap"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Desplaça\'t per mostrar els anys anteriors"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Desplaça\'t per mostrar els anys posteriors"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Canvia al mode d\'introducció de calendari"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Llisca per seleccionar un any o toca per tornar a seleccionar un dia"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Canvia al mode d\'introducció de text"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Canvia al mes següent"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Canvia al mes anterior"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Canvia a la selecció de l\'any"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Selecciona la data"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Avui"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Selector d\'any visible"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"S\'ha introduït un interval de dates no vàlid"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Introdueix les dates"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Dins de l\'interval"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Data de finalització"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Desplaça\'t per mostrar el mes següent"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Desplaça\'t per mostrar el mes anterior"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Data d\'inici"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Selecciona les dates"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Quadre de diàleg"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"S\'ha replegat"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"S\'ha desplegat"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Commuta el menú desplegable"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Replega la barra d\'eines"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Desplega la barra d\'eines"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Més opcions"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Cerca"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ignora"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Alerta"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Suggeriments a continuació"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Introdueix l\'hora"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Selecciona l\'hora"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Hora"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d hores"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"L\'hora ha de ser 1-12"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"L\'hora ha de ser 0-23"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Selecciona l\'hora"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d en punt"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"per a l\'hora"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minut"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"El minut ha de ser 0-59"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Selecciona els minuts"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuts"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"per als minuts"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Selecciona AM o PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Canvia al mode d\'introducció de text"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Canvia al mode de rellotge"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Mostra la descripció emergent"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Descripció emergent"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Tanca la barra"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Barra de navegació"</string>
+    <string name="material_clock_toggle_content_description">Selecciona a. m. o p. m.</string>
+    <string name="material_hour_24h_suffix">%1$s hores</string>
+    <string name="material_hour_selection">Seleccioneu l\'hora</string>
+    <string name="material_hour_suffix">%1$s en punt</string>
+    <string name="material_minute_selection">Selecciona els minuts</string>
+    <string name="material_minute_suffix">%1$s minuts</string>
+    <string name="material_slider_range_end">Fi de l\'interval</string>
+    <string name="material_slider_range_start">Inici de l\'interval</string>
+    <string name="material_slider_value">Valor</string>
+    <string name="material_timepicker_am">a. m.</string>
+    <string name="material_timepicker_clock_mode_description">Canvia al mode de rellotge per introduir l\'hora.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Canvia al mode de rellotge</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_hour_error">L\'hora ha de ser 1-12</string>
+    <string name="material_timepicker_hour_error_24h">L\'hora ha de ser 0-23</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_minute_error">El minut ha de ser 0-59</string>
+    <string name="material_timepicker_pm">p. m.</string>
+    <string name="material_timepicker_select_time">Selecció de l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'introducció de text per introduir l\'hora.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Canvia al mode d\'introducció de text</string>
+    <string name="menu_colors_reset">Reinicia</string>
+    <string name="menu_manage_colors">Gestiona els esquemes de colors</string>
+    <string name="message_export_success">S\'ha exportat %1$s</string>
+    <string name="message_import_success">S\'ha importat %1$s</string>
+    <string name="migration_checking">S\'està comprovant la base de dades…</string>
+    <string name="migration_copy_debug_log">Copia el registre de depuració</string>
+    <string name="migration_copy_warnings">Copia els avisos</string>
+    <string name="migration_debug_log_title">Registre de depuració</string>
+    <string name="migration_failed_help">Si el problema persisteix, si us plau, notifiqueu-ho a %1$s i adjunteu el registre de depuració que heu copiat.</string>
+    <string name="migration_failed_message">S\'ha produït un error durant la migració de la base de dades: %s</string>
+    <string name="migration_failed_title">La migració ha fallat.</string>
+    <string name="migration_retry">Torna-ho a provar</string>
+    <string name="migration_stats_hosts">Hosts migrats: %d</string>
+    <string name="migration_stats_known_hosts">Hosts coneguts migrats: %d</string>
+    <string name="migration_stats_port_forwards">Reenviaments de ports migrats: %d</string>
+    <string name="migration_stats_pubkeys">Claus SSH transferides: %d</string>
+    <string name="migration_title">Migrant la base de dades</string>
+    <string name="migration_warning">Si us plau, no tanqueu l\'aplicació durant la migració.</string>
+    <string name="migration_warnings_title">Advertències sobre la migració</string>
+    <string name="mtrl_badge_numberless_content_description">Notificació nova</string>
+    <string name="mtrl_button_collapsed_content_description">Replegat</string>
+    <string name="mtrl_button_expanded_content_description">Desplegat</string>
+    <string name="mtrl_button_overflow_icon_content_description">Menú de desbordament</string>
+    <string name="mtrl_button_snackbar_close_content_description">Tanca</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcat</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Marcat parcialment</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcat</string>
+    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Més de %1$d notificacions noves</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
+    <string name="mtrl_picker_announce_current_range_selection">Selecció de la data d\'inici: %1$s – Selecció de la data de finalització: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">cap</string>
+    <string name="mtrl_picker_cancel">Cancel·la</string>
+    <string name="mtrl_picker_confirm">D’acord</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Data de finalització: %1$s</string>
+    <string name="mtrl_picker_invalid_format">El format no és vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilitza: %1$s</string>
+    <string name="mtrl_picker_invalid_range">L\'interval no és vàlid.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navega fins a l\'any actual %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Canvia a l\'any %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Mes següent</string>
+    <string name="mtrl_picker_out_of_range">La data està fora de l\'interval: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Visualització de calendari</string>
+    <string name="mtrl_picker_pane_title_year_view">Visualització d\'any</string>
+    <string name="mtrl_picker_prev_month_tooltip">Mes anterior</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - Data de finalització</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici - Data de finalització</string>
+    <string name="mtrl_picker_save">Desa</string>
+    <string name="mtrl_picker_start_date_description">Data d\'inici: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Avui, dia %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canvia al mode d\'introducció de dades del calendari</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Canvia al calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Canvia a la visualització de calendari</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'introducció de text</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Canvia a l\'entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Canvia a la visualització d\'any</string>
+    <string name="mtrl_timepicker_cancel">Cancel·la</string>
+    <string name="mtrl_timepicker_confirm">D’acord</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menú de navegació"</string>
+    <string name="network_grace_period_expired">La xarxa no s\'ha restablert, desconnectant...</string>
+    <string name="network_lost_grace_period">S\'ha perdut la connexió de xarxa, s\'està esperant per tornar a connectar-se...</string>
+    <string name="network_restored_ip_changed">La xarxa s\'ha restablert, però l\'adreça IP ha canviat, tornant a connectar...</string>
+    <string name="network_restored_no_previous_state">La xarxa s\'ha restablert, s\'està verificant la connexió...</string>
+    <string name="network_restored_same_ip">La xarxa s\'ha restablert, la connexió s\'ha mantingut.</string>
+    <string name="no">No</string>
+    <string name="no_logs_available">No hi ha registres disponibles.</string>
+    <string msgid="6610465462668679431" name="not_selected">"No seleccionat"</string>
+    <string msgid="6573031135582639649" name="not_set">"No definit"</string>
+    <string name="notification_permission_console_warning">La connexió pot tallar-se quan l\'aplicació està en segon pla</string>
+    <string name="notification_permission_denied_message">Per mantenir les connexions actives en segon pla, activeu les notificacions de ConnectBot a la configuració del sistema.</string>
+    <string name="notification_permission_denied_snackbar">És possible que les connexions es tallin sense que es demani permís</string>
+    <string name="notification_permission_denied_title">Es necessari el permís de notificacions</string>
+    <string name="notification_permission_message">ConnectBot necessita permís per enviar notificacions per tal de mantenir les connexions actives quan canvieu d\'aplicació. Sense aquest permís, el sistema pot tallar les connexions per estalviar bateria.</string>
+    <string name="notification_permission_title">Manteniu-vos connectat en segon pla</string>
+    <string name="notification_text">%1$s necessita la teva atenció.</string>
+    <string name="only_alt">Només Alt</string>
+    <string name="open_settings">Obriu la configuració</string>
+    <string name="palette_editor_builtin_note">Els esquemes integrats són de només lectura. Dupliqueu-los per personalitzar-los.</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="paste_shortcut">Ctrl-Maj-V</string>
+    <string name="portforward_delete">Elimina redireccions de ports</string>
+    <string name="portforward_destination_format_error">El format ha de ser host:port (per exemple, localhost:80).</string>
+    <string name="portforward_destination_placeholder">localhost:80</string>
+    <string name="portforward_disable">Desactiva</string>
+    <string name="portforward_disabled">Reenvio de ports desactivat</string>
+    <string name="portforward_dynamic">Dinàmic (SOCKS)</string>
+    <string name="portforward_edit">Edita redireccions de ports</string>
+    <string name="portforward_enable">Activa</string>
+    <string name="portforward_enabled">Reenvio de ports activat</string>
+    <string name="portforward_host_address" ns2:machine_translated="true">Adreça de l\'amfitrió</string>
+    <string name="portforward_local">Local</string>
+    <string name="portforward_nickname_placeholder">Servidor web intern</string>
+    <string name="portforward_port_range_error">El port ha d\'estar entre 1 i 65535.</string>
+    <string name="portforward_pos">Crea redireccionament de ports</string>
+    <string name="portforward_remote">Remot</string>
+    <string name="portforward_save">Desa</string>
+    <string name="portforward_source_addr_all" ns2:machine_translated="true">Totes les adreces</string>
+    <string name="portforward_source_addr_all_ipv4" ns2:machine_translated="true">Totes les adreces IPv4</string>
+    <string name="portforward_source_addr_all_ipv6" ns2:machine_translated="true">Totes les adreces IPv6</string>
+    <string name="portforward_source_addr_localhost" ns2:machine_translated="true">localhost</string>
+    <string name="portforward_source_addr_localhost_ipv4" ns2:machine_translated="true">Amfitrió local (només IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" ns2:machine_translated="true">Amfitrió local (només IPv6)</string>
+    <string name="portforward_source_addr_specific" ns2:machine_translated="true">Adreça específica</string>
+    <string name="portforward_source_addr_specific_placeholder" ns2:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label">Tipus: %s</string>
+    <string name="pref_alwaysvisible_summary">Manteniu les tecles especials sempre visibles.</string>
+    <string name="pref_alwaysvisible_title">Tecles especials sempre visibles</string>
+    <string name="pref_auth_on_launch_summary">Demana l\'empremta digital, el reconeixement facial o el PIN del dispositiu quan s\'obre l\'aplicació.</string>
+    <string name="pref_auth_on_launch_title">Autenticació en iniciar l\'aplicació</string>
+    <string name="pref_backupkeys_summary">Crea una còpia de seguretat de les claus públiques mitjançant el mecanisme de còpia d\'Android</string>
+    <string name="pref_backupkeys_title">Còpia de seguretat de claus públiques</string>
+    <string name="pref_bell_category">So del Terminal</string>
+    <string name="pref_bell_notification_summary">Envia notificacions quan un terminal actiu al rerefons envia una senyal de so.</string>
+    <string name="pref_bell_notification_title">Notificacions en rerefons</string>
+    <string name="pref_bell_summary">Reproduir un so en l\'alerta del terminal</string>
+    <string name="pref_bell_title">So activat</string>
+    <string name="pref_bell_vibrate_summary">Vibrar quan hi hagi una alerta al terminal</string>
+    <string name="pref_bell_vibrate_title">Vibra en sonar</string>
+    <string name="pref_bell_volume_title">Volum del so</string>
+    <string name="pref_bumpyarrows_summary">Utilitza la resposta hàptica en enviar combinacions de tecles; ideal en connexions lentes</string>
+    <string name="pref_bumpyarrows_title">Cursors vibrants</string>
+    <string name="pref_camera_title">Drecera de càmera</string>
+    <string name="pref_conn_persist_summary">Manteniu les vostres sessions actives fins i tot quan canvieu a altres aplicacions</string>
+    <string name="pref_conn_persist_title">Manteniu-vos connectat en segon pla</string>
+    <string name="pref_ctrlfkeys_summary">En teclats virtuals les tecles F1-F10 es representen mitjançant Ctrl+número</string>
+    <string name="pref_ctrlfkeys_title">Ctrl+núm són les tecles «F-unció»</string>
+    <string name="pref_customfont_summary">Afegeix un tipus de lletra de Google Fonts per nom</string>
+    <string name="pref_customfont_title">Afegeix una font personalitzada</string>
+    <string name="pref_customterminal_summary">Afegeix valors TERM personalitzats per als servidors remots</string>
+    <string name="pref_customterminal_title">Tipus de terminal personalitzats</string>
+    <string name="pref_default_profile_none">Cap (utilitza la configuració de l\'amfitrió)</string>
+    <string name="pref_default_profile_title">Perfil per defecte</string>
+    <string name="pref_emulation_category">Emulador del terminal</string>
+    <string name="pref_emulation_title">Mode d\'emulació</string>
+    <string name="pref_fontfamily_title">Font</string>
+    <string name="pref_fullscreen_summary">Amaga la barra d\'estat en consola</string>
+    <string name="pref_fullscreen_title">Pantalla completa</string>
+    <string name="pref_keepalive_summary">Evita que la pantalla s\'apagui mentre s\'usa la consola</string>
+    <string name="pref_keepalive_title">Manté la pantalla encesa</string>
+    <string name="pref_keyboard_category">Teclat</string>
+    <string name="pref_keymode_title">Drecera de carpetes</string>
+    <string name="pref_language_download" ns2:machine_translated="true">Descarrega el paquet d’idioma.</string>
+    <string name="pref_language_download_failed" ns2:machine_translated="true">La descàrrega ha fallat, toqueu per tornar-ho a provar.</string>
+    <string name="pref_language_system_default">Configuració per defecte del sistema</string>
+    <string name="pref_language_title">Idioma</string>
+    <string name="pref_localfont_summary">Importa un fitxer de font des de l\'emmagatzematge (TTF, OTF)</string>
+    <string name="pref_localfont_title">Importa el tipus de lletra local.</string>
+    <string name="pref_memkeys_summary">Manté les claus descarregadesen memòria fins que el servei finalitzi</string>
+    <string name="pref_memkeys_title">Recorda les claus en memòria</string>
+    <string name="pref_pg_updn_gesture_summary">Llisqueu pel terç esquerre de la pantalla per enviar Inici/Final al terminal</string>
+    <string name="pref_pg_updn_gesture_title">Gest de pàgina amunt/avall</string>
+    <string name="pref_profiles_category">Perfils</string>
+    <string name="pref_rotation_title">Mode de rotació</string>
+    <string name="pref_scrollback_summary">Tamany de la memòria per mantenir la història de cada consola</string>
+    <string name="pref_scrollback_title">Tamany de la història</string>
+    <string name="pref_security_category">Seguretat</string>
+    <string name="pref_shiftfkeys_summary">En teclats físics les tecles F1-F10 es representen mitjançant majúscules+número</string>
+    <string name="pref_shiftfkeys_title">Maj+núm són les tecles «F-unció»</string>
+    <string name="pref_stickymodifiers_title">Modificadors enganxosos</string>
+    <string name="pref_theme_dark">Fosc</string>
+    <string name="pref_theme_light">Llum</string>
+    <string name="pref_theme_system">Configuració per defecte del sistema</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_titlebarhide_summary">Toqueu la consola per mostrar la barra de títol i el menú d\'accés</string>
+    <string name="pref_titlebarhide_title">Amaga automàticament la barra de títol</string>
+    <string name="pref_ui_category">Interfície d\'usuari</string>
+    <string name="pref_volumefont_summary">Es pot canviar la mida de la font a les opcions de cada equip remot</string>
+    <string name="pref_volumefont_title">Les tecles de volum canvien la mida del text</string>
+    <string name="pref_wifilock_summary">Evita que la Wi-Fi s\'apagui mentre hi ha una sessió activa</string>
+    <string name="pref_wifilock_title">Manté activa la Wi-Fi</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" s\'ha copiat al porta-retalls"</string>
+    <string name="profile_controlled_setting">Controlat per perfil</string>
+    <string name="profile_create_button">Crea</string>
+    <string name="profile_create_cancel">Cancel·lar</string>
+    <string name="profile_create_dialog_title">Crea un perfil</string>
+    <string name="profile_create_name_label">Nom del perfil</string>
+    <string name="profile_delete_button">Suprimeix</string>
+    <string name="profile_delete_cancel">Cancel·lar</string>
+    <string name="profile_delete_dialog_message">Estàs segur que vols eliminar \'%s\'?</string>
+    <string name="profile_delete_dialog_title">Elimina el perfil</string>
+    <string name="profile_editor_font_family_title">Família de fonts</string>
+    <string name="profile_editor_font_size_title">Mida de la font: %d</string>
+    <string name="profile_editor_force_size_columns">Columnes</string>
+    <string name="profile_editor_force_size_enable">Activa l\'opció de forçar la mida</string>
+    <string name="profile_editor_force_size_rows">Files</string>
+    <string name="profile_editor_force_size_summary">Força el terminal a una mida específica (columnes x files) en lloc d\'ajustar-se automàticament a la pantalla.</string>
+    <string name="profile_editor_force_size_title">Forçar la mida</string>
+    <string name="profile_editor_name_label">Nom del perfil</string>
+    <string name="profile_editor_save">Desa</string>
+    <string name="profile_editor_section_color_scheme">Esquema de colors</string>
+    <string name="profile_editor_section_font">Font</string>
+    <string name="profile_editor_section_icon_color">Color de la icona</string>
+    <string name="profile_editor_section_terminal">Terminal</string>
+    <string name="profile_editor_title_edit">Edita el perfil</string>
+    <string name="profile_editor_title_new">Nou perfil</string>
+    <string name="profile_icon_color_none">Cap (utilitza el color de l\'amfitrió)</string>
+    <string name="profile_list_create_profile">Crea un perfil</string>
+    <string name="profile_list_delete">Suprimeix</string>
+    <string name="profile_list_duplicate">Duplicat</string>
+    <string name="profile_list_empty_message">Encara no hi ha perfils. Toqueu el símbol + per crear-ne un.</string>
+    <string name="profile_list_more_options">Més opcions</string>
+    <string name="profile_list_title">Perfils</string>
+    <string name="profile_summary_emulation">Emulació: %s</string>
+    <string name="profile_summary_font">Font: %1$s %2$dpt</string>
+    <string name="prompt_again">(altre cop)</string>
+    <string name="prompt_allow_agent_to_use_key">Permet al servidor remot\nutilitzar la clau \'%1$s\'?</string>
+    <string name="prompt_bits">Bits</string>
+    <string name="prompt_continue_connecting">Estàs segur que vols\ncontinuar connectant?</string>
+    <string name="prompt_destination">Destí:</string>
+    <string name="prompt_host_disconnected">Servidor desconnectat.\nTancar sessió?</string>
+    <string name="prompt_nickname">Sobrenom:</string>
+    <string name="prompt_old_password">Contrasenya anterior:</string>
+    <string name="prompt_password">Contrasenya:</string>
+    <string name="prompt_password_can_be_blank">Nota: la contrasenya pot ser en blanc</string>
+    <string name="prompt_pubkey_password">Contrasenya per la clau \'%1$s\'</string>
+    <string name="prompt_source_port">Port d\'origen:</string>
+    <string name="prompt_type">Tipus:</string>
+    <string name="prompt_username">Nom d\'usuari:</string>
+    <string name="protocol_spinner_label">Protocol</string>
+    <string name="pubkey_biometric_description">Protegeix aquesta clau amb la teva empremta digital.</string>
+    <string name="pubkey_biometric_description_icon">Protegit per empremta digital</string>
+    <string name="pubkey_biometric_key_type_warning">La protecció per empremta digital només està disponible per a les claus RSA i EC.</string>
+    <string name="pubkey_biometric_not_available">L\'autenticació per empremta digital no està disponible.</string>
+    <string name="pubkey_biometric_not_enrolled">No s\'ha registrat cap empremta digital. Configureu l\'empremta digital a la configuració del dispositiu per utilitzar aquesta funció.</string>
+    <string name="pubkey_biometric_prompt_subtitle">Toca el sensor d\'empremtes per desbloquejar \'%1$s\'</string>
+    <string name="pubkey_biometric_prompt_title">Autentiqueu-vos per utilitzar una clau.</string>
+    <string name="pubkey_biometric_protection">Protecció contra empremtes dactilars</string>
+    <string name="pubkey_change_password">Canvia la contrasenya</string>
+    <string name="pubkey_confirm_use">Confirmar abans d\'usar</string>
+    <string name="pubkey_copy_private">Còpia la clau privada</string>
+    <string name="pubkey_copy_private_encrypted">Copia la clau privada (xifrada)</string>
+    <string name="pubkey_copy_private_openssh">Copia la clau privada (OpenSSH)</string>
+    <string name="pubkey_copy_private_pem">Copia la clau privada (PEM)</string>
+    <string name="pubkey_copy_public">Còpia la clau pública</string>
+    <string name="pubkey_delete">Elimina la clau</string>
+    <string name="pubkey_editor_encrypted_startup_warning">Les claus encriptades no es poden desbloquejar durant l\'inici.</string>
+    <string name="pubkey_editor_key_type_label">Tipus de clau</string>
+    <string name="pubkey_editor_options_label">Opcions</string>
+    <string name="pubkey_encrypted_description">Xifrat</string>
+    <string name="pubkey_export_confirm_passphrase">Confirmeu la contrasenya.</string>
+    <string name="pubkey_export_passphrase_message">Introduïu una contrasenya per xifrar la clau exportada</string>
+    <string name="pubkey_export_passphrase_mismatch">Les frases de contrasenya no coincideixen</string>
+    <string name="pubkey_export_private">Exporta la clau privada</string>
+    <string name="pubkey_export_private_encrypted">Exporta la clau privada (xifrada)</string>
+    <string name="pubkey_export_private_openssh">Exporta la clau privada (OpenSSH)</string>
+    <string name="pubkey_export_private_pem">Exporta la clau privada (PEM)</string>
+    <string name="pubkey_export_public">Exporta la clau pública</string>
+    <string name="pubkey_export_set_passphrase">Estableix la contrasenya d\'exportació</string>
+    <string name="pubkey_gather_entropy">Recull Entropia</string>
+    <string name="pubkey_generate">Genera</string>
+    <string name="pubkey_generating">Generant parell de claus…</string>
+    <string name="pubkey_import_button">Importa</string>
+    <string name="pubkey_import_clipboard_key_label" ns2:machine_translated="true">Contingut de la clau privada</string>
+    <string name="pubkey_import_confirm_password">Confirmeu la contrasenya</string>
+    <string name="pubkey_import_encrypt_key">Xifra la clau per emmagatzemar-la</string>
+    <string name="pubkey_import_encrypted_message">Introduïu la contrasenya per desxifrar la clau \'%1$s\' (%2$s)</string>
+    <string name="pubkey_import_encrypted_title">Importa la clau encriptada</string>
+    <string name="pubkey_import_existing">Importa una clau pública existent</string>
+    <string name="pubkey_import_from_clipboard" ns2:machine_translated="true">Importa des del portapapers</string>
+    <string name="pubkey_import_new_password">Nova contrasenya</string>
+    <string name="pubkey_import_reuse_password">Feu servir la mateixa contrasenya per al xifrat</string>
+    <string name="pubkey_list_empty">Toqueu \"Menú\" per crear o importar parells de claus.</string>
+    <string name="pubkey_load_on_start">Carrega la clau a l\'inici</string>
+    <string name="pubkey_nickname_exists">Ja existeix una clau amb aquest sobrenom</string>
+    <string name="pubkey_not_encrypted_description">No xifrat</string>
+    <string name="pubkey_paste_from_clipboard" ns2:machine_translated="true">Enganxa des del portapapers</string>
+    <string name="pubkey_touch_hint">Per assegurar l\'aleatorietat durant la generació de la clau, mou el dit aleatoriament per sobre la caixa de sota.</string>
+    <string name="pubkey_touch_prompt">Toca aquesta caixa per obtenir aleatorietat: %1$d%% completat</string>
+    <string name="pubkey_type_label">Tipus: %s</string>
+    <string name="pubkey_unknown">Clau desconeguda</string>
+    <string name="pubkey_unknown_format">Format desconegut</string>
+    <string name="pubkey_unlock">Desbloqueja clau</string>
+    <string name="pubkey_unlock_message">Introduïu la contrasenya per desbloquejar la clau \'%1$s\'</string>
+    <string msgid="5941395253238309765" name="range_end">"Fi de l\'interval"</string>
+    <string msgid="7097486360902471446" name="range_start">"Inici de l\'interval"</string>
+    <string name="resize_disable_force_size">Desactiva l\'ajustament forçat de la mida</string>
+    <string name="resize_height_label">Alçada (línies)</string>
+    <string name="resize_width_label">Amplada (columnes)</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"Introdueix el bloqueig de pantalla per continuar"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="searchview_clear_text_content_description">Esborra el text</string>
+    <string name="searchview_navigation_content_description">Enrere</string>
+    <string name="section_ansi_colors">Colors ANSI (0–15)</string>
+    <string name="section_color_preview">Visualització prèvia</string>
+    <string name="section_fg_bg_colors">Primer pla i segon pla</string>
+    <string msgid="6043586758067023" name="selected">"Seleccionat"</string>
+    <string name="service_desc">Manté les connexions SSH i les claus públiques</string>
+    <string name="shortcut_create">Crea una dreçana</string>
+    <string name="shortcut_customize_title">Personalitza la dreçana d\'accés ràpid</string>
+    <string name="shortcut_icon_color">Color de la icona</string>
+    <string name="shortcut_icon_style">Estil de la icona</string>
+    <string name="shortcut_use_host_color">Utilitza el color de l\'amfitrió</string>
+    <string name="side_sheet_accessibility_pane_title">Panell lateral</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Alerta"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Buit"</string>
+    <string msgid="5834637030682409883" name="state_off">"Desactivat"</string>
+    <string msgid="1490883874751719580" name="state_on">"Activat"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Interruptor"</string>
+    <string msgid="1672349317127674378" name="tab">"Pestanya"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> per cent"</string>
+    <string name="terminal_auth">Intentant autenticar</string>
+    <string name="terminal_auth_biometric">S\'està sol·licitant l\'autenticació biomètrica per a la clau \'%1$s\'.</string>
+    <string name="terminal_auth_biometric_invalidated">La clau biomètrica \'%1$s\' ha estat invalidada. Això pot passar quan s\'afegeixen noves empremtes dactilars al dispositiu. Si us plau, genereu una nova clau.</string>
+    <string name="terminal_auth_fail">[El servidor no admet autenticació amb \'contrasenya\' o \'teclat-interactiu\'.]</string>
+    <string name="terminal_auth_ki">Intentant autenticació \'teclat-interactiu\'</string>
+    <string name="terminal_auth_ki_fail">Mètode d\'autenticació \'teclat-interactiu\' fallit.</string>
+    <string name="terminal_auth_pass">Intentant autenticació de \'contrasenya\'</string>
+    <string name="terminal_auth_pass_fail">Autenticació amb \'contrasenya\' errònia</string>
+    <string name="terminal_auth_pubkey_any">Intentant autenticació amb \'claus públiques\' amb totes les claus en memòria</string>
+    <string name="terminal_auth_pubkey_fail">Mètode d\'autenticació \'claus públiques\' amb clau \'%1$s\' fallit</string>
+    <string name="terminal_auth_pubkey_invalid">La clau pública seleccionada és invàlida, intenta reseleccionar la clau en l\'editor del servidor</string>
+    <string name="terminal_auth_pubkey_specific">Intentant autenticació amb \'claus públiques\' amb una clau específica</string>
+    <string name="terminal_auth_saved_password">S\'està provant la contrasenya desada…</string>
+    <string name="terminal_auth_saved_password_fail">L\'autenticació amb la contrasenya emmagatzemada ha fallat.</string>
+    <string name="terminal_connecting">Connectant a %1$s:%2$d via %3$s</string>
+    <string name="terminal_connecting_via_jump">Connectant-se mitjançant un servidor intermediari: %s</string>
+    <string name="terminal_enable_portfoward">Activa el redireccionament de ports: %1$s</string>
+    <string name="terminal_failed">Verificació de la clau del servidor errònia.</string>
+    <string name="terminal_jump_auth_failed">L\'autenticació ha fallat per a l\'amfitrió intermedi: %s</string>
+    <string name="terminal_jump_authenticated">S\'ha autenticat a l\'amfitrió intermediari: %s</string>
+    <string name="terminal_jump_connected">Connectat a l\'amfitrió intermedi: %s</string>
+    <string name="terminal_jump_failed">No s\'ha pogut connectar a l\'amfitrió intermediari %1$s: %2$s</string>
+    <string name="terminal_jump_not_found">No s\'ha trobat l\'amfitrió de salt a la llista d\'amfitrions guardats</string>
+    <string name="terminal_jump_password">Contrasenya per a l\'amfitrió intermedi %s:</string>
+    <string name="terminal_kex_algorithm">Algoritme de canvi de clau: %s</string>
+    <string name="terminal_keyboard_text_input_button">Entrada de text</string>
+    <string name="terminal_no_route">Intenteu accedir a un host local? Doneu permís a la xarxa local.</string>
+    <string name="terminal_no_session">La sessió no s\'iniciarà degut a la preferencia de servidor.</string>
+    <string name="terminal_sucess">Clau de servidor \'%1$s\' verificada: %2$s</string>
+    <string name="terminal_text_input_dialog_label">Introduïu el text que voleu enviar al terminal.</string>
+    <string name="terminal_text_input_dialog_title">Entrada de text</string>
+    <string name="terminal_text_input_resize_handle">Canviar la mida</string>
+    <string name="terminal_using_algorithm">Usant algoritme: %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">Algoritme client-a-servidor: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">Algoritme servidor-a-client: %1$s %2$s</string>
+    <string name="terms_and_conditions">Termes i condicions</string>
+    <string name="title_color_picker">Trieu un color</string>
+    <string name="title_colors">Colors</string>
+    <string name="title_contact">Contacte i assistència</string>
+    <string name="title_eula">Llicència</string>
+    <string name="title_help">Ajuda</string>
+    <string name="title_palette_editor">Edita la paleta de colors</string>
+    <string name="title_port_forwards_list">Redirecció de Ports</string>
+    <string name="title_pubkey_generate">Genera</string>
+    <string name="title_pubkey_list">Claus Públiques</string>
+    <string name="title_scheme_manager">Gestiona els esquemes de colors</string>
+    <string name="title_settings">Configuració</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"descripció emergent"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"mostra la descripció emergent"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"Utilitza la biometria"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"Utilitza la biometria o el bloqueig de pantalla"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"Utilitza la cara"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"Utilitza el desbloqueig facial o el bloqueig de pantalla"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"Utilitza l\'empremta digital"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"Utilitza l\'empremta digital o el bloqueig de pantalla"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"Utilitza el bloqueig de pantalla"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVAT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVAT"</string>
+    <string name="view_logs">Visualitza els registres</string>
+    <string name="yes">Sí</string>
+</resources>

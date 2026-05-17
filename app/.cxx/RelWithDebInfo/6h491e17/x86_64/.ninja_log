@@ -1,0 +1,7 @@
+# ninja log v5
+0	211	1778976897005633217	CMakeFiles/com_google_ase_Exec.dir/src/main/cpp/com_google_ase_Exec.cpp.o	a55248acc0089dd2
+212	352	1778976897140420525	../../../../build/intermediates/cxx/RelWithDebInfo/6h491e17/obj/x86_64/libcom_google_ase_Exec.so	4fe21f609aa2842c
+0	77	0	clean	c745f1ed50346c91
+0	31	0	clean	c745f1ed50346c91
+5	726	1778988819258894841	CMakeFiles/com_google_ase_Exec.dir/src/main/cpp/com_google_ase_Exec.cpp.o	a55248acc0089dd2
+726	1028	1778988819565432935	../../../../build/intermediates/cxx/RelWithDebInfo/6h491e17/obj/x86_64/libcom_google_ase_Exec.so	4fe21f609aa2842c

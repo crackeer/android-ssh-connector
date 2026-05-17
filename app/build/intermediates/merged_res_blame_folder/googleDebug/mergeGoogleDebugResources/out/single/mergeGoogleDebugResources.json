@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxhdpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xxhdpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xhdpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xhdpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxxhdpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xxxhdpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_shortcut_foreground.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_shortcut_foreground.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxxhdpi_notification_icon.png.flat",
+        "source": "org.connectbot.app-main-73:/drawable-xxxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-ldpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-ldpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-ldpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-ldpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-hdpi_icon.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-anydpi-v26_easy_ic_launcher_monochrome.xml.flat",
+        "source": "org.connectbot.app-res-64:/drawable-anydpi-v26/easy_ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxhdpi_notification_icon.png.flat",
+        "source": "org.connectbot.app-main-73:/drawable-xxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-anydpi-v26_easy_ic_launcher_foreground.xml.flat",
+        "source": "org.connectbot.app-res-64:/drawable-anydpi-v26/easy_ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xxxhdpi_icon.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xhdpi_icon_round.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xxhdpi_icon.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "org.connectbot.app-main-73:/mipmap-anydpi-v26/icon_round.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxxhdpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xxxhdpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-mdpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-mdpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-anydpi-v26_icon.xml.flat",
+        "source": "org.connectbot.app-main-73:/mipmap-anydpi-v26/icon.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xhdpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xhdpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-mdpi_icon_round.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-mdpi/icon_round.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_shortcut_cloud.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_shortcut_cloud.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-anydpi-v26_ic_launcher_monochrome.xml.flat",
+        "source": "org.connectbot.app-res-64:/drawable-anydpi-v26/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xhdpi_icon.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xxhdpi_icon_round.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xxhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-hdpi_notification_icon.png.flat",
+        "source": "org.connectbot.app-main-73:/drawable-hdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-mdpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-mdpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_shortcut_key.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_shortcut_key.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/xml__generated_res_locale_config.xml.flat",
+        "source": "org.connectbot.app-google-65:/xml/_generated_res_locale_config.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-hdpi_icon_round.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-hdpi/icon_round.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable_ic_shortcut_server.xml.flat",
+        "source": "org.connectbot.app-main-73:/drawable/ic_shortcut_server.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "org.connectbot.app-res-64:/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/xml-v35__generated_res_locale_config.xml.flat",
+        "source": "org.connectbot.app-google-65:/xml-v35/_generated_res_locale_config.xml"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-xxxhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xxhdpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-xxhdpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/raw_bell.ogg.flat",
+        "source": "org.connectbot.app-main-73:/raw/bell.ogg"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/mipmap-mdpi_icon.png.flat",
+        "source": "org.connectbot.app-res-64:/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-xhdpi_notification_icon.png.flat",
+        "source": "org.connectbot.app-main-73:/drawable-xhdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-mdpi_notification_icon.png.flat",
+        "source": "org.connectbot.app-main-73:/drawable-mdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-hdpi_colorribbonfilter_0_ic_launcher_monochrome.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-hdpi/colorribbonfilter_0_ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "org.connectbot.app-googleDebug-69:/drawable-hdpi_colorribbonfilter_0_ic_launcher_foreground.png.flat",
+        "source": "org.connectbot.app-res-64:/drawable-hdpi/colorribbonfilter_0_ic_launcher_foreground.png"
+    }
+]

@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class org.connectbot.ui.screens.pubkeyeditor.PubkeyEditorViewModel

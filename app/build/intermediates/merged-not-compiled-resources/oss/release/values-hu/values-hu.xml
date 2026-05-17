@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="alert_disconnect_msg">A kapcsolat megszakadt</string>
+    <string name="alert_passwords_do_not_match_msg">Nem egyezik a jelszó!</string>
+    <string name="alert_wrong_password_msg">Hibás jelszó!</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Automatikus kitöltés"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Automatikus kitöltés"</string>
+    <string name="app_copyright" tools:machine_translated="true">Szerzői jog © Kenny Root</string>
+    <string name="app_desc">Egyszerű, hatékony, nyílt-forráskódú SSH kliens.</string>
+    <string name="app_is_running">ConnectBot már fut</string>
+    <string name="auth_prompt_subtitle" tools:machine_translated="true">A folytatáshoz igazolja azonosítását.</string>
+    <string name="auth_prompt_title" tools:machine_translated="true">Nyissa meg a ConnectBotot</string>
+    <string name="auth_screen_title" tools:machine_translated="true">A ConnectBot zárolva van</string>
+    <string name="auth_screen_unlock_button" tools:machine_translated="true">Érintse meg a zárat a feloldáshoz.</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"A folytatás biometriai feloldással vagy a képernyőzár feloldásával lehetséges"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"A folytatás biometriai feloldással lehetséges"</string>
+    <string name="bottomsheet_action_collapse">Összecsukás</string>
+    <string name="bottomsheet_action_collapse_description">Az alsó lap összecsukása</string>
+    <string name="bottomsheet_action_expand">Kibontás</string>
+    <string name="bottomsheet_action_expand_description">Az alsó lap kibontása</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="bottomsheet_action_half_expand_description">Az alsó lap kibontása félig</string>
+    <string name="bottomsheet_drag_handle_content_description">Csúszka</string>
+    <string name="bottomsheet_state_collapsed">Összecsukva</string>
+    <string name="bottomsheet_state_expanded">Kibontva</string>
+    <string name="bottomsheet_state_half_expanded">Félig kibontva</string>
+    <string name="button_add" tools:machine_translated="true">Hozzáadás</string>
+    <string name="button_add_custom" tools:machine_translated="true">Egyéni elem hozzáadása…</string>
+    <string name="button_back" tools:machine_translated="true">Vissza</string>
+    <string name="button_cancel" tools:machine_translated="true">Mégsem</string>
+    <string name="button_close" tools:machine_translated="true">Bezárás</string>
+    <string name="button_collapse" tools:machine_translated="true">Összecsukás</string>
+    <string name="button_confirm" tools:machine_translated="true">Megerősít</string>
+    <string name="button_delete_scheme" tools:machine_translated="true">Törlés</string>
+    <string name="button_duplicate_scheme" tools:machine_translated="true">Másolás</string>
+    <string name="button_edit_palette" tools:machine_translated="true">Színpaletta szerkesztése</string>
+    <string name="button_export_scheme" tools:machine_translated="true">Színséma exportálása</string>
+    <string name="button_host_options" tools:machine_translated="true">Vendéglátói beállítások</string>
+    <string name="button_import" tools:machine_translated="true">Betöltés</string>
+    <string name="button_import_scheme" tools:machine_translated="true">Színséma importálása</string>
+    <string name="button_key_ctrl" tools:machine_translated="true">Ctrl</string>
+    <string name="button_key_end" tools:machine_translated="true">Befejezés</string>
+    <string name="button_key_esc" tools:machine_translated="true">Esc</string>
+    <string name="button_key_f1" tools:machine_translated="true">F1</string>
+    <string name="button_key_f10" tools:machine_translated="true">F10</string>
+    <string name="button_key_f11" tools:machine_translated="true">F11</string>
+    <string name="button_key_f12" tools:machine_translated="true">F12</string>
+    <string name="button_key_f2" tools:machine_translated="true">F2</string>
+    <string name="button_key_f3" tools:machine_translated="true">F3</string>
+    <string name="button_key_f4" tools:machine_translated="true">F4</string>
+    <string name="button_key_f5" tools:machine_translated="true">F5</string>
+    <string name="button_key_f6" tools:machine_translated="true">F6</string>
+    <string name="button_key_f7" tools:machine_translated="true">F7</string>
+    <string name="button_key_f8" tools:machine_translated="true">F8</string>
+    <string name="button_key_f9" tools:machine_translated="true">F9</string>
+    <string name="button_key_home" tools:machine_translated="true">Kezdőlap</string>
+    <string name="button_key_pgdn" tools:machine_translated="true">Lap aljára</string>
+    <string name="button_key_pgup" tools:machine_translated="true">Lapozzon felfelé</string>
+    <string name="button_manage_custom" tools:machine_translated="true">Egyéni elemek kezelése…</string>
+    <string name="button_manage_schemes" tools:machine_translated="true">Színsémák kezelése</string>
+    <string name="button_more_options" tools:machine_translated="true">További lehetőségek</string>
+    <string name="button_navigate_up" tools:machine_translated="true">Lépjen egy szinttel fel</string>
+    <string name="button_new_scheme" tools:machine_translated="true">Új színpaletta</string>
+    <string name="button_no">Nem</string>
+    <string name="button_ok" tools:machine_translated="true">Rendben</string>
+    <string name="button_remove" tools:machine_translated="true">Eltávolítás</string>
+    <string name="button_rename_scheme" tools:machine_translated="true">Átnevezés</string>
+    <string name="button_reset_all_colors" tools:machine_translated="true">Állíts vissza mindent az alapértelmezett értékekre.</string>
+    <string name="button_resize">Átméretezés</string>
+    <string name="button_send" tools:machine_translated="true">Küldés</string>
+    <string name="button_yes">Igen</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Fogadás"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Videó"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Elutasítás"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Befejezés"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Bejövő hívás"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Hívás folyamatban"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Bejövő hívás szűrése"</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigációs menü bezárása"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Munkalap bezárása"</string>
+    <string name="color_amber" tools:machine_translated="true">Borostyánszín</string>
+    <string name="color_bg_label" tools:machine_translated="true">BG: %1$d</string>
+    <string name="color_blue" tools:machine_translated="true">Kék</string>
+    <string name="color_cyan" tools:machine_translated="true">Cian</string>
+    <string name="color_deep_purple" tools:machine_translated="true">Sötétlila</string>
+    <string name="color_gray" tools:machine_translated="true">Szürke</string>
+    <string name="color_green" tools:machine_translated="true">Zöld</string>
+    <string name="color_indigo" tools:machine_translated="true">Indigókék</string>
+    <string name="color_light_blue" tools:machine_translated="true">Világoskék</string>
+    <string name="color_light_green" tools:machine_translated="true">Világoszöld</string>
+    <string name="color_lime" tools:machine_translated="true">Zöldes sárga</string>
+    <string name="color_orange" tools:machine_translated="true">Narancssárga</string>
+    <string name="color_pink" tools:machine_translated="true">Rózsaszín</string>
+    <string name="color_purple" tools:machine_translated="true">Lila</string>
+    <string name="color_red" tools:machine_translated="true">Piros</string>
+    <string name="color_teal" tools:machine_translated="true">Zöldeskék</string>
+    <string name="color_yellow" tools:machine_translated="true">Sárga</string>
+    <string name="colors_fg_label" tools:machine_translated="true">Előterű szín: %1$d</string>
+    <string name="colorscheme_default" tools:machine_translated="true">Alapértelmezett</string>
+    <string name="colorscheme_default_description" tools:machine_translated="true">Alapértelmezett terminál színek</string>
+    <string name="colorscheme_dracula_description" tools:machine_translated="true">Sötét színvilág a terminálhoz</string>
+    <string name="colorscheme_gruvbox_dark_description" tools:machine_translated="true">Régi stílusú, vibráló színséma</string>
+    <string name="colorscheme_monokai_description" tools:machine_translated="true">A Sublime Text által ihletett témák</string>
+    <string name="colorscheme_nord_description" tools:machine_translated="true">Északi, hideg, kékes árnyalatú színpaletta</string>
+    <string name="colorscheme_solarized_dark_description" tools:machine_translated="true">Pontos színek gépekhez és emberekhez.</string>
+    <string name="colorscheme_solarized_light_description" tools:machine_translated="true">Solarized – világos háttérrel</string>
+    <string name="colorscheme_tomorrow_night_description" tools:machine_translated="true">Egy letisztult és kényelmes, sötét színvilág.</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Jelszó használata"</string>
+    <string name="connect_anyway" tools:machine_translated="true">Csatlakozzon így is</string>
+    <string name="console_default_title" tools:machine_translated="true">Konzol</string>
+    <string name="console_menu_close">Bezárás</string>
+    <string name="console_menu_paste">Beillesztés</string>
+    <string name="console_menu_portforwards">Port átirányítások</string>
+    <string name="console_menu_reconnect" tools:machine_translated="true">Újrakapcsolódás</string>
+    <string name="console_menu_resize">Méret kényszerítése</string>
+    <string name="console_menu_text_input" tools:machine_translated="true">Szöveges bemenet</string>
+    <string name="console_menu_urlscan">URL Keresés</string>
+    <string name="console_url_no_handler" tools:machine_translated="true">Nincs olyan alkalmazás az eszközön, amely meg tudná nyitni ezt az URL-t.</string>
+    <string name="console_url_not_supported" tools:machine_translated="true">Ez az URL-típus nem támogatott</string>
+    <string msgid="6083905920877235314" name="copy">"Másolás"</string>
+    <string name="copy_logs" tools:machine_translated="true">Másold a naplóbejegyzéseket</string>
+    <string name="decrease_font_shortcut" tools:machine_translated="true">Ctrl és a mínuszjel (-)</string>
+    <string name="decrease_font_size" tools:machine_translated="true">Csökkentse a betűméretet</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Érvénytelen adat"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Ismeretlen hiba"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Előugró ablak"</string>
+    <string name="delete_host_confirm" tools:machine_translated="true">Biztosan törölni szeretné a(z) „%1$s” nevű gépet?</string>
+    <string name="delete_message">Biztosan törli a \'%1$s\'-t?</string>
+    <string name="delete_neg">Mégsem</string>
+    <string name="delete_pos">Igen, törlés</string>
+    <string name="dialog_custom_value_label" tools:machine_translated="true">Adja meg a saját értékét</string>
+    <string name="dialog_customfont_hint" tools:machine_translated="true">Google betűtípus neve (pl. Cascadia Code)</string>
+    <string name="dialog_customfont_title" tools:machine_translated="true">Egyéni betűtípus hozzáadása</string>
+    <string name="dialog_customterminal_hint" tools:machine_translated="true">Terminál típusa (pl. rxvt-unicode)</string>
+    <string name="dialog_customterminal_title" tools:machine_translated="true">Egyéni terminál típus hozzáadása</string>
+    <string name="dialog_localfont_hint" tools:machine_translated="true">A betűtípus megjelenítendő neve</string>
+    <string name="dialog_localfont_title" tools:machine_translated="true">Betűtípus importálása</string>
+    <string name="dialog_manage_customterminal_title" tools:machine_translated="true">Egyéni terminál típusok kezelése</string>
+    <string name="dialog_message_delete_scheme" tools:machine_translated="true">Biztosan törölni szeretné a(z) „%1$s” elemet? Ez a művelet nem vonható vissza.</string>
+    <string name="dialog_message_reset_all" tools:machine_translated="true">Ez visszaállítja az összes, összesen 256 színt az alapértelmezett értékükre. Ez a művelet nem vonható vissza.</string>
+    <string name="dialog_title_delete_scheme" tools:machine_translated="true">Törölni a sablont?</string>
+    <string name="dialog_title_edit_color" tools:machine_translated="true">Szín szerkesztése: %1$d</string>
+    <string name="dialog_title_new_scheme" tools:machine_translated="true">Új színséma</string>
+    <string name="dialog_title_rename_scheme" tools:machine_translated="true">Színpaletta átnevezése</string>
+    <string name="dialog_title_reset_all" tools:machine_translated="true">Szeretné visszaállítani az összes színt?</string>
+    <string name="disconnect_all_message" tools:machine_translated="true">Biztosan szeretné lekapcsolni az összes csatlakoztatott szervertől?</string>
+    <string name="disconnect_all_neg" tools:machine_translated="true">Mégsem</string>
+    <string name="disconnect_all_pos" tools:machine_translated="true">Igen, bontsa a kapcsolatot.</string>
+    <string name="disconnect_host_alert" tools:machine_translated="true">Biztosan szeretne leválni a(z) \'%1$s\' szerverről?</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Legördülő menü"</string>
+    <string name="empty_custom_schemes" tools:machine_translated="true">Nincs egyéni elrendezés. A létrehozásához érintse meg az „Új elrendezés” gombot.</string>
+    <string name="empty_hosts_message" tools:machine_translated="true">Még nem konfiguráltak gazdagépeket.</string>
+    <string name="empty_port_forwards_message" tools:machine_translated="true">Nem konfiguráltak portátirányításokat.</string>
+    <string name="empty_pubkeys_message" tools:machine_translated="true">Nem találtunk kulcsokat.</string>
+    <string name="empty_urls_message" tools:machine_translated="true">Nem találtunk URL-eket a terminál pufferében.</string>
+    <string name="error_a11y_label">Hiba: érvénytelen</string>
+    <string name="error_color_scheme_load_failed" tools:machine_translated="true">A színpaletta betöltése sikertelen: %s</string>
+    <string name="error_connection_failed" tools:machine_translated="true">Sikertelen a kapcsolat létesítése a %1$s (%2$s) címen: %3$s</string>
+    <string name="error_export_failed" tools:machine_translated="true">A séma exportálása sikertelen: %1$s</string>
+    <string name="error_host_save_failed" tools:machine_translated="true">A %1$s gazdagép konfigurációjának mentése sikertelen: %2$s</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string name="error_import_failed" tools:machine_translated="true">A séma importálása sikertelen: %1$s</string>
+    <string name="error_invalid_json" tools:machine_translated="true">Érvénytelen JSON-fájl</string>
+    <string name="error_key_load_failed" tools:machine_translated="true">A(z) „%1$s” kulcs betöltése sikertelen: %2$s</string>
+    <string name="error_port_forward_load_failed" tools:machine_translated="true">Nem sikerült betölteni a portátirányítási beállításokat a(z) %1$s esetében: %2$s</string>
+    <string name="expand" tools:machine_translated="true">Bontsd ki</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Speciális"</string>
+    <string name="export_hosts_failed" tools:machine_translated="true">A gazdagépek exportálása sikertelen: %s</string>
+    <string name="export_hosts_success" tools:machine_translated="true">%1$d darab gépet és %2$d darab profilt exportáltunk.</string>
+    <string name="export_hosts_title" tools:machine_translated="true">Exportálható gazdagépek</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"A folytatás arcalapú feloldással vagy a képernyőzár feloldásával lehetséges"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"A folytatáshoz használja az arcalapú feloldást"</string>
+    <string name="fingerprint_copy_description" tools:machine_translated="true">Másold a digitális ujjlenyomatot a vágólapra.</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Ujjlenyomat ikon"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Érintse meg az ujjlenyomat-érzékelőt"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Az ujjlenyomathoz szükséges hardverhez nem lehet hozzáférni."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Ez az eszköz nem rendelkezik ujjlenyomat-érzékelővel"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Túl sok próbálkozás. Próbálja újra később."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Nincsenek regisztrált ujjlenyomatok."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Az ujjlenyomattal kapcsolatos műveletet a felhasználó megszakította."</string>
+    <string name="fingerprint_format_header" tools:machine_translated="true">Ujjlenyomat-formátum</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Nem ismerhető fel"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"A folytatás ujjlenyomattal vagy a képernyőzár feloldásával lehetséges"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"A folytatáshoz használja ujjlenyomatát"</string>
+    <string name="font_downloading" tools:machine_translated="true">A betűtípus letöltése…</string>
+    <string name="font_importing" tools:machine_translated="true">A betűtípus importálása…</string>
+    <string name="font_system_default" tools:machine_translated="true">Alapértelmezett (egységes szélességű betűtípus)</string>
+    <string name="font_use_default" tools:machine_translated="true">Használd az alapértelmezett beállítást</string>
+    <string name="font_validating" tools:machine_translated="true">A betűtípus ellenőrzése folyamatban…</string>
+    <string name="forget_host_keys_confirm" tools:machine_translated="true">Biztosan törölni szeretné a \'%1$s\' szolgáltatóhoz tartozó, tárolt kulcsokat? A következő kapcsolódáskor felkérik Önt, hogy ellenőrizze a szolgáltatói kulcsot.</string>
+    <string name="format_hostname">gépnév</string>
+    <string name="format_port">port</string>
+    <string name="format_username">felhasználónév</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Nem állított be PIN-kódot, mintát vagy jelszót."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Ez az eszköz nem támogatja PIN-kód, minta vagy jelszó használatát."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"A hitelesítést megszakította a felhasználó."</string>
+    <string name="grant_permission" tools:machine_translated="true">Engedélyezem</string>
+    <string name="help_donate_coffee" tools:machine_translated="true">Támogasd a munkámat egy kávéval</string>
+    <string name="help_donate_github" tools:machine_translated="true">GitHub támogatói program</string>
+    <string name="help_github" tools:machine_translated="true">Forráskód</string>
+    <string name="help_report_bug" tools:machine_translated="true">Jelentsen hibát</string>
+    <string name="help_section_about" tools:machine_translated="true">A programról</string>
+    <string name="help_section_contact" tools:machine_translated="true">Kapcsolat és támogatás</string>
+    <string name="help_section_donate" tools:machine_translated="true">Támogassa a fejlesztést</string>
+    <string name="help_website" tools:machine_translated="true">Weboldal</string>
+    <string name="hints" tools:machine_translated="true">Tippek</string>
+    <string name="host_authenticity_warning">A \'%1$s\' kiszolgáló azonosítása sikertelen.</string>
+    <string name="host_duplicate_nickname" tools:machine_translated="true">%1$s (másolat)</string>
+    <string name="host_editor_hide_advanced" tools:machine_translated="true">Rejtse el a további beállításokat.</string>
+    <string name="host_editor_quick_connect_example" tools:machine_translated="true">Példa: root\@192.168.1.1:22</string>
+    <string name="host_editor_quick_connect_label" tools:machine_translated="true">Gyors csatlakozás</string>
+    <string name="host_editor_quick_connect_placeholder" tools:machine_translated="true">felhasználónév\@hosztnév:port</string>
+    <string name="host_editor_show_advanced" tools:machine_translated="true">További beállítások megjelenítése</string>
+    <string name="host_fingerprint">A %1$s kulcs újlenyomata a(-z) %2$s</string>
+    <string name="host_key_type_and_size" tools:machine_translated="true">%1$s %2$d bit</string>
+    <string name="host_key_verification_title" tools:machine_translated="true">A szerverkulcs ellenőrzése</string>
+    <string name="host_verification_failure_warning">FELTEHETŐEN VALAKI GYANÚS DOLGOKAT MŰVEL! \nValaki feltehetően megpróbál lehallgatni (man-in-the-middle attack) téged! \\ nDe az is lehetséges, hogy a távoli fél kulcsa közben megváltozott.</string>
+    <string name="host_verification_failure_warning_header">FIGYELEM: A TÁVOLI GÉP AZONOSÍTÓJA MEGVÁLTOZOTT!</string>
+    <string name="hostpref_add_host" tools:machine_translated="true">Új gazdagép hozzáadása</string>
+    <string name="hostpref_authagent_title">Az SSH auth agent használata</string>
+    <string name="hostpref_authagent_with_confirmation" tools:machine_translated="true">igényli a megerősítést</string>
+    <string name="hostpref_clear_password" tools:machine_translated="true">Törölje a mentett jelszót</string>
+    <string name="hostpref_color_title">Szín-kategória</string>
+    <string name="hostpref_colorscheme_title" tools:machine_translated="true">A terminál színvilága</string>
+    <string name="hostpref_compression_summary">Jól jöhet lassú házatok esetén</string>
+    <string name="hostpref_compression_title">Tömörítés</string>
+    <string name="hostpref_delkey_title">DEL billentyű</string>
+    <string name="hostpref_encoding_title">Karakterkódolás</string>
+    <string name="hostpref_fontfamily_title" tools:machine_translated="true">Betűtípus</string>
+    <string name="hostpref_fontsize_title">Betűtipus mérete (pt)</string>
+    <string name="hostpref_hostname_title">Kiszolgáló</string>
+    <string name="hostpref_ipversion_summary" tools:machine_translated="true">Válassza ki, hogy mely IP-címformátumot használja a kapcsolat során.</string>
+    <string name="hostpref_ipversion_title" tools:machine_translated="true">IP-verzió</string>
+    <string name="hostpref_jumphost_summary" tools:machine_translated="true">Csatlakozzon egy másik SSH-hoszton keresztül</string>
+    <string name="hostpref_jumphost_title" tools:machine_translated="true">Ugró szerver (ProxyJump)</string>
+    <string name="hostpref_nickname_title">Becenév</string>
+    <string name="hostpref_password_title" tools:machine_translated="true">Jelszó</string>
+    <string name="hostpref_password_unchanged" tools:machine_translated="true">Jelszó (nem változott)</string>
+    <string name="hostpref_port_title">Port</string>
+    <string name="hostpref_postlogin_summary">Olyan parancsok amelyek a bejelentkezést követően kerülnek futtatásra</string>
+    <string name="hostpref_postlogin_title">Bejelentkezést követő automatikus parancsok</string>
+    <string name="hostpref_profile_none" tools:machine_translated="true">Nincs (a rendszer a szerver beállításait használja)</string>
+    <string name="hostpref_profile_summary" tools:machine_translated="true">Válasszon ki egy profilt, hogy az adott profil beállításai kerüljenek alkalmazásra.</string>
+    <string name="hostpref_profile_title" tools:machine_translated="true">Profil</string>
+    <string name="hostpref_pubkeyid_title">Nyilvános kulcs használata azonosításhoz</string>
+    <string name="hostpref_quickdisconnect_summary" tools:machine_translated="true">A távoli kapcsolat megszakadása után azonnal, figyelmeztetés nélkül zárja be a konzolt.</string>
+    <string name="hostpref_quickdisconnect_title" tools:machine_translated="true">Zárja le a programot a kapcsolat megszakadása után.</string>
+    <string name="hostpref_save_host" tools:machine_translated="true">Mentés</string>
+    <string name="hostpref_save_password_summary" tools:machine_translated="true">Tárolja biztonságosan a bejelentkezési jelszót az automatikus hitelesítéshez.</string>
+    <string name="hostpref_setting_title" tools:machine_translated="true">Vendéglátó beállításai</string>
+    <string name="hostpref_stayconnected_summary">Újracsatlakozás ha a kapcsolat megszakad</string>
+    <string name="hostpref_stayconnected_title">Maradjon csatlakozva</string>
+    <string name="hostpref_username_title">Felhasználónév</string>
+    <string name="hostpref_wantsession_summary">Kapcsolja ki, ha csak port átirányitásokat akar</string>
+    <string name="hostpref_wantsession_title">Parancssor indítása</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string name="icon_style_cloud" tools:machine_translated="true">Felhő</string>
+    <string name="icon_style_key" tools:machine_translated="true">Kulcs</string>
+    <string name="icon_style_server" tools:machine_translated="true">Szerver</string>
+    <string name="icon_style_terminal" tools:machine_translated="true">Terminál</string>
+    <string name="image_description_connected">Kapcsolódva</string>
+    <string name="image_description_disconnected" tools:machine_translated="true">Kapcsolat bontva.</string>
+    <string name="image_description_down" tools:machine_translated="true">Le nyíl</string>
+    <string name="image_description_hide_keyboard" tools:machine_translated="true">Rejtsd el a képernyőbillentyűzetet.</string>
+    <string name="image_description_left" tools:machine_translated="true">Balra mutató nyíl</string>
+    <string name="image_description_right" tools:machine_translated="true">Jobbra mutató nyíl</string>
+    <string name="image_description_send_escape_character">Kilépő jel küldés</string>
+    <string name="image_description_send_tab_character" tools:machine_translated="true">Küldje el a TAB karaktert.</string>
+    <string name="image_description_show_keyboard">Billentyűzet megmutatása</string>
+    <string name="image_description_toggle_control_character">Vezérlő jel i/n</string>
+    <string name="image_description_up" tools:machine_translated="true">Felmutató nyíl</string>
+    <string name="import_hosts_failed" tools:machine_translated="true">A gazdagépek importálása sikertelen: %s</string>
+    <string name="import_hosts_success" tools:machine_translated="true">%1$d gazdagépet importáltunk (%2$d-et kihagytunk), és %3$d profilt (%4$d-et kihagytunk).</string>
+    <string msgid="6827826412747255547" name="in_progress">"Folyamatban"</string>
+    <string name="increase_font_shortcut" tools:machine_translated="true">Ctrl és +</string>
+    <string name="increase_font_size" tools:machine_translated="true">Növeld a betűméretet</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Részlegesen ellenőrizve"</string>
+    <string name="ipversion_auto" tools:machine_translated="true">Automatikus</string>
+    <string name="ipversion_ipv4" tools:machine_translated="true">Csak IPv4</string>
+    <string name="ipversion_ipv6" tools:machine_translated="true">Csak IPv6</string>
+    <string name="item_view_role_description">Lap</string>
+    <string name="keyboard_shortcuts" tools:machine_translated="true">Billentyűparancsok</string>
+    <string name="label_background_color" tools:machine_translated="true">Háttérszín</string>
+    <string name="label_base_scheme" tools:machine_translated="true">Alapséma:</string>
+    <string name="label_blue" tools:machine_translated="true">Kék</string>
+    <string name="label_built_in_scheme" tools:machine_translated="true">Beépített</string>
+    <string name="label_custom_scheme" tools:machine_translated="true">Egyedi/Felhasználó által létrehozott</string>
+    <string name="label_foreground_color" tools:machine_translated="true">Elsőterű szín</string>
+    <string name="label_green" tools:machine_translated="true">Zöld</string>
+    <string name="label_hex_color" tools:machine_translated="true">Hex színkód</string>
+    <string name="label_red" tools:machine_translated="true">Piros</string>
+    <string name="label_scheme_description" tools:machine_translated="true">Leírás (nem kötelező)</string>
+    <string name="label_scheme_name" tools:machine_translated="true">Séma neve</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description" tools:machine_translated="true">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A majd Space</string>
+    <string name="list_camera_ctrlaspace_description" tools:machine_translated="true">Ctrl+A, majd a szóköz billentyű</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description" tools:machine_translated="true">Esc+A</string>
+    <string name="list_camera_esc_description" tools:machine_translated="true">Esc</string>
+    <string name="list_camera_none">Semmit</string>
+    <string name="list_camera_none_description" tools:machine_translated="true">Nincs</string>
+    <string name="list_camera_text_input" tools:machine_translated="true">Szövegbemenet</string>
+    <string name="list_camera_text_input_description" tools:machine_translated="true">Szöveges bemenet</string>
+    <string name="list_color_schemes" tools:machine_translated="true">Színpaletták</string>
+    <string name="list_host_delete">Kiszolgáló törlése</string>
+    <string name="list_host_disconnect">A kapcsolat bontása</string>
+    <string name="list_host_duplicate" tools:machine_translated="true">A kiválasztott gazdagép másolása</string>
+    <string name="list_host_edit">Kiszolgáló szerkesztése</string>
+    <string name="list_host_forget_keys" tools:machine_translated="true">Törölje a tárolt hosztkulcsokat.</string>
+    <string name="list_host_portforwards">Port átirányítások szerkesztése</string>
+    <string name="list_jumphost_none" tools:machine_translated="true">Nincs (közvetlen kapcsolat)</string>
+    <string name="list_keymode_left">A baloldali gombok használata</string>
+    <string name="list_keymode_none">Tiltás</string>
+    <string name="list_keymode_right">A jobb oldali gombok használata</string>
+    <string name="list_menu_disconnect" tools:machine_translated="true">Minden kapcsolat bontása</string>
+    <string name="list_menu_export_hosts" tools:machine_translated="true">Minden eszköz exportálása</string>
+    <string name="list_menu_import_hosts" tools:machine_translated="true">Gazdagépek importálása</string>
+    <string name="list_menu_pubkeys">Publikus kulcsok kezelése</string>
+    <string name="list_menu_settings">Beállítások</string>
+    <string name="list_menu_sortcolor">Rendezés szín szerint</string>
+    <string name="list_menu_sortname">Rendezés név szerint</string>
+    <string name="list_pubkey_edit" tools:machine_translated="true">Szerkeszd a nyilvános kulcsot</string>
+    <string name="list_pubkeyids_any">Bármely nyilvános kulcs használata</string>
+    <string name="list_pubkeyids_none">Kulcsok használatának tiltása</string>
+    <string name="list_rotation_auto">Automatikus</string>
+    <string name="list_rotation_default">Alapbeállitás</string>
+    <string name="list_rotation_land">Fekvő mód kényszerítése</string>
+    <string name="list_rotation_port">Álló mód kényszerítése</string>
+    <string name="loading_message" tools:machine_translated="true">Betöltés…</string>
+    <string name="local_shell_unavailable">Hiba! Nincs lokális shell ezen a telefonon.</string>
+    <string name="logs_bug_report_info" tools:machine_translated="true">A hiba bejelentéséhez másolja be ezeket a naplóbejegyzéseket, és nyisson egy új bejelentést a következő címen: https://connectbot.org/bug</string>
+    <string name="logs_copied" tools:machine_translated="true">A naplófájlok másolva lettek a vágólapra.</string>
+    <string name="logs_title" tools:machine_translated="true">Alkalmazásnaplók</string>
+    <string name="m3_loading_indicator_content_description">Betöltés</string>
+    <string name="m3_overflow_linear_layout_button_content_description">További elemeket tartalmazó menü</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">További lehetőségek</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Az alsó lap összecsukása"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Az alsó lap elvetése"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Fogópont"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Az alsó lap kibontása"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Alsó lap"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"További lehetőségek"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Megadott dátum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Megadott dátum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"A dátum nem felel meg a várt formátumnak: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Nem engedélyezett dátum: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"A dátum a várt időtartományon (%1$s – %2$s) kívül esik"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Dátum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Nincs"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Dátum kiválasztása"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Kiválasztott dátum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Jelenleg kiválasztva: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navigálás a következő évhez: %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Nincs"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Görgessen a korábbi évek megjelenítéséhez"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Görgessen a későbbi évek megjelenítéséhez"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Váltás naptárbeviteli módra"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Csúsztatással kiválaszthatja a kívánt évet, vagy koppintással visszaválthat a nap kiválasztásához."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Váltás szövegbeviteli módra"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Váltás a következő hónapra"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Váltás az előző hónapra"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Váltás az év kiválasztására"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Dátum kiválasztása"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Ma"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Látható az évválasztó"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Érvénytelen a megadott dátumtartomány"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Dátumok megadása"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Tartományon belül"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Záró dátum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Görgessen a következő hónap megjelenítéséhez"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Görgessen az előző hónap megjelenítéséhez"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Kezdő dátum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Dátumok kiválasztása"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Párbeszédpanel"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Összecsukva"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Kibontva"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Legördülő menü átváltása"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Eszköztár összecsukása"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Eszköztár kibontása"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"További lehetőségek"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Keresés"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Elvetés"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Figyelmeztetés"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Javaslatok alább"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Időpont megadása"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"de."</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Időpont kiválasztása"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Óra"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d óra"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"Az óra 1–12 lehet"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"Az óra 0–23 lehet"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Óra kiválasztása"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d óra"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"óra megadása"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Perc"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"A perc 0–59 lehet"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Perc kiválasztása"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d perc"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"perc megadása"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Napszak kiválasztása"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"du."</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Váltás szövegbeviteli módra"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Váltás óra módra"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Elemleírás megjelenítése"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Elemleírás"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Sáv bezárása"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Navigációs sáv"</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_24h_suffix">%1$s óra</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_slider_range_end">Tartomány vége</string>
+    <string name="material_slider_range_start">Tartomány kezdete</string>
+    <string name="material_slider_value">Érték</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Váltás óra módra</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_hour_error">Az óra 1–12 lehet</string>
+    <string name="material_timepicker_hour_error_24h">Az óra 0–23 lehet</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_minute_error">A perc 0–59 lehet</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Váltás szövegbeviteli módra</string>
+    <string name="menu_colors_reset">Visszaállít</string>
+    <string name="menu_manage_colors" tools:machine_translated="true">Színsémák kezelése</string>
+    <string name="message_export_success" tools:machine_translated="true">A(z) %1$s sikeresen exportálva</string>
+    <string name="message_import_success" tools:machine_translated="true">A(z) %1$s sikeresen importálva</string>
+    <string name="migration_checking" tools:machine_translated="true">Az adatbázis ellenőrzése folyamatban…</string>
+    <string name="migration_copy_debug_log" tools:machine_translated="true">Másold a hibakeresési naplót</string>
+    <string name="migration_copy_warnings" tools:machine_translated="true">Másold a figyelmeztetéseket</string>
+    <string name="migration_debug_log_title" tools:machine_translated="true">Hibakereső napló</string>
+    <string name="migration_failed_help" tools:machine_translated="true">Ha a probléma továbbra is fennáll, kérjük, jelezze azt a %1$s oldalon, és csatolja hozzá a fent másolt hibakeresési naplót.</string>
+    <string name="migration_failed_message" tools:machine_translated="true">Hiba történt az adatbázis migrálása során: %s</string>
+    <string name="migration_failed_title" tools:machine_translated="true">A migrálás sikertelen volt</string>
+    <string name="migration_retry" tools:machine_translated="true">Újrapróbál</string>
+    <string name="migration_stats_hosts" tools:machine_translated="true">Áthelyezett szerverek: %d</string>
+    <string name="migration_stats_known_hosts" tools:machine_translated="true">Áttelepített ismert szerverek száma: %d</string>
+    <string name="migration_stats_port_forwards" tools:machine_translated="true">Áttelepített porttovábbítások: %d</string>
+    <string name="migration_stats_pubkeys" tools:machine_translated="true">Áttelepített SSH-kulcsok: %d</string>
+    <string name="migration_title" tools:machine_translated="true">Adatbázis migrálása</string>
+    <string name="migration_warning" tools:machine_translated="true">Kérjük, ne zárja be az alkalmazást a migrálás során.</string>
+    <string name="migration_warnings_title" tools:machine_translated="true">Figyelmeztetések az adatbázis-migrációval kapcsolatban</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_button_collapsed_content_description">Összecsukva</string>
+    <string name="mtrl_button_expanded_content_description">Kibontva</string>
+    <string name="mtrl_button_overflow_icon_content_description">További elemeket tartalmazó menü</string>
+    <string name="mtrl_button_snackbar_close_content_description">Bezárás</string>
+    <string name="mtrl_checkbox_state_description_checked">Bejelölve</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Részlegesen bejelölve</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nincs bejelölve</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" tools:ignore="PluralsCandidate">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_range_selection">Kiválasztott kezdő dátum: %1$s – Kiválasztott befejező dátum: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">egyik sem</string>
+    <string name="mtrl_picker_cancel">Mégse</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Befejezés dátuma: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ugrás az aktuális évre %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Következő hónap</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Naptárnézet</string>
+    <string name="mtrl_picker_pane_title_year_view">Éves nézet</string>
+    <string name="mtrl_picker_prev_month_tooltip">Előző hónap</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_start_date_description">Kezdés dátuma: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_today_description">Ma %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Váltás naptárra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Váltás naptárnézetre</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Váltás szöveges bevitelre</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Váltás éves nézetre</string>
+    <string name="mtrl_timepicker_cancel">Mégse</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigációs menü"</string>
+    <string name="network_grace_period_expired" tools:machine_translated="true">A hálózat nem áll helyre, a kapcsolat megszakad…</string>
+    <string name="network_lost_grace_period" tools:machine_translated="true">A hálózati kapcsolat megszakadt, a rendszer újrapróbálja a csatlakozást…</string>
+    <string name="network_restored_ip_changed" tools:machine_translated="true">A hálózat helyreállt, de az IP-cím megváltozott, csatlakozás folyamatban…</string>
+    <string name="network_restored_no_previous_state" tools:machine_translated="true">A hálózat helyreállt, az összekapcsolódás ellenőrzése folyamatban…</string>
+    <string name="network_restored_same_ip" tools:machine_translated="true">A hálózat helyreállt, a kapcsolat fenntartva.</string>
+    <string name="no">Nem</string>
+    <string name="no_logs_available" tools:machine_translated="true">Nincs elérhető naplóbejegyzés</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nincs kijelölve"</string>
+    <string msgid="6573031135582639649" name="not_set">"Nincs beállítva"</string>
+    <string name="notification_permission_console_warning" tools:machine_translated="true">A kapcsolat megszakadhat, ha az alkalmazás háttérben fut.</string>
+    <string name="notification_permission_denied_message" tools:machine_translated="true">Ahhoz, hogy a ConnectBot alkalmazás a háttérben is fenntarthassa a kapcsolatot, kérjük, engedélyezze az értesítéseket a rendszerbeállításokban.</string>
+    <string name="notification_permission_denied_snackbar" tools:machine_translated="true">A kapcsolatok megszakadhatnak, ha nem adod meg az értesítési engedélyt.</string>
+    <string name="notification_permission_denied_title" tools:machine_translated="true">Szükséges a push-értesítések engedélyezése.</string>
+    <string name="notification_permission_message" tools:machine_translated="true">A ConnectBot alkalmazásnak értesítési engedélyre van szüksége ahhoz, hogy a kapcsolatok aktívak maradjanak, amikor alkalmazásokat váltasz. Enélkül a rendszer leállíthatja a kapcsolatokat az akkumulátor élettartamának megőrzése érdekében.</string>
+    <string name="notification_permission_title" tools:machine_translated="true">Maradjon kapcsolódva a háttérben</string>
+    <string name="notification_text">%1$s a figyelmére szorul.</string>
+    <string name="only_alt" tools:machine_translated="true">Csak az Alt billentyű</string>
+    <string name="open_settings" tools:machine_translated="true">Nyissa meg a beállításokat</string>
+    <string name="palette_editor_builtin_note" tools:machine_translated="true">A beépített témák csak olvashatóak. Ha módosítani szeretné, másolja le őket.</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string name="paste_shortcut" tools:machine_translated="true">Ctrl+Shift+V</string>
+    <string name="portforward_delete">Port átirányítás törlése</string>
+    <string name="portforward_destination_format_error" tools:machine_translated="true">A formátum a következő kell, hogy legyen: hosztnév:port (pl. localhost:80)</string>
+    <string name="portforward_destination_placeholder" tools:machine_translated="true">localhost:80</string>
+    <string name="portforward_disable" tools:machine_translated="true">Tiltás</string>
+    <string name="portforward_disabled" tools:machine_translated="true">A portátalakítás letiltva</string>
+    <string name="portforward_dynamic">Dinamikus (SOCKS)</string>
+    <string name="portforward_edit">Port átirányítás módosítása</string>
+    <string name="portforward_enable" tools:machine_translated="true">Engedélyezés</string>
+    <string name="portforward_enabled" tools:machine_translated="true">A portátadás engedélyezve.</string>
+    <string name="portforward_host_address" tools:machine_translated="true">Szerver címe</string>
+    <string name="portforward_local">Helyi</string>
+    <string name="portforward_nickname_placeholder" tools:machine_translated="true">Belső webszerver</string>
+    <string name="portforward_port_range_error" tools:machine_translated="true">A portszám 1 és 65535 között kell, hogy legyen.</string>
+    <string name="portforward_pos">Port átirányítás létrehozása</string>
+    <string name="portforward_remote">Távoli</string>
+    <string name="portforward_save" tools:machine_translated="true">Mentés</string>
+    <string name="portforward_source_addr_all" tools:machine_translated="true">Minden cím</string>
+    <string name="portforward_source_addr_all_ipv4" tools:machine_translated="true">Minden IPv4-cím</string>
+    <string name="portforward_source_addr_all_ipv6" tools:machine_translated="true">Minden IPv6-cím</string>
+    <string name="portforward_source_addr_localhost" tools:machine_translated="true">Helyi hoszt</string>
+    <string name="portforward_source_addr_localhost_ipv4" tools:machine_translated="true">Helyi hálózat (csak IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" tools:machine_translated="true">Helyi hálózat (csak IPv6)</string>
+    <string name="portforward_source_addr_specific" tools:machine_translated="true">Megadott cím</string>
+    <string name="portforward_source_addr_specific_placeholder" tools:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label" tools:machine_translated="true">Típus: %s</string>
+    <string name="pref_alwaysvisible_summary" tools:machine_translated="true">A speciális billentyűk mindig legyenek láthatóak.</string>
+    <string name="pref_alwaysvisible_title" tools:machine_translated="true">A speciális billentyűk mindig láthatók.</string>
+    <string name="pref_auth_on_launch_summary" tools:machine_translated="true">Kötelezővé teendő az ujjlenyomat-, arcfelismerés- vagy eszköz-PIN-kód használata az alkalmazás megnyitásakor.</string>
+    <string name="pref_auth_on_launch_title" tools:machine_translated="true">A program indításakor történő hitelesítés</string>
+    <string name="pref_backupkeys_summary" tools:machine_translated="true">Készítsen biztonsági másolatokat a privát kulcsokról az Android biztonsági mentési funkciójának segítségével.</string>
+    <string name="pref_backupkeys_title" tools:machine_translated="true">Publikus kulcsok biztonsági másolata</string>
+    <string name="pref_bell_category">Terminál csengő</string>
+    <string name="pref_bell_notification_summary">Küldjön értesítőt amikor a háttérben futó terminál csenget.</string>
+    <string name="pref_bell_notification_title">Háttér figyelmeztetések</string>
+    <string name="pref_bell_summary" tools:machine_translated="true">Játsszon le hangot, amikor a terminál riasztása aktiválódik.</string>
+    <string name="pref_bell_title">Hallható csengő</string>
+    <string name="pref_bell_vibrate_summary" tools:machine_translated="true">Vibrálás terminális riasztás esetén</string>
+    <string name="pref_bell_vibrate_title">Vibráljon csengetéskor</string>
+    <string name="pref_bell_volume_title">Csengő hangereje</string>
+    <string name="pref_bumpyarrows_summary" tools:machine_translated="true">A nyílbillentyűk használatakor vibráljon a készülék; hasznos lehet, ha a kapcsolat lassú.</string>
+    <string name="pref_bumpyarrows_title">Ugráló nyilak</string>
+    <string name="pref_camera_title">Kamera gomb hivatkozás</string>
+    <string name="pref_conn_persist_summary" tools:machine_translated="true">Tartsa nyitva a munkameneteit még akkor is, ha más alkalmazásokra vált.</string>
+    <string name="pref_conn_persist_title" tools:machine_translated="true">Maradjon kapcsolódva a háttérben</string>
+    <string name="pref_ctrlfkeys_summary" tools:machine_translated="true">A szoftveres billentyűzeteken a számbillentyűk a Ctrl billentyűvel együtt az F1–F10 funkcióbillentyűket aktiválják.</string>
+    <string name="pref_ctrlfkeys_title" tools:machine_translated="true">A Ctrl+szám billentyűkombináció a funkciógombokhoz (F-billentyűkhöz) tartozik.</string>
+    <string name="pref_customfont_summary" tools:machine_translated="true">Adj hozzá egy betűtípust a Google Fonts szolgáltatásból a neve alapján.</string>
+    <string name="pref_customfont_title" tools:machine_translated="true">Egyéni betűtípus hozzáadása</string>
+    <string name="pref_customterminal_summary" tools:machine_translated="true">Adjon hozzá egyéni TERM értékeket a távoli szerverekhez.</string>
+    <string name="pref_customterminal_title" tools:machine_translated="true">Egyéni terminál típusok</string>
+    <string name="pref_default_profile_none" tools:machine_translated="true">Nincs (a rendszer alapértelmezett beállításait használja)</string>
+    <string name="pref_default_profile_title" tools:machine_translated="true">Alapértelmezett profil</string>
+    <string name="pref_emulation_category">Terminál emulálás</string>
+    <string name="pref_emulation_title">Emulálási mód</string>
+    <string name="pref_fontfamily_title" tools:machine_translated="true">Betűtípus</string>
+    <string name="pref_fullscreen_summary">Rejtett állapotsor a konzol használata során</string>
+    <string name="pref_fullscreen_title">Teljes képernyő</string>
+    <string name="pref_keepalive_summary">Akadályozza meg a képernyővédő bekapcsolását konzolon végzett munka alatt</string>
+    <string name="pref_keepalive_title">Tartsa ébren a képernyőt</string>
+    <string name="pref_keyboard_category" tools:machine_translated="true">Billentyűzet</string>
+    <string name="pref_keymode_title">Könyvtár hivatkozások</string>
+    <string name="pref_language_download" tools:machine_translated="true">Nyelvcsomag letöltése</string>
+    <string name="pref_language_download_failed" tools:machine_translated="true">A letöltés sikertelen volt, érintse meg a megújításához.</string>
+    <string name="pref_language_system_default" tools:machine_translated="true">Rendszer alapértelmezett beállítása</string>
+    <string name="pref_language_title" tools:machine_translated="true">Nyelv</string>
+    <string name="pref_localfont_summary" tools:machine_translated="true">Töltsön be egy betűtípus-fájlt a tárolóból (TTF, OTF).</string>
+    <string name="pref_localfont_title" tools:machine_translated="true">Helyi betűtípus importálása</string>
+    <string name="pref_memkeys_summary">Tartsa nyitva a memóriában lévő kulcsokat amíg a háttérszolgáltatás meg nem szűnik</string>
+    <string name="pref_memkeys_title">Kulcsok megörzése a memóriában</string>
+    <string name="pref_pg_updn_gesture_summary" tools:machine_translated="true">Húzza ujjával a képernyő bal harmadát, hogy a terminál felé küldje a „pg up” vagy „pg down” parancsot.</string>
+    <string name="pref_pg_updn_gesture_title" tools:machine_translated="true">Lapozás felfelé/lefelé gesztusa</string>
+    <string name="pref_profiles_category" tools:machine_translated="true">Profilok</string>
+    <string name="pref_rotation_title">Forgatási mód</string>
+    <string name="pref_scrollback_summary">Az előzmények memóriában tartandó mérete konzolonként</string>
+    <string name="pref_scrollback_title">Előzmények mérete</string>
+    <string name="pref_security_category" tools:machine_translated="true">Biztonság</string>
+    <string name="pref_shiftfkeys_summary" tools:machine_translated="true">A fizikai billentyűzeteknél a számbillentyűk a Shift billentyű lenyomásakor az F1–F10 funkcióbillentyűket aktiválják.</string>
+    <string name="pref_shiftfkeys_title" tools:machine_translated="true">A Shift+szám billentyűkombináció a funkcióbillentyűkhöz (F-billentyűkhöz) tartozik.</string>
+    <string name="pref_stickymodifiers_title" tools:machine_translated="true">Rögzített módosítók</string>
+    <string name="pref_theme_dark" tools:machine_translated="true">Sötét</string>
+    <string name="pref_theme_light" tools:machine_translated="true">Világos</string>
+    <string name="pref_theme_system" tools:machine_translated="true">Rendszer alapértelmezett beállítása</string>
+    <string name="pref_theme_title" tools:machine_translated="true">Téma</string>
+    <string name="pref_titlebarhide_summary" tools:machine_translated="true">Érintse meg a konzolt a címsáv megjelenítéséhez és a menü eléréséhez.</string>
+    <string name="pref_titlebarhide_title" tools:machine_translated="true">A címsáv automatikus elrejtése</string>
+    <string name="pref_ui_category">Felhasználói felület</string>
+    <string name="pref_volumefont_summary" tools:machine_translated="true">A betűméret a profilbeállításokban is módosítható.</string>
+    <string name="pref_volumefont_title" tools:machine_translated="true">A hangerőszabályzó gombokkal megváltoztatható a betűméret.</string>
+    <string name="pref_wifilock_summary">Akadályozza meg a Wi-Fi kikapcsolását amíg a munka zajlik</string>
+    <string name="pref_wifilock_title">Tartsa fenn a Wi-Fi kapcsolatot</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a vágólapra lett másolva."</string>
+    <string name="profile_controlled_setting" tools:machine_translated="true">A profil által vezérelt</string>
+    <string name="profile_create_button" tools:machine_translated="true">Létrehozás</string>
+    <string name="profile_create_cancel" tools:machine_translated="true">Mégsem</string>
+    <string name="profile_create_dialog_title" tools:machine_translated="true">Új profil létrehozása</string>
+    <string name="profile_create_name_label" tools:machine_translated="true">Profilnév</string>
+    <string name="profile_delete_button" tools:machine_translated="true">Törlés</string>
+    <string name="profile_delete_cancel" tools:machine_translated="true">Mégsem</string>
+    <string name="profile_delete_dialog_message" tools:machine_translated="true">Biztosan törölni szeretné a(z) „%s” profilt?</string>
+    <string name="profile_delete_dialog_title" tools:machine_translated="true">Profil törlése</string>
+    <string name="profile_editor_font_family_title" tools:machine_translated="true">Betűtípus-család</string>
+    <string name="profile_editor_font_size_title" tools:machine_translated="true">Betűméret: %d</string>
+    <string name="profile_editor_force_size_columns" tools:machine_translated="true">Oszlopok</string>
+    <string name="profile_editor_force_size_enable" tools:machine_translated="true">Azonos méret beállítása (erőltetve)</string>
+    <string name="profile_editor_force_size_rows" tools:machine_translated="true">Sorok</string>
+    <string name="profile_editor_force_size_summary" tools:machine_translated="true">Állítsa be a terminál méretét egy konkrét értékre (oszlopok x sorok), ahelyett, hogy automatikusan a képernyő méretéhez igazítaná.</string>
+    <string name="profile_editor_force_size_title" tools:machine_translated="true">Erő nagysága</string>
+    <string name="profile_editor_name_label" tools:machine_translated="true">Profilnév</string>
+    <string name="profile_editor_save" tools:machine_translated="true">Mentés</string>
+    <string name="profile_editor_section_color_scheme" tools:machine_translated="true">Színpaletta</string>
+    <string name="profile_editor_section_font" tools:machine_translated="true">Betűtípus</string>
+    <string name="profile_editor_section_icon_color" tools:machine_translated="true">Ikon színe</string>
+    <string name="profile_editor_section_terminal" tools:machine_translated="true">Terminál</string>
+    <string name="profile_editor_title_edit" tools:machine_translated="true">Profil szerkesztése</string>
+    <string name="profile_editor_title_new" tools:machine_translated="true">Új profil</string>
+    <string name="profile_icon_color_none" tools:machine_translated="true">Nincs (a rendszer színe használva)</string>
+    <string name="profile_list_create_profile" tools:machine_translated="true">Új profil létrehozása</string>
+    <string name="profile_list_delete" tools:machine_translated="true">Törlés</string>
+    <string name="profile_list_duplicate" tools:machine_translated="true">Másolat készítése</string>
+    <string name="profile_list_empty_message" tools:machine_translated="true">Még nincs létrehozva egyetlen profil sem. Nyomja meg a + ikont, hogy létrehozzon egyet.</string>
+    <string name="profile_list_more_options" tools:machine_translated="true">További lehetőségek</string>
+    <string name="profile_list_title" tools:machine_translated="true">Profilok</string>
+    <string name="profile_summary_emulation" tools:machine_translated="true">Emuláció: %s</string>
+    <string name="profile_summary_font" tools:machine_translated="true">Betűtípus: %1$s, méret: %2$d pont</string>
+    <string name="prompt_again">(újra)</string>
+    <string name="prompt_allow_agent_to_use_key">A \'%1$s\' kulcs engedélyezése\na távoli gépnek?</string>
+    <string name="prompt_bits">Bitek:</string>
+    <string name="prompt_continue_connecting">Biztosan folytatja a csatlakozást?</string>
+    <string name="prompt_destination">Cél:</string>
+    <string name="prompt_host_disconnected">A kapcsolat megszakadt.\nBezárja a folyamatot?</string>
+    <string name="prompt_nickname">Becenév:</string>
+    <string name="prompt_old_password">Régi jelszó:</string>
+    <string name="prompt_password">Jelszó:</string>
+    <string name="prompt_password_can_be_blank">Tipp: a jelszóadás nem kötelező</string>
+    <string name="prompt_pubkey_password">A \'%1$s\' kulcs jelszava</string>
+    <string name="prompt_source_port">Helyi port:</string>
+    <string name="prompt_type">Típus:</string>
+    <string name="prompt_username" tools:machine_translated="true">Felhasználónév:</string>
+    <string name="protocol_spinner_label" tools:machine_translated="true">Protokoll</string>
+    <string name="pubkey_biometric_description" tools:machine_translated="true">Védje ezt a kulcsot ujjlenyomatával</string>
+    <string name="pubkey_biometric_description_icon" tools:machine_translated="true">Ujjlenyomat-azonosítással védve</string>
+    <string name="pubkey_biometric_key_type_warning" tools:machine_translated="true">Az ujjlenyomat-védelem csak RSA és EC kulcsokhoz érhető el.</string>
+    <string name="pubkey_biometric_not_available" tools:machine_translated="true">Az ujjlenyomat-azonosítás jelenleg nem elérhető.</string>
+    <string name="pubkey_biometric_not_enrolled" tools:machine_translated="true">Nincs bejegyzett ujjlenyomat. A funkció használatához állítsa be az ujjlenyomat-azonosítást az eszköz beállításai között.</string>
+    <string name="pubkey_biometric_prompt_subtitle" tools:machine_translated="true">Érintse meg az ujjlenyomat-olvasót a(z) „%1$s” feloldásához.</string>
+    <string name="pubkey_biometric_prompt_title" tools:machine_translated="true">A kulcs használatához hitelesítse magát</string>
+    <string name="pubkey_biometric_protection" tools:machine_translated="true">Ujjlenyomat-védelem</string>
+    <string name="pubkey_change_password">Jelszócsere</string>
+    <string name="pubkey_confirm_use">Jóváhagyás használat előtt</string>
+    <string name="pubkey_copy_private">Privát kulcs másolása</string>
+    <string name="pubkey_copy_private_encrypted" tools:machine_translated="true">Másold a titkosított privát kulcsot.</string>
+    <string name="pubkey_copy_private_openssh" tools:machine_translated="true">Másold a privát kulcsot (OpenSSH formátumban)</string>
+    <string name="pubkey_copy_private_pem" tools:machine_translated="true">Másold a privát kulcsot (PEM formátumban)</string>
+    <string name="pubkey_copy_public">Nyilvános kulcs másolása</string>
+    <string name="pubkey_delete">Kulcs törlése</string>
+    <string name="pubkey_editor_encrypted_startup_warning" tools:machine_translated="true">A titkosított kulcsok nem nyithatók meg a rendszerindításkor.</string>
+    <string name="pubkey_editor_key_type_label" tools:machine_translated="true">Kulcs típusa</string>
+    <string name="pubkey_editor_options_label" tools:machine_translated="true">Beállítások</string>
+    <string name="pubkey_encrypted_description" tools:machine_translated="true">Titkosított</string>
+    <string name="pubkey_export_confirm_passphrase" tools:machine_translated="true">Megerősítés: adjuk meg újra a jelszót.</string>
+    <string name="pubkey_export_passphrase_message" tools:machine_translated="true">Adjon meg egy jelszót a kivitt kulcs titkosításához.</string>
+    <string name="pubkey_export_passphrase_mismatch" tools:machine_translated="true">A jelszavak nem egyeznek.</string>
+    <string name="pubkey_export_private" tools:machine_translated="true">Exportálja a privát kulcsot</string>
+    <string name="pubkey_export_private_encrypted" tools:machine_translated="true">Exportálja a privát kulcsot (titkosítva)</string>
+    <string name="pubkey_export_private_openssh" tools:machine_translated="true">Magánkulcs exportálása (OpenSSH formátumban)</string>
+    <string name="pubkey_export_private_pem" tools:machine_translated="true">Magánkulcs exportálása (PEM formátumban)</string>
+    <string name="pubkey_export_public" tools:machine_translated="true">Nyilvános kulcs exportálása</string>
+    <string name="pubkey_export_set_passphrase" tools:machine_translated="true">Állíts be egy exportálási jelszót</string>
+    <string name="pubkey_gather_entropy">Entrópia gyűjtés</string>
+    <string name="pubkey_generate">Generálás</string>
+    <string name="pubkey_generating">Kulcspár generálása…</string>
+    <string name="pubkey_import_button" tools:machine_translated="true">Importálás</string>
+    <string name="pubkey_import_clipboard_key_label" tools:machine_translated="true">Privát kulcs tartalma</string>
+    <string name="pubkey_import_confirm_password" tools:machine_translated="true">Jelszó megerősítése</string>
+    <string name="pubkey_import_encrypt_key" tools:machine_translated="true">Titkosítsa a kulcsot a tárolás előtt</string>
+    <string name="pubkey_import_encrypted_message" tools:machine_translated="true">Adja meg a jelszót a(z) \'%1$s\' (%2$s) típusú kulcsfájl visszafejtéséhez.</string>
+    <string name="pubkey_import_encrypted_title" tools:machine_translated="true">Titkosított kulcs importálása</string>
+    <string name="pubkey_import_existing" tools:machine_translated="true">Lévő nyilvános kulcs importálása</string>
+    <string name="pubkey_import_from_clipboard" tools:machine_translated="true">Másolás a vágólapról</string>
+    <string name="pubkey_import_new_password" tools:machine_translated="true">Új jelszó</string>
+    <string name="pubkey_import_reuse_password" tools:machine_translated="true">Használja ugyanazt a jelszót a titkosításhoz</string>
+    <string name="pubkey_list_empty" tools:machine_translated="true">Érintse meg a „Menü” gombot a kulcspárok létrehozásához vagy importálásához.</string>
+    <string name="pubkey_load_on_start">Kulcs betöltése induláskor</string>
+    <string name="pubkey_nickname_exists" tools:machine_translated="true">Már létezik egy kulcs ezzel a felhasználónévvel.</string>
+    <string name="pubkey_not_encrypted_description" tools:machine_translated="true">Nincs titkosítva</string>
+    <string name="pubkey_paste_from_clipboard" tools:machine_translated="true">Másolás a vágólapról</string>
+    <string name="pubkey_touch_hint">A kulcs egyediségének biztosítása érdekében mozgassa ujját véletlenszerűen az alábbi dobozban.</string>
+    <string name="pubkey_touch_prompt">Érintse meg a dobozt a véletlenszerű generálásához: %1$d%% kész</string>
+    <string name="pubkey_type_label" tools:machine_translated="true">Típus: %s</string>
+    <string name="pubkey_unknown" tools:machine_translated="true">Ismeretlen kulcs</string>
+    <string name="pubkey_unknown_format" tools:machine_translated="true">Ismeretlen formátum</string>
+    <string name="pubkey_unlock">Kulcs feloldása</string>
+    <string name="pubkey_unlock_message" tools:machine_translated="true">Adja meg a jelszót a(z) \'%1$s\' kulcs feloldásához.</string>
+    <string msgid="5941395253238309765" name="range_end">"Tartomány vége"</string>
+    <string msgid="7097486360902471446" name="range_start">"Tartomány kezdete"</string>
+    <string name="resize_disable_force_size" tools:machine_translated="true">Tiltsuk le a rögzített méretet.</string>
+    <string name="resize_height_label" tools:machine_translated="true">Magasság (sorok)</string>
+    <string name="resize_width_label" tools:machine_translated="true">Szélesség (oszlopokban)</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"A folytatáshoz adja meg a képernyőzár hitelesítési adatait"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string name="searchview_clear_text_content_description">Szöveg törlése</string>
+    <string name="searchview_navigation_content_description">Vissza</string>
+    <string name="section_ansi_colors" tools:machine_translated="true">ANSI színek (0–15)</string>
+    <string name="section_color_preview" tools:machine_translated="true">Előnézet</string>
+    <string name="section_fg_bg_colors" tools:machine_translated="true">Első- és háttérszín</string>
+    <string msgid="6043586758067023" name="selected">"Kijelölve"</string>
+    <string name="service_desc">Fenntartja az SSH kapcsolatokat és a betöltött nyilvános kulcsokat</string>
+    <string name="shortcut_create" tools:machine_translated="true">Saját parancsikon létrehozása</string>
+    <string name="shortcut_customize_title" tools:machine_translated="true">Testreszabás: Gyorsbillentyű</string>
+    <string name="shortcut_icon_color" tools:machine_translated="true">Ikon színe</string>
+    <string name="shortcut_icon_style" tools:machine_translated="true">Ikonstílus</string>
+    <string name="shortcut_use_host_color" tools:machine_translated="true">Használd a rendszer színét</string>
+    <string name="side_sheet_accessibility_pane_title">Oldalsáv</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Figyelmeztetés"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Üres"</string>
+    <string msgid="5834637030682409883" name="state_off">"Ki"</string>
+    <string msgid="1490883874751719580" name="state_on">"Be"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Kapcsoló"</string>
+    <string msgid="1672349317127674378" name="tab">"Lap"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> százalék."</string>
+    <string name="terminal_auth">Azonosítási probálkozás</string>
+    <string name="terminal_auth_biometric" tools:machine_translated="true">Biometrikus azonosítás kérése a(z) „%1$s” nevű kulcs feloldásához.</string>
+    <string name="terminal_auth_biometric_invalidated" tools:machine_translated="true">A(z) „%1$s” biometrikus kulcs érvényét vesztette. Ez akkor fordulhat elő, ha új ujjlenyomatokat regisztrálnak az eszközön. Kérjük, hozzon létre egy új kulcsot.</string>
+    <string name="terminal_auth_fail">[A gépnév nem támogatja a \'password\' vagy \'keyboard-interactive\' azonosítást.]</string>
+    <string name="terminal_auth_ki">Próbálkozás \'keyboard-interactive\' azonosítással</string>
+    <string name="terminal_auth_ki_fail">\'keyboard-interactive\' azonosítás sikertelen</string>
+    <string name="terminal_auth_pass">Próbálkozás \'password\' azonosítással</string>
+    <string name="terminal_auth_pass_fail">A \'password\' azonosítás sikertelen.</string>
+    <string name="terminal_auth_pubkey_any">Próbálkozás \'publickey\' azonosítással, bármely memóriában található nyilvános kulccsal</string>
+    <string name="terminal_auth_pubkey_fail">A \'%1$s\' kulccsal történt \'publickey\' azonosítás sikertelen.</string>
+    <string name="terminal_auth_pubkey_invalid">A nyilvános kulcs hibás, próbálja újra kiválasztani az állomás kezelőből</string>
+    <string name="terminal_auth_pubkey_specific">Próbálkozás \'publickey\' azonosítással, választott nyilvános kulccsal</string>
+    <string name="terminal_auth_saved_password" tools:machine_translated="true">A mentett jelszó használata közben…</string>
+    <string name="terminal_auth_saved_password_fail" tools:machine_translated="true">A mentett jelszóval történő hitelesítés sikertelen volt.</string>
+    <string name="terminal_connecting">Csatlakozás %1$s:%2$d a %3$s protokollon</string>
+    <string name="terminal_connecting_via_jump" tools:machine_translated="true">Csatlakozás egy átmeneti szerveren keresztül: %s</string>
+    <string name="terminal_enable_portfoward">Port átirányítás engedélyezése: %1$s</string>
+    <string name="terminal_failed">Távoli gép, kulcs azonosítása sikertelen.</string>
+    <string name="terminal_jump_auth_failed" tools:machine_translated="true">A hálózati átjáró hitelesítése sikertelen: %s</string>
+    <string name="terminal_jump_authenticated" tools:machine_translated="true">Sikeresen bejelentkezett a hálózati átjáróba: %s</string>
+    <string name="terminal_jump_connected" tools:machine_translated="true">Csatlakozás a hálózati átjáróhoz: %s</string>
+    <string name="terminal_jump_failed" tools:machine_translated="true">Sikertelen a %1$s jump hosthoz való kapcsolódás: %2$s</string>
+    <string name="terminal_jump_not_found" tools:machine_translated="true">A megadott ugró szerver nem található a mentett szerverek listájában.</string>
+    <string name="terminal_jump_password" tools:machine_translated="true">Jelszó a %s nevű ugró szerverhez:</string>
+    <string name="terminal_kex_algorithm" tools:machine_translated="true">Kulcscsere-algoritmus: %s</string>
+    <string name="terminal_keyboard_text_input_button" tools:machine_translated="true">Szövegbemenet</string>
+    <string name="terminal_no_route" tools:machine_translated="true">Szeretne hozzáférni egy helyi hálózaton lévő számítógéphez? Engedélyezze a helyi hálózati jogosultságokat.</string>
+    <string name="terminal_no_session">A munkamenet nem kezdhető el a gép beállítások miatt.</string>
+    <string name="terminal_sucess">Azonosított \'%1$s\' gépnév kulcsa: %2$s</string>
+    <string name="terminal_text_input_dialog_label" tools:machine_translated="true">Írja be a szöveget, amelyet a terminálra szeretne küldeni.</string>
+    <string name="terminal_text_input_dialog_title" tools:machine_translated="true">Szövegbemenet</string>
+    <string name="terminal_text_input_resize_handle" tools:machine_translated="true">Átméretezés</string>
+    <string name="terminal_using_algorithm">Használt algoritmus: %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">Kliens-szerver algoritmus: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">Szerver-kliens algoritmus: %1$s %2$s</string>
+    <string name="terms_and_conditions" tools:machine_translated="true">Felhasználási feltételek</string>
+    <string name="title_color_picker" tools:machine_translated="true">Válassz ki egy színt</string>
+    <string name="title_colors">Színek</string>
+    <string name="title_contact" tools:machine_translated="true">Kapcsolat és támogatás</string>
+    <string name="title_eula" tools:machine_translated="true">Licenc</string>
+    <string name="title_help">Súgó</string>
+    <string name="title_palette_editor" tools:machine_translated="true">Színpaletta szerkesztése</string>
+    <string name="title_port_forwards_list">Port átiránytások</string>
+    <string name="title_pubkey_generate" tools:machine_translated="true">Generálás</string>
+    <string name="title_pubkey_list">Publikus kulcsok</string>
+    <string name="title_scheme_manager" tools:machine_translated="true">Színvilágok kezelése</string>
+    <string name="title_settings" tools:machine_translated="true">Beállítások</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"elemleírás"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"elemleírás megjelenítése"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"Biometriai feloldás használata"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"Biometriai feloldás vagy képernyőzár használata"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"Arcalapú feloldás használata"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"Arcalapú feloldás vagy képernyőzár használata"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"Ujjlenyomat használata"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"Ujjlenyomat vagy képernyőzár használata"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"Képernyőzár használata"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"KI"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"BE"</string>
+    <string name="view_logs" tools:machine_translated="true">Naplók megtekintése</string>
+    <string name="yes">Igen</string>
+</resources>

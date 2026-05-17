@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nytt varsel</item>
+    <item quantity="other">%d nye varsler</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slett"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funksjon+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellomrom"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søk"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="alert_disconnect_msg">Mistet tilkobling</string>
+    <string name="alert_passwords_do_not_match_msg">Passordene er ikke like!</string>
+    <string name="alert_wrong_password_msg">Feil passord!</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Autofyll"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Autofyll"</string>
+    <string name="app_copyright" tools:machine_translated="true">Copyright © Kenny Root</string>
+    <string name="app_desc">Enkel og omfattende SSH-klient med åpen kildekode.</string>
+    <string name="app_is_running">ConnectBot kjører</string>
+    <string name="auth_prompt_subtitle" tools:machine_translated="true">Bekreft identiteten din for å fortsette.</string>
+    <string name="auth_prompt_title" tools:machine_translated="true">Lås opp ConnectBot</string>
+    <string name="auth_screen_title" tools:machine_translated="true">ConnectBot er låst</string>
+    <string name="auth_screen_unlock_button" tools:machine_translated="true">Trykk for å låse opp</string>
+    <string msgid="2102429900219199821" name="biometric_or_screen_lock_prompt_message">"Bruk biometri eller skjermlåsen for å fortsette"</string>
+    <string msgid="1160635338192065472" name="biometric_prompt_message">"Bruk biometri for å fortsette"</string>
+    <string name="bottomsheet_action_collapse">Skjul</string>
+    <string name="bottomsheet_action_collapse_description">Skjul feltet nederst</string>
+    <string name="bottomsheet_action_expand">Vis</string>
+    <string name="bottomsheet_action_expand_description">Vis feltet nederst</string>
+    <string name="bottomsheet_action_expand_halfway">Vis halve feltet nederst</string>
+    <string name="bottomsheet_action_half_expand_description">Vis halvparten av feltet nederst</string>
+    <string name="bottomsheet_drag_handle_content_description">Håndtak</string>
+    <string name="bottomsheet_state_collapsed">Skjult</string>
+    <string name="bottomsheet_state_expanded">Vises</string>
+    <string name="bottomsheet_state_half_expanded">Vises halvveis</string>
+    <string name="button_add" tools:machine_translated="true">Legg til</string>
+    <string name="button_add_custom" tools:machine_translated="true">Legg til egendefinert …</string>
+    <string name="button_back" tools:machine_translated="true">Tilbake</string>
+    <string name="button_cancel" tools:machine_translated="true">Avbryt</string>
+    <string name="button_close" tools:machine_translated="true">Lukk</string>
+    <string name="button_collapse" tools:machine_translated="true">Lukk</string>
+    <string name="button_confirm" tools:machine_translated="true">Bekreft</string>
+    <string name="button_delete_scheme" tools:machine_translated="true">Slett</string>
+    <string name="button_duplicate_scheme" tools:machine_translated="true">Dupliser</string>
+    <string name="button_edit_palette" tools:machine_translated="true">Rediger fargepalett</string>
+    <string name="button_export_scheme" tools:machine_translated="true">Eksporter fargepalett</string>
+    <string name="button_host_options" tools:machine_translated="true">Vertsinnstillinger</string>
+    <string name="button_import" tools:machine_translated="true">Importer</string>
+    <string name="button_import_scheme" tools:machine_translated="true">Importer fargepalett</string>
+    <string name="button_key_ctrl" tools:machine_translated="true">Ctrl</string>
+    <string name="button_key_end" tools:machine_translated="true">Avslutt</string>
+    <string name="button_key_esc" tools:machine_translated="true">Esc</string>
+    <string name="button_key_f1" tools:machine_translated="true">F1</string>
+    <string name="button_key_f10" tools:machine_translated="true">F10</string>
+    <string name="button_key_f11" tools:machine_translated="true">F11</string>
+    <string name="button_key_f12" tools:machine_translated="true">F12</string>
+    <string name="button_key_f2" tools:machine_translated="true">F2</string>
+    <string name="button_key_f3" tools:machine_translated="true">F3</string>
+    <string name="button_key_f4" tools:machine_translated="true">F4</string>
+    <string name="button_key_f5" tools:machine_translated="true">F5</string>
+    <string name="button_key_f6" tools:machine_translated="true">F6</string>
+    <string name="button_key_f7" tools:machine_translated="true">F7</string>
+    <string name="button_key_f8" tools:machine_translated="true">F8</string>
+    <string name="button_key_f9" tools:machine_translated="true">F9</string>
+    <string name="button_key_home" tools:machine_translated="true">Hjem</string>
+    <string name="button_key_pgdn" tools:machine_translated="true">Side ned</string>
+    <string name="button_key_pgup" tools:machine_translated="true">Side opp</string>
+    <string name="button_manage_custom" tools:machine_translated="true">Administrer egendefinerte elementer …</string>
+    <string name="button_manage_schemes" tools:machine_translated="true">Administrer fargepaletter</string>
+    <string name="button_more_options" tools:machine_translated="true">Flere alternativer</string>
+    <string name="button_navigate_up" tools:machine_translated="true">Naviger opp</string>
+    <string name="button_new_scheme" tools:machine_translated="true">Nytt fargevalg</string>
+    <string name="button_no">Nei</string>
+    <string name="button_ok" tools:machine_translated="true">OK</string>
+    <string name="button_remove" tools:machine_translated="true">Fjern</string>
+    <string name="button_rename_scheme" tools:machine_translated="true">Gi nytt navn</string>
+    <string name="button_reset_all_colors" tools:machine_translated="true">Tilbakestill alt</string>
+    <string name="button_resize">Endre størrelse</string>
+    <string name="button_send" tools:machine_translated="true">Send</string>
+    <string name="button_yes">Ja</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Svar"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Avvis"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Legg på"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Innkommende anrop"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pågående samtale"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrerer et innkommende anrop"</string>
+    <string name="character_counter_content_description">%1$d av %2$d tegn er skrevet inn</string>
+    <string name="character_counter_overflowed_content_description">Tegngrensen er overskredet – %1$d av %2$d</string>
+    <string name="clear_text_end_icon_content_description">Fjern teksten</string>
+    <string msgid="406453423630273620" name="close_drawer">"Lukk navigasjonsmenyen"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Lukk arket"</string>
+    <string name="color_amber" tools:machine_translated="true">Bärnstein</string>
+    <string name="color_bg_label" tools:machine_translated="true">BG: %1$d</string>
+    <string name="color_blue" tools:machine_translated="true">Blå</string>
+    <string name="color_cyan" tools:machine_translated="true">Cyan</string>
+    <string name="color_deep_purple" tools:machine_translated="true">Dyp lilla</string>
+    <string name="color_gray" tools:machine_translated="true">Grå</string>
+    <string name="color_green" tools:machine_translated="true">Grønn</string>
+    <string name="color_indigo" tools:machine_translated="true">Indigoblå</string>
+    <string name="color_light_blue" tools:machine_translated="true">Lys blå</string>
+    <string name="color_light_green" tools:machine_translated="true">Lys grønn</string>
+    <string name="color_lime" tools:machine_translated="true">Limefarge</string>
+    <string name="color_orange" tools:machine_translated="true">Oransje</string>
+    <string name="color_pink" tools:machine_translated="true">Rosa</string>
+    <string name="color_purple" tools:machine_translated="true">Lilla</string>
+    <string name="color_red" tools:machine_translated="true">Rød</string>
+    <string name="color_teal" tools:machine_translated="true">Turkisgrønn</string>
+    <string name="color_yellow" tools:machine_translated="true">Gul</string>
+    <string name="colors_fg_label" tools:machine_translated="true">FG: %1$d</string>
+    <string name="colorscheme_default" tools:machine_translated="true">Standard</string>
+    <string name="colorscheme_default_description" tools:machine_translated="true">Standardfarger for terminalen</string>
+    <string name="colorscheme_dracula_description" tools:machine_translated="true">Et mørkt fargetema for terminalen</string>
+    <string name="colorscheme_gruvbox_dark_description" tools:machine_translated="true">Fargepalett i retrostil</string>
+    <string name="colorscheme_monokai_description" tools:machine_translated="true">Et tema inspirert av Sublime Text.</string>
+    <string name="colorscheme_nord_description" tools:machine_translated="true">Et arktisk fargepalett med nordlige, blåaktige toner.</string>
+    <string name="colorscheme_solarized_dark_description" tools:machine_translated="true">Nøyaktige farger for maskiner og mennesker</string>
+    <string name="colorscheme_solarized_light_description" tools:machine_translated="true">Solarized med lys bakgrunn</string>
+    <string name="colorscheme_tomorrow_night_description" tools:machine_translated="true">Et stilrent og behagelig mørkt tema</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Bruk passord"</string>
+    <string name="connect_anyway" tools:machine_translated="true">Fortsett likevel</string>
+    <string name="console_default_title" tools:machine_translated="true">Konsoll</string>
+    <string name="console_menu_close">Lukk</string>
+    <string name="console_menu_paste">Lim inn</string>
+    <string name="console_menu_portforwards">Portvideresending</string>
+    <string name="console_menu_reconnect" tools:machine_translated="true">Koble til igjen</string>
+    <string name="console_menu_resize">Tving størrelse</string>
+    <string name="console_menu_text_input" tools:machine_translated="true">Tekstinndata</string>
+    <string name="console_menu_urlscan">URL-søk</string>
+    <string name="console_url_no_handler" tools:machine_translated="true">Ingen app er tilgjengelig for å åpne denne URL-en</string>
+    <string name="console_url_not_supported" tools:machine_translated="true">Denne URL-typen støttes ikke</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiér"</string>
+    <string name="copy_logs" tools:machine_translated="true">Kopier logger</string>
+    <string name="decrease_font_shortcut">Ctrl og -</string>
+    <string name="decrease_font_size">Minsk skriftstørrelse</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ugyldige inndata"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Ukjent feil"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Forgrunnsvindu"</string>
+    <string name="delete_host_confirm" tools:machine_translated="true">Er du sikker på at du vil slette verten «%1$s»?</string>
+    <string name="delete_message">Er du sikker på at du vil slette \'%1$s\'?</string>
+    <string name="delete_neg">Avbryt</string>
+    <string name="delete_pos">Ja, slett</string>
+    <string name="dialog_custom_value_label" tools:machine_translated="true">Angi egendefinert verdi</string>
+    <string name="dialog_customfont_hint" tools:machine_translated="true">Navn på Google-font (f.eks. Cascadia Code)</string>
+    <string name="dialog_customfont_title" tools:machine_translated="true">Legg til egendefinert skrifttype</string>
+    <string name="dialog_customterminal_hint" tools:machine_translated="true">Terminaltype (f.eks. rxvt-unicode)</string>
+    <string name="dialog_customterminal_title" tools:machine_translated="true">Legg til en egendefinert terminaltype</string>
+    <string name="dialog_localfont_hint" tools:machine_translated="true">Visningsnavn for skrifttypen</string>
+    <string name="dialog_localfont_title" tools:machine_translated="true">Importer skrifttype</string>
+    <string name="dialog_manage_customterminal_title" tools:machine_translated="true">Administrer egendefinerte terminaltyper</string>
+    <string name="dialog_message_delete_scheme" tools:machine_translated="true">Er du sikker på at du vil slette «%1$s»? Denne handlingen kan ikke angres.</string>
+    <string name="dialog_message_reset_all" tools:machine_translated="true">Dette vil tilbakestille alle de 256 fargene til standardverdiene. Denne handlingen kan ikke angres.</string>
+    <string name="dialog_title_delete_scheme" tools:machine_translated="true">Vil du slette dette oppsettet?</string>
+    <string name="dialog_title_edit_color" tools:machine_translated="true">Rediger farge %1$d</string>
+    <string name="dialog_title_new_scheme" tools:machine_translated="true">Nytt fargevalg</string>
+    <string name="dialog_title_rename_scheme" tools:machine_translated="true">Gi nytt navn til fargepaletten</string>
+    <string name="dialog_title_reset_all" tools:machine_translated="true">Tilbakestille alle farger?</string>
+    <string name="disconnect_all_message" tools:machine_translated="true">Er du sikker på at du vil koble fra alle tilkoblede enheter?</string>
+    <string name="disconnect_all_neg" tools:machine_translated="true">Avbryt</string>
+    <string name="disconnect_all_pos" tools:machine_translated="true">Ja, koble fra</string>
+    <string name="disconnect_host_alert" tools:machine_translated="true">Er du sikker på at du vil koble fra \'%1$s\'?</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Rullegardinmeny"</string>
+    <string name="empty_custom_schemes" tools:machine_translated="true">Ingen egendefinerte skjemaer. Trykk på «Nytt skjema» for å opprette et.</string>
+    <string name="empty_hosts_message" tools:machine_translated="true">Ingen verter er konfigurert</string>
+    <string name="empty_port_forwards_message" tools:machine_translated="true">Ingen portvideresendinger er konfigurert.</string>
+    <string name="empty_pubkeys_message" tools:machine_translated="true">Ingen nøkler funnet.</string>
+    <string name="empty_urls_message" tools:machine_translated="true">Ingen URL-er funnet i terminalbufferen</string>
+    <string name="error_a11y_label">Feil: ugyldig</string>
+    <string name="error_color_scheme_load_failed" tools:machine_translated="true">Kunne ikke laste inn fargepalett: %s</string>
+    <string name="error_connection_failed" tools:machine_translated="true">Kunne ikke koble til %1$s (%2$s): %3$s</string>
+    <string name="error_export_failed" tools:machine_translated="true">Kunne ikke eksportere skjema: %1$s</string>
+    <string name="error_host_save_failed" tools:machine_translated="true">Kunne ikke lagre konfigurasjonen for vert %1$s: %2$s</string>
+    <string name="error_icon_content_description">Feil</string>
+    <string name="error_import_failed" tools:machine_translated="true">Kunne ikke importere skjema: %1$s</string>
+    <string name="error_invalid_json" tools:machine_translated="true">Ugyldig JSON-fil</string>
+    <string name="error_key_load_failed" tools:machine_translated="true">Kunne ikke laste inn nøkkelen \'%1$s\': %2$s</string>
+    <string name="error_port_forward_load_failed" tools:machine_translated="true">Kunne ikke laste inn portvideresendinger for %1$s: %2$s</string>
+    <string name="expand" tools:machine_translated="true">Vis mer</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avansert"</string>
+    <string name="export_hosts_failed" tools:machine_translated="true">Kunne ikke eksportere verter: %s</string>
+    <string name="export_hosts_success" tools:machine_translated="true">%1$d verter og %2$d profiler er eksportert.</string>
+    <string name="export_hosts_title" tools:machine_translated="true">Eksporter verter</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullegardinmenyen</string>
+    <string msgid="4562557128765735254" name="face_or_screen_lock_prompt_message">"Bruk ansiktet eller skjermlåsen for å fortsette"</string>
+    <string msgid="2282389249605674226" name="face_prompt_message">"Bruk ansiktet for å fortsette"</string>
+    <string name="fingerprint_copy_description" tools:machine_translated="true">Kopier fingeravtrykk til utklippstavlen</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Ikon for fingeravtrykk"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Trykk på fingeravtrykkssensoren"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Maskinvare for fingeravtrykk er ikke tilgjengelig."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Denne enheten har ikke fingeravtrykkssensor"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Du har gjort for mange forsøk. Prøv på nytt senere."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Ingen fingeravtrykk er registrert."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Fingeravtrykk-operasjonen ble avbrutt av brukeren."</string>
+    <string name="fingerprint_format_header" tools:machine_translated="true">Fingeravtrykksformat</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Ikke gjenkjent"</string>
+    <string msgid="8382576858490514495" name="fingerprint_or_screen_lock_prompt_message">"Bruk fingeravtrykket eller skjermlåsen for å fortsette"</string>
+    <string msgid="7449360011861769080" name="fingerprint_prompt_message">"Bruk fingeravtrykket for å fortsette"</string>
+    <string name="font_downloading" tools:machine_translated="true">Laster ned font …</string>
+    <string name="font_importing" tools:machine_translated="true">Importerer skrifttype …</string>
+    <string name="font_system_default" tools:machine_translated="true">Standard (fast bredde)</string>
+    <string name="font_use_default" tools:machine_translated="true">Bruk standardverdi</string>
+    <string name="font_validating" tools:machine_translated="true">Validerer skrifttype …</string>
+    <string name="forget_host_keys_confirm" tools:machine_translated="true">Er du sikker på at du vil slette de lagrede vertsnøklene for «%1$s»? Du blir bedt om å bekrefte vertsnøkkelen ved neste tilkobling.</string>
+    <string name="format_hostname">vertsnavn</string>
+    <string name="format_port">port</string>
+    <string name="format_username">brukernavn</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"PIN-kode, mønster eller passord er ikke angitt."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Denne enheten støtter ikke PIN-kode, mønster eller passord."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Autentiseringen ble avbrutt av brukeren."</string>
+    <string name="grant_permission" tools:machine_translated="true">Tillat</string>
+    <string name="help_donate_coffee" tools:machine_translated="true">Gi meg en kaffe</string>
+    <string name="help_donate_github" tools:machine_translated="true">GitHub-sponsorer</string>
+    <string name="help_github" tools:machine_translated="true">Kildekode</string>
+    <string name="help_report_bug" tools:machine_translated="true">Meld om en feil</string>
+    <string name="help_section_about" tools:machine_translated="true">Om</string>
+    <string name="help_section_contact" tools:machine_translated="true">Kontakt og støtte</string>
+    <string name="help_section_donate" tools:machine_translated="true">Støtt utviklingen</string>
+    <string name="help_website" tools:machine_translated="true">Nettside</string>
+    <string name="hints">Hint</string>
+    <string name="host_authenticity_warning">Kan ikke bekrefte integriteten til \'%1$s\'.</string>
+    <string name="host_duplicate_nickname" tools:machine_translated="true">%1$s (kopi)</string>
+    <string name="host_editor_hide_advanced" tools:machine_translated="true">Skjul avanserte alternativer</string>
+    <string name="host_editor_quick_connect_example" tools:machine_translated="true">Eksempel: root\@192.168.1.1:22</string>
+    <string name="host_editor_quick_connect_label" tools:machine_translated="true">Hurtigkobling</string>
+    <string name="host_editor_quick_connect_placeholder" tools:machine_translated="true">bruker\@vertsnavn:port</string>
+    <string name="host_editor_show_advanced" tools:machine_translated="true">Vis avanserte alternativer</string>
+    <string name="host_fingerprint">Nøkkelfingeravtrykk til vert %1$s er %2$s</string>
+    <string name="host_key_type_and_size" tools:machine_translated="true">%1$s %2$d bit</string>
+    <string name="host_key_verification_title" tools:machine_translated="true">Verifisering av verts-nøkkel</string>
+    <string name="host_verification_failure_warning">DET KAN VÆRE UGLER I MOSEN!\nNoen kan lytte på deg akkurat nå (et mellommann-angrep)!\nMen det er også mulig at vertsnøkkelen har blitt endret.</string>
+    <string name="host_verification_failure_warning_header">ADVARSEL: EKSTERN VERT IDENTIFIKASJON HAR BLITT ENDRET!</string>
+    <string name="hostpref_add_host" tools:machine_translated="true">Legg til vert</string>
+    <string name="hostpref_authagent_title">Bruk SSH auth-agent</string>
+    <string name="hostpref_authagent_with_confirmation" tools:machine_translated="true">krever bekreftelse</string>
+    <string name="hostpref_clear_password" tools:machine_translated="true">Slett lagret passord</string>
+    <string name="hostpref_color_title">Fargeinndeling</string>
+    <string name="hostpref_colorscheme_title" tools:machine_translated="true">Fargepalett for terminalen</string>
+    <string name="hostpref_compression_summary">Dette kan hjelpe på trege nettverk</string>
+    <string name="hostpref_compression_title">Komprimering</string>
+    <string name="hostpref_delkey_title">DEL-knapp</string>
+    <string name="hostpref_encoding_title">Tegnkoding</string>
+    <string name="hostpref_fontfamily_title" tools:machine_translated="true">Skrifttype</string>
+    <string name="hostpref_fontsize_title">Skriftstørrelse (pt)</string>
+    <string name="hostpref_hostname_title">Vert</string>
+    <string name="hostpref_ipversion_summary" tools:machine_translated="true">Velg hvilken IP-adresseversjon som skal brukes når du kobler til.</string>
+    <string name="hostpref_ipversion_title" tools:machine_translated="true">IP-versjon</string>
+    <string name="hostpref_jumphost_summary" tools:machine_translated="true">Koble til via en annen SSH-server.</string>
+    <string name="hostpref_jumphost_title" tools:machine_translated="true">Hoppvert (ProxyJump)</string>
+    <string name="hostpref_nickname_title">Kallenavn</string>
+    <string name="hostpref_password_title" tools:machine_translated="true">Passord</string>
+    <string name="hostpref_password_unchanged" tools:machine_translated="true">Passord (uendret)</string>
+    <string name="hostpref_port_title">Port</string>
+    <string name="hostpref_postlogin_summary">Kommandoer som kjøres på tilkoblet tjener etter vellykket autentisering</string>
+    <string name="hostpref_postlogin_title">Kommandoer etter innlogging</string>
+    <string name="hostpref_profile_none" tools:machine_translated="true">Ingen (bruk vertsinnstillinger)</string>
+    <string name="hostpref_profile_summary" tools:machine_translated="true">Velg en profil for å bruke de tilhørende terminalinnstillingene.</string>
+    <string name="hostpref_profile_title" tools:machine_translated="true">Profil</string>
+    <string name="hostpref_pubkeyid_title">Bruk offentlig nøkkel som godkjenning</string>
+    <string name="hostpref_quickdisconnect_summary" tools:machine_translated="true">Lukk umiddelbart etter at tilkoblingen er brutt, uten å vise noen melding.</string>
+    <string name="hostpref_quickdisconnect_title" tools:machine_translated="true">Lukk ved frakobling.</string>
+    <string name="hostpref_save_host" tools:machine_translated="true">Lagre vert</string>
+    <string name="hostpref_save_password_summary" tools:machine_translated="true">Lagre påloggingspassordet på en sikker måte for automatisk autentisering.</string>
+    <string name="hostpref_setting_title" tools:machine_translated="true">Innstillinger for vert</string>
+    <string name="hostpref_stayconnected_summary">Forsøk å koble til på nytt ved frakobling</string>
+    <string name="hostpref_stayconnected_title">Oppretthold forbindelse</string>
+    <string name="hostpref_username_title">Brukernavn</string>
+    <string name="hostpref_wantsession_summary">Deaktiver denne innstillingen og benytt denne kun for portvideresending</string>
+    <string name="hostpref_wantsession_title">Start skallsesjon</string>
+    <string name="icon_content_description">Dialogboksikon</string>
+    <string name="icon_style_cloud" tools:machine_translated="true">Sky</string>
+    <string name="icon_style_key" tools:machine_translated="true">Nøkkel</string>
+    <string name="icon_style_server" tools:machine_translated="true">Server</string>
+    <string name="icon_style_terminal" tools:machine_translated="true">Terminal</string>
+    <string name="image_description_connected" tools:machine_translated="true">Tilkoblet.</string>
+    <string name="image_description_disconnected" tools:machine_translated="true">Tilkoblingen er brutt.</string>
+    <string name="image_description_down" tools:machine_translated="true">Pil ned</string>
+    <string name="image_description_hide_keyboard" tools:machine_translated="true">Skjul tastaturet.</string>
+    <string name="image_description_left" tools:machine_translated="true">Pil venstre</string>
+    <string name="image_description_right" tools:machine_translated="true">Pil mot høyre</string>
+    <string name="image_description_send_escape_character" tools:machine_translated="true">Send escape-tegn.</string>
+    <string name="image_description_send_tab_character" tools:machine_translated="true">Send TAB-tegn.</string>
+    <string name="image_description_show_keyboard" tools:machine_translated="true">Vis tastatur.</string>
+    <string name="image_description_toggle_control_character" tools:machine_translated="true">Bytt kontrolltegn.</string>
+    <string name="image_description_up" tools:machine_translated="true">Pil opp</string>
+    <string name="import_hosts_failed" tools:machine_translated="true">Kunne ikke importere verter: %s</string>
+    <string name="import_hosts_success" tools:machine_translated="true">Importerte %1$d verter (%2$d hoppet over) og %3$d profiler (%4$d hoppet over)</string>
+    <string msgid="6827826412747255547" name="in_progress">"Pågår"</string>
+    <string name="increase_font_shortcut">Ctrl og +</string>
+    <string name="increase_font_size">Større skrift</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delvis avmerket"</string>
+    <string name="ipversion_auto" tools:machine_translated="true">Automatisk</string>
+    <string name="ipversion_ipv4" tools:machine_translated="true">Kun IPv4</string>
+    <string name="ipversion_ipv6" tools:machine_translated="true">Kun IPv6</string>
+    <string name="item_view_role_description">Fane</string>
+    <string name="keyboard_shortcuts">Hurtigtaster</string>
+    <string name="label_background_color" tools:machine_translated="true">Bakgrunn</string>
+    <string name="label_base_scheme" tools:machine_translated="true">Grunnleggende fargepalett:</string>
+    <string name="label_blue" tools:machine_translated="true">Blå</string>
+    <string name="label_built_in_scheme" tools:machine_translated="true">Innebygd</string>
+    <string name="label_custom_scheme" tools:machine_translated="true">Egendefinert</string>
+    <string name="label_foreground_color" tools:machine_translated="true">Forgrunn</string>
+    <string name="label_green" tools:machine_translated="true">Grønn</string>
+    <string name="label_hex_color" tools:machine_translated="true">Heksadesimal fargekode</string>
+    <string name="label_red" tools:machine_translated="true">Rød</string>
+    <string name="label_scheme_description" tools:machine_translated="true">Beskrivelse (valgfritt)</string>
+    <string name="label_scheme_name" tools:machine_translated="true">Skjemanavn</string>
+    <string name="list_camera_ctrla">Ctrl+A</string>
+    <string name="list_camera_ctrla_description" tools:machine_translated="true">Ctrl+A</string>
+    <string name="list_camera_ctrlaspace">Ctrl+A og mellomrom</string>
+    <string name="list_camera_ctrlaspace_description" tools:machine_translated="true">Ctrl+A, deretter mellomromstasten</string>
+    <string name="list_camera_esc">Esc</string>
+    <string name="list_camera_esc_a">Esc+A</string>
+    <string name="list_camera_esc_a_description" tools:machine_translated="true">Esc+A</string>
+    <string name="list_camera_esc_description" tools:machine_translated="true">Avbryt</string>
+    <string name="list_camera_none">Ingen</string>
+    <string name="list_camera_none_description" tools:machine_translated="true">Ingen</string>
+    <string name="list_camera_text_input" tools:machine_translated="true">Tekstinndata</string>
+    <string name="list_camera_text_input_description" tools:machine_translated="true">Tekstinndata</string>
+    <string name="list_color_schemes" tools:machine_translated="true">Fargepaletter</string>
+    <string name="list_host_delete">Slett vert</string>
+    <string name="list_host_disconnect">Koble fra</string>
+    <string name="list_host_duplicate" tools:machine_translated="true">Dupliser vert.</string>
+    <string name="list_host_edit">Rediger vert</string>
+    <string name="list_host_forget_keys" tools:machine_translated="true">Fjern lagrede vertsnøkler</string>
+    <string name="list_host_portforwards">Rediger portvidersendinger</string>
+    <string name="list_jumphost_none" tools:machine_translated="true">Ingen (direkte tilkobling)</string>
+    <string name="list_keymode_left">Bruk knapper på venstre side</string>
+    <string name="list_keymode_none">Deaktiver</string>
+    <string name="list_keymode_right">Bruk knapper på høyre side</string>
+    <string name="list_menu_disconnect" tools:machine_translated="true">Koble fra alle</string>
+    <string name="list_menu_export_hosts" tools:machine_translated="true">Eksporter verter</string>
+    <string name="list_menu_import_hosts" tools:machine_translated="true">Importer verter</string>
+    <string name="list_menu_pubkeys">Behandle offentlige nøkler</string>
+    <string name="list_menu_settings">Innstillinger</string>
+    <string name="list_menu_sortcolor">Sorter etter farge</string>
+    <string name="list_menu_sortname">Sorter etter navn</string>
+    <string name="list_pubkey_edit" tools:machine_translated="true">Rediger offentlig nøkkel</string>
+    <string name="list_pubkeyids_any">Bruk en vilkårlig ulåst tast</string>
+    <string name="list_pubkeyids_none">Ikke bruk nøkler</string>
+    <string name="list_rotation_auto">Automatisk</string>
+    <string name="list_rotation_default">Forvalg</string>
+    <string name="list_rotation_land">Tving landskap</string>
+    <string name="list_rotation_port">Tving portrett</string>
+    <string name="loading_message" tools:machine_translated="true">Laster…</string>
+    <string name="local_shell_unavailable">Feil! Lokalt skall er utilgjengelig på denne telefonen.</string>
+    <string name="logs_bug_report_info" tools:machine_translated="true">For å rapportere en feil, kopier disse loggene og opprett en ny sak på https://connectbot.org/bug</string>
+    <string name="logs_copied" tools:machine_translated="true">Loggene er kopiert til utklippstavlen</string>
+    <string name="logs_title" tools:machine_translated="true">Programlogger</string>
+    <string name="m3_loading_indicator_content_description">Laster inn</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Overflytsmeny</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Flere alternativer</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Skjul feltet nederst"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Lukk feltet nederst"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Håndtak"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Vis feltet nederst"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Felt nederst"</string>
+    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Flere alternativer"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Angitt dato"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Angitt dato: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datoen matcher ikke det forventede mønsteret: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datoen er ikke tillatt: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datoen er utenfor det forventede årsintervallet %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Dato"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Ingen"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Velg dato"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Valgt dato"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Valgt: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Gå til år %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Ingen"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Rull for å vise tidligere år"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Rull for å vise senere år"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Bytt til kalendermodus for inndata"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Sveip for å velge år, eller trykk for å bytte tilbake til valg av dag"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Bytt til tekstmodus for inndata"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Bytt til neste måned"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Bytt til forrige måned"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Bytt til å velge et år"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Velg dato"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"I dag"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Årsvelgeren er synlig"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"En ugyldig datoperiode er valgt"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Legg inn datoer"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Innenfor området"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Sluttdato"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Rull for å vise den neste måneden"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Rull for å vise den forrige måneden"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdato"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Velg datoer"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialogboks"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Skjules"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Vises"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Slå rullegardinmeny av/på"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Skjul verktøylinjen"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Vis verktøylinjen"</string>
+    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Flere alternativer"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Søk"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Lukk"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Varsel"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Du finner forslag nedenfor"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Angi et klokkeslett"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Velg et klokkeslett"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Time"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d timer"</string>
+    <string msgid="1097071570318581307" name="m3c_time_picker_hour_error">"Timen må være 1–12"</string>
+    <string msgid="7720688108712561777" name="m3c_time_picker_hour_error_24h">"Timen må være 0–23"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Velg time"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"for timer"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minutt"</string>
+    <string msgid="8576727470211431214" name="m3c_time_picker_minute_error">"Minuttet må være 0–59"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Velg minutter"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minutter"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"for minutter"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Velg AM eller PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Bytt til inndatamodus for tekst"</string>
+    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Bytt til klokkemodus"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Vis verktøytips"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Verktøytips"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Lukk linjen"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Navigasjonslinje"</string>
+    <string name="material_clock_toggle_content_description">Velg AM eller PM</string>
+    <string name="material_hour_24h_suffix">%1$s timer</string>
+    <string name="material_hour_selection">Velg time</string>
+    <string name="material_hour_suffix">%1$s null-null</string>
+    <string name="material_minute_selection">Angi minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_slider_range_end">Områdeslutt</string>
+    <string name="material_slider_range_start">Områdestart</string>
+    <string name="material_slider_value">Verdi</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Bytt til klokkemodus for tidsinndata.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Bytt til klokkemodus</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_hour_error">Timen må være 1–12</string>
+    <string name="material_timepicker_hour_error_24h">Timen må være 0–23</string>
+    <string name="material_timepicker_minute">Minutt</string>
+    <string name="material_timepicker_minute_error">Minuttet må være 0–59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Velg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Bytt til tekstinndatamodus for tidsinndata.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Bytt til inndatamodus for tekst</string>
+    <string name="menu_colors_reset">Tilbakestill</string>
+    <string name="menu_manage_colors" tools:machine_translated="true">Administrer fargepaletter</string>
+    <string name="message_export_success" tools:machine_translated="true">%1$s er eksportert</string>
+    <string name="message_import_success" tools:machine_translated="true">%1$s er importert</string>
+    <string name="migration_checking" tools:machine_translated="true">Sjekker databasen …</string>
+    <string name="migration_copy_debug_log" tools:machine_translated="true">Kopier feilsøkingslogg</string>
+    <string name="migration_copy_warnings" tools:machine_translated="true">Kopier advarsler</string>
+    <string name="migration_debug_log_title" tools:machine_translated="true">Feilsøkingslogg</string>
+    <string name="migration_failed_help" tools:machine_translated="true">Hvis problemet vedvarer, vennligst rapporter dette på %1$s og legg ved feilsøkingsloggen som er kopiert ovenfor.</string>
+    <string name="migration_failed_message" tools:machine_translated="true">Det oppstod en feil under databasemigreringen: %s</string>
+    <string name="migration_failed_title" tools:machine_translated="true">Migreringen mislyktes</string>
+    <string name="migration_retry" tools:machine_translated="true">Prøv igjen</string>
+    <string name="migration_stats_hosts" tools:machine_translated="true">Antall overførte verter: %d</string>
+    <string name="migration_stats_known_hosts" tools:machine_translated="true">Antall kjente verter som er migrert: %d</string>
+    <string name="migration_stats_port_forwards" tools:machine_translated="true">Antall overførte portvideresendinger: %d</string>
+    <string name="migration_stats_pubkeys" tools:machine_translated="true">Antall SSH-nøkler som er overført: %d</string>
+    <string name="migration_title" tools:machine_translated="true">Databasen overføres</string>
+    <string name="migration_warning" tools:machine_translated="true">Vennligst ikke lukk appen under overføringen</string>
+    <string name="migration_warnings_title" tools:machine_translated="true">Varsler om databasemigrering</string>
+    <string name="mtrl_badge_numberless_content_description">Nytt varsel</string>
+    <string name="mtrl_button_collapsed_content_description">Skjult</string>
+    <string name="mtrl_button_expanded_content_description">Vises</string>
+    <string name="mtrl_button_overflow_icon_content_description">Overflytsmeny</string>
+    <string name="mtrl_button_snackbar_close_content_description">Lukk</string>
+    <string name="mtrl_checkbox_state_description_checked">Avmerket</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Delvis avmerket</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Ikke avmerket</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" tools:ignore="PluralsCandidate">Flere enn %1$d nye varsler</string>
+    <string name="mtrl_picker_a11y_next_month">Endre til neste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Endre til forrige måned</string>
+    <string name="mtrl_picker_announce_current_range_selection">Valg av startdato: %1$s – Valg av sluttdato: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Gjeldende valg: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ingen</string>
+    <string name="mtrl_picker_cancel">Avbryt</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Velg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Sluttdato %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldig format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Bruk: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldig område.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Gå til dette året %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naviger til år %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Neste måned</string>
+    <string name="mtrl_picker_out_of_range">Utenfor rekkevidde: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Kalendervisning</string>
+    <string name="mtrl_picker_pane_title_year_view">Årsvisning</string>
+    <string name="mtrl_picker_prev_month_tooltip">Forrige måned</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–Sluttdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Velg periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato – Sluttdato</string>
+    <string name="mtrl_picker_save">Lagre</string>
+    <string name="mtrl_picker_start_date_description">Startdato %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Sluttdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_today_description">I dag %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Bytt til kalenderinndatamodus</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Bytt til kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Bytt til kalendervisning</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Bytt til tekstinndatamodus</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Bytt til tekstmodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Bytt til årsvisning</string>
+    <string name="mtrl_timepicker_cancel">Avbryt</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigasjonsmeny"</string>
+    <string name="network_grace_period_expired" tools:machine_translated="true">Nettverket er ikke gjenopprettet, kobler fra …</string>
+    <string name="network_lost_grace_period" tools:machine_translated="true">Nettverkstilkoblingen er mistet, venter på å koble til igjen …</string>
+    <string name="network_restored_ip_changed" tools:machine_translated="true">Nettverket er tilkoblet igjen, men IP-adressen har endret seg. Kobler til på nytt …</string>
+    <string name="network_restored_no_previous_state" tools:machine_translated="true">Nettverket er gjenopprettet, bekrefter tilkoblingen …</string>
+    <string name="network_restored_same_ip" tools:machine_translated="true">Nettverket er gjenopprettet, tilkoblingen er opprettholdt.</string>
+    <string name="no">Nei</string>
+    <string name="no_logs_available" tools:machine_translated="true">Ingen logger tilgjengelig</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ikke valgt"</string>
+    <string msgid="6573031135582639649" name="not_set">"Ikke angitt"</string>
+    <string name="notification_permission_console_warning" tools:machine_translated="true">Tilkoblingen kan bli brutt når appen kjører i bakgrunnen.</string>
+    <string name="notification_permission_denied_message" tools:machine_translated="true">For å holde tilkoblingene dine aktive i bakgrunnen, må du aktivere varsler for ConnectBot i systeminnstillingene.</string>
+    <string name="notification_permission_denied_snackbar" tools:machine_translated="true">Tilkoblinger kan bli avbrutt uten tillatelse til å sende varsler.</string>
+    <string name="notification_permission_denied_title" tools:machine_translated="true">Tillatelse for varsler kreves</string>
+    <string name="notification_permission_message" tools:machine_translated="true">ConnectBot trenger tillatelse til å sende varsler for å opprettholde aktive tilkoblinger når du bytter mellom apper. Uten denne tillatelsen kan systemet avslutte tilkoblingene dine for å spare batteri.</string>
+    <string name="notification_permission_title" tools:machine_translated="true">Hold forbindelsen aktiv i bakgrunnen</string>
+    <string name="notification_text">%1$s ønsker din oppmerksomhet.</string>
+    <string name="only_alt" tools:machine_translated="true">Bare Alt</string>
+    <string name="open_settings" tools:machine_translated="true">Åpne innstillinger</string>
+    <string name="palette_editor_builtin_note" tools:machine_translated="true">De forhåndsdefinerte fargepalettene kan ikke redigeres. Dupliser dem for å tilpasse dem.</string>
+    <string name="password_toggle_content_description">Vis passordet</string>
+    <string name="paste_shortcut">Ctrl-Shift-V</string>
+    <string name="portforward_delete">Slett videresendte porter</string>
+    <string name="portforward_destination_format_error" tools:machine_translated="true">Formatet skal være vert:port (f.eks. localhost:80)</string>
+    <string name="portforward_destination_placeholder" tools:machine_translated="true">localhost:80</string>
+    <string name="portforward_disable" tools:machine_translated="true">Deaktiver</string>
+    <string name="portforward_disabled" tools:machine_translated="true">Portvideresending deaktivert</string>
+    <string name="portforward_dynamic">Dynamisk (SOCKS)</string>
+    <string name="portforward_edit">Rediger videresendte porter</string>
+    <string name="portforward_enable" tools:machine_translated="true">Aktiver</string>
+    <string name="portforward_enabled" tools:machine_translated="true">Portvideresending aktivert</string>
+    <string name="portforward_host_address" tools:machine_translated="true">Vertsadresse</string>
+    <string name="portforward_local">Lokal</string>
+    <string name="portforward_nickname_placeholder" tools:machine_translated="true">Intern webserver</string>
+    <string name="portforward_port_range_error" tools:machine_translated="true">Portnummeret må være mellom 1 og 65535.</string>
+    <string name="portforward_pos">Opprett portvideresending</string>
+    <string name="portforward_remote">Ekstern</string>
+    <string name="portforward_save" tools:machine_translated="true">Lagre</string>
+    <string name="portforward_source_addr_all" tools:machine_translated="true">Alle adresser</string>
+    <string name="portforward_source_addr_all_ipv4" tools:machine_translated="true">Alle IPv4-adresser</string>
+    <string name="portforward_source_addr_all_ipv6" tools:machine_translated="true">Alle IPv6-adresser</string>
+    <string name="portforward_source_addr_localhost" tools:machine_translated="true">Lokalt vertsnavn</string>
+    <string name="portforward_source_addr_localhost_ipv4" tools:machine_translated="true">Lokalmaskin (kun IPv4)</string>
+    <string name="portforward_source_addr_localhost_ipv6" tools:machine_translated="true">Lokalmaskin (kun IPv6)</string>
+    <string name="portforward_source_addr_specific" tools:machine_translated="true">Spesifikk adresse</string>
+    <string name="portforward_source_addr_specific_placeholder" tools:machine_translated="true">192.168.1.1</string>
+    <string name="portforward_type_label" tools:machine_translated="true">Type: %s</string>
+    <string name="pref_alwaysvisible_summary" tools:machine_translated="true">Vis spesialtastene hele tiden</string>
+    <string name="pref_alwaysvisible_title" tools:machine_translated="true">Spesielle taster vises alltid</string>
+    <string name="pref_auth_on_launch_summary" tools:machine_translated="true">Krev at brukeren bruker fingeravtrykk, ansiktsgjenkjenning eller enhets-PIN-kode når appen åpnes.</string>
+    <string name="pref_auth_on_launch_title" tools:machine_translated="true">Autentisering ved oppstart</string>
+    <string name="pref_backupkeys_summary" tools:machine_translated="true">Lag sikkerhetskopier av de private nøklene ved hjelp av Androids sikkerhetskopieringsfunksjon.</string>
+    <string name="pref_backupkeys_title" tools:machine_translated="true">Sikkerhetskopier offentlige nøkler</string>
+    <string name="pref_bell_category">Terminalklokke</string>
+    <string name="pref_bell_notification_summary">Vis varsling når en terminal i bakgrunnen gir et klokkevarsel.</string>
+    <string name="pref_bell_notification_title">Bakgrunnsvarsling</string>
+    <string name="pref_bell_summary" tools:machine_translated="true">Spill av lyd når terminalvarsel utløses</string>
+    <string name="pref_bell_title">Varselklokke</string>
+    <string name="pref_bell_vibrate_summary" tools:machine_translated="true">Vibrer ved terminalvarsel</string>
+    <string name="pref_bell_vibrate_title">Vibrere med bjelle</string>
+    <string name="pref_bell_volume_title">Klokkevolum</string>
+    <string name="pref_bumpyarrows_summary" tools:machine_translated="true">Gi haptisk tilbakemelding (vibrasjon) når pilknappene brukes; nyttig ved tregere tilkoblinger.</string>
+    <string name="pref_bumpyarrows_title">Vibrerende piler</string>
+    <string name="pref_camera_title">Snarvei til kamera</string>
+    <string name="pref_conn_persist_summary" tools:machine_translated="true">Hold øktene åpne selv når du bytter til andre apper.</string>
+    <string name="pref_conn_persist_title" tools:machine_translated="true">Oppretthold tilkoblingen i bakgrunnen</string>
+    <string name="pref_ctrlfkeys_summary" tools:machine_translated="true">På virtuelle tastaturer sender talltastene F1–F10 når Ctrl-tasten holdes inne.</string>
+    <string name="pref_ctrlfkeys_title" tools:machine_translated="true">Ctrl+talltast er funksjonstaster.</string>
+    <string name="pref_customfont_summary" tools:machine_translated="true">Legg til en skrifttype fra Google Fonts ved å bruke navnet.</string>
+    <string name="pref_customfont_title" tools:machine_translated="true">Legg til egendefinert skrifttype</string>
+    <string name="pref_customterminal_summary" tools:machine_translated="true">Legg til egendefinerte TERM-verdier for eksterne servere.</string>
+    <string name="pref_customterminal_title" tools:machine_translated="true">Egendefinerte terminaltyper</string>
+    <string name="pref_default_profile_none" tools:machine_translated="true">Ingen (bruk vertsinnstillingene)</string>
+    <string name="pref_default_profile_title" tools:machine_translated="true">Standardprofil</string>
+    <string name="pref_emulation_category">Terminalemulering</string>
+    <string name="pref_emulation_title">Etterligningsmodus</string>
+    <string name="pref_fontfamily_title" tools:machine_translated="true">Skrifttype</string>
+    <string name="pref_fullscreen_summary">Gjem statuslinje mens du er i konsoll</string>
+    <string name="pref_fullscreen_title">Full skjerm</string>
+    <string name="pref_keepalive_summary">Unngå at skjermen slås av når du jobber konsoll</string>
+    <string name="pref_keepalive_title">Hold skjerm våken</string>
+    <string name="pref_keyboard_category">Tastatur</string>
+    <string name="pref_keymode_title">Hurtigtaster for mapper</string>
+    <string name="pref_language_download" tools:machine_translated="true">Last ned språkpakke</string>
+    <string name="pref_language_download_failed" tools:machine_translated="true">Nedlastingen mislyktes. Trykk for å prøve igjen.</string>
+    <string name="pref_language_system_default" tools:machine_translated="true">Systemstandard</string>
+    <string name="pref_language_title" tools:machine_translated="true">Språk</string>
+    <string name="pref_localfont_summary" tools:machine_translated="true">Importer en skrifttypefil fra lagringsenheten (TTF, OTF)</string>
+    <string name="pref_localfont_title" tools:machine_translated="true">Importer lokal font</string>
+    <string name="pref_memkeys_summary">Husk opplåste nøkler helt til programmet avsluttes</string>
+    <string name="pref_memkeys_title">Lagre nøkler</string>
+    <string name="pref_pg_updn_gesture_summary" tools:machine_translated="true">Sveip over den venstre tredjedelen av skjermen for å sende kommandoene «side opp»/«side ned» til terminalen.</string>
+    <string name="pref_pg_updn_gesture_title" tools:machine_translated="true">Bevegelse for å bla opp/ned på siden</string>
+    <string name="pref_profiles_category" tools:machine_translated="true">Profiler</string>
+    <string name="pref_rotation_title">Rotasjonsretning</string>
+    <string name="pref_scrollback_summary">Mengde skjermtekst som skal beholdes i minnet for hvert konsollvindu</string>
+    <string name="pref_scrollback_title">Husk skjermtekst</string>
+    <string name="pref_security_category" tools:machine_translated="true">Sikkerhet</string>
+    <string name="pref_shiftfkeys_summary" tools:machine_translated="true">På fysiske tastaturer sender talltastene F1–F10 når «Shift»-tasten holdes inne.</string>
+    <string name="pref_shiftfkeys_title" tools:machine_translated="true">Shift+talltast er funksjonstaster.</string>
+    <string name="pref_stickymodifiers_title" tools:machine_translated="true">Faste modifikatorer</string>
+    <string name="pref_theme_dark" tools:machine_translated="true">Mørk</string>
+    <string name="pref_theme_light" tools:machine_translated="true">Lys</string>
+    <string name="pref_theme_system" tools:machine_translated="true">Systemstandard</string>
+    <string name="pref_theme_title" tools:machine_translated="true">Tema</string>
+    <string name="pref_titlebarhide_summary" tools:machine_translated="true">Trykk på konsollen for å vise tittellinjen og åpne menyen.</string>
+    <string name="pref_titlebarhide_title" tools:machine_translated="true">Skjul tittellinjen automatisk</string>
+    <string name="pref_ui_category">Brukergrensesnitt</string>
+    <string name="pref_volumefont_summary" tools:machine_translated="true">Skriftstørrelsen kan også endres i profilinnstillingene.</string>
+    <string name="pref_volumefont_title" tools:machine_translated="true">Volumtastene endrer skriftstørrelsen</string>
+    <string name="pref_wifilock_summary">Hindre Wi-Fi å koble fra når en økt er aktiv</string>
+    <string name="pref_wifilock_title">Hold Wi-Fi aktiv</string>
+    <string msgid="6685851473431805375" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>» er kopiert til utklippstavlen."</string>
+    <string name="profile_controlled_setting" tools:machine_translated="true">Styres av profil</string>
+    <string name="profile_create_button" tools:machine_translated="true">Opprett</string>
+    <string name="profile_create_cancel" tools:machine_translated="true">Avbryt</string>
+    <string name="profile_create_dialog_title" tools:machine_translated="true">Opprett profil</string>
+    <string name="profile_create_name_label" tools:machine_translated="true">Profilnavn</string>
+    <string name="profile_delete_button" tools:machine_translated="true">Slett</string>
+    <string name="profile_delete_cancel" tools:machine_translated="true">Avbryt</string>
+    <string name="profile_delete_dialog_message" tools:machine_translated="true">Er du sikker på at du vil slette «%s»?</string>
+    <string name="profile_delete_dialog_title" tools:machine_translated="true">Slett profil</string>
+    <string name="profile_editor_font_family_title" tools:machine_translated="true">Skrifttypefamilie</string>
+    <string name="profile_editor_font_size_title" tools:machine_translated="true">Skriftstørrelse: %d</string>
+    <string name="profile_editor_force_size_columns" tools:machine_translated="true">Kolonner</string>
+    <string name="profile_editor_force_size_enable" tools:machine_translated="true">Aktiver tvungen størrelse</string>
+    <string name="profile_editor_force_size_rows" tools:machine_translated="true">Rader</string>
+    <string name="profile_editor_force_size_summary" tools:machine_translated="true">Tving terminalen til å bruke en bestemt størrelse (antall kolonner x antall rader) i stedet for å automatisk tilpasse størrelsen til skjermen.</string>
+    <string name="profile_editor_force_size_title" tools:machine_translated="true">Størrelse på kraftfelt</string>
+    <string name="profile_editor_name_label" tools:machine_translated="true">Profilnavn</string>
+    <string name="profile_editor_save" tools:machine_translated="true">Lagre</string>
+    <string name="profile_editor_section_color_scheme" tools:machine_translated="true">Fargepalett</string>
+    <string name="profile_editor_section_font" tools:machine_translated="true">Skrifttype</string>
+    <string name="profile_editor_section_icon_color" tools:machine_translated="true">Ikonfarge</string>
+    <string name="profile_editor_section_terminal" tools:machine_translated="true">Terminal</string>
+    <string name="profile_editor_title_edit" tools:machine_translated="true">Rediger profil</string>
+    <string name="profile_editor_title_new" tools:machine_translated="true">Ny profil</string>
+    <string name="profile_icon_color_none" tools:machine_translated="true">Ingen (bruk standardfarge)</string>
+    <string name="profile_list_create_profile" tools:machine_translated="true">Opprett profil</string>
+    <string name="profile_list_delete" tools:machine_translated="true">Slett</string>
+    <string name="profile_list_duplicate" tools:machine_translated="true">Dupliser</string>
+    <string name="profile_list_empty_message" tools:machine_translated="true">Ingen profiler ennå. Trykk på + for å opprette en.</string>
+    <string name="profile_list_more_options" tools:machine_translated="true">Flere alternativer</string>
+    <string name="profile_list_title" tools:machine_translated="true">Profiler</string>
+    <string name="profile_summary_emulation" tools:machine_translated="true">Emulering: %s</string>
+    <string name="profile_summary_font" tools:machine_translated="true">Skrifttype: %1$s %2$d punkt</string>
+    <string name="prompt_again">(en gang til)</string>
+    <string name="prompt_allow_agent_to_use_key">Godta ekstern vert til\nå bruke nøkkel \'%1$s\'?</string>
+    <string name="prompt_bits">Bits:</string>
+    <string name="prompt_continue_connecting">Er du sikker på at\ndu vil koble til?</string>
+    <string name="prompt_destination">Mål:</string>
+    <string name="prompt_host_disconnected">Vert har koblet fra.\nLukk sesjon?</string>
+    <string name="prompt_nickname">Kallenavn:</string>
+    <string name="prompt_old_password">Tidligere passord:</string>
+    <string name="prompt_password">Passord:</string>
+    <string name="prompt_password_can_be_blank">NB: passord kan stå tomt</string>
+    <string name="prompt_pubkey_password">Passord for nøkkel \'%1$s\'</string>
+    <string name="prompt_source_port">Kildeport:</string>
+    <string name="prompt_type">Type:</string>
+    <string name="prompt_username" tools:machine_translated="true">Brukernavn:</string>
+    <string name="protocol_spinner_label" tools:machine_translated="true">Protokoll</string>
+    <string name="pubkey_biometric_description" tools:machine_translated="true">Beskytt denne nøkkelen med fingeravtrykket ditt</string>
+    <string name="pubkey_biometric_description_icon" tools:machine_translated="true">Beskyttet med fingeravtrykk</string>
+    <string name="pubkey_biometric_key_type_warning" tools:machine_translated="true">Fingeravtrykkbeskyttelse er kun tilgjengelig for RSA- og EC-nøkler.</string>
+    <string name="pubkey_biometric_not_available" tools:machine_translated="true">Fingeravtrykkgjenkjenning er ikke tilgjengelig.</string>
+    <string name="pubkey_biometric_not_enrolled" tools:machine_translated="true">Ingen fingeravtrykk er registrert. Konfigurer fingeravtrykk i enhetens innstillinger for å bruke denne funksjonen.</string>
+    <string name="pubkey_biometric_prompt_subtitle" tools:machine_translated="true">Berør fingeravtrykkssensoren for å låse opp «%1$s».</string>
+    <string name="pubkey_biometric_prompt_title" tools:machine_translated="true">Bekreft identiteten for å bruke nøkkelen.</string>
+    <string name="pubkey_biometric_protection" tools:machine_translated="true">Beskyttelse med fingeravtrykk</string>
+    <string name="pubkey_change_password">Endre passord</string>
+    <string name="pubkey_confirm_use">Godkjenn før bruk</string>
+    <string name="pubkey_copy_private">Kopier privat nøkkel</string>
+    <string name="pubkey_copy_private_encrypted" tools:machine_translated="true">Kopier privat nøkkel (kryptert)</string>
+    <string name="pubkey_copy_private_openssh" tools:machine_translated="true">Kopier privat nøkkel (OpenSSH)</string>
+    <string name="pubkey_copy_private_pem" tools:machine_translated="true">Kopier privat nøkkel (PEM)</string>
+    <string name="pubkey_copy_public">Kopier offentlig nøkkel</string>
+    <string name="pubkey_delete">Slett nøkkel</string>
+    <string name="pubkey_editor_encrypted_startup_warning" tools:machine_translated="true">Krypterte nøkler kan ikke låses opp ved oppstart</string>
+    <string name="pubkey_editor_key_type_label" tools:machine_translated="true">Nøkkeltype</string>
+    <string name="pubkey_editor_options_label" tools:machine_translated="true">Alternativer</string>
+    <string name="pubkey_encrypted_description" tools:machine_translated="true">Kryptert</string>
+    <string name="pubkey_export_confirm_passphrase" tools:machine_translated="true">Bekreft passordfrase</string>
+    <string name="pubkey_export_passphrase_message" tools:machine_translated="true">Skriv inn en passfrase for å kryptere nøkkelen som eksporteres.</string>
+    <string name="pubkey_export_passphrase_mismatch" tools:machine_translated="true">Passordfrasene stemmer ikke overens</string>
+    <string name="pubkey_export_private" tools:machine_translated="true">Eksporter privatnøkkel</string>
+    <string name="pubkey_export_private_encrypted" tools:machine_translated="true">Eksporter privat nøkkel (kryptert)</string>
+    <string name="pubkey_export_private_openssh" tools:machine_translated="true">Eksporter privat nøkkel (OpenSSH)</string>
+    <string name="pubkey_export_private_pem" tools:machine_translated="true">Eksporter privat nøkkel (PEM)</string>
+    <string name="pubkey_export_public" tools:machine_translated="true">Eksporter offentlig nøkkel</string>
+    <string name="pubkey_export_set_passphrase" tools:machine_translated="true">Angi passord for eksport</string>
+    <string name="pubkey_gather_entropy">Samler entropi</string>
+    <string name="pubkey_generate">Generer</string>
+    <string name="pubkey_generating">Genererer nøkkelpar…</string>
+    <string name="pubkey_import_button" tools:machine_translated="true">Importer</string>
+    <string name="pubkey_import_clipboard_key_label" tools:machine_translated="true">Innhold i privat nøkkel</string>
+    <string name="pubkey_import_confirm_password" tools:machine_translated="true">Bekreft passord</string>
+    <string name="pubkey_import_encrypt_key" tools:machine_translated="true">Krypter nøkkelen for lagring</string>
+    <string name="pubkey_import_encrypted_message" tools:machine_translated="true">Skriv inn passordet for å dekryptere nøkkelen \'%1$s\' (%2$s)</string>
+    <string name="pubkey_import_encrypted_title" tools:machine_translated="true">Importer kryptert nøkkel</string>
+    <string name="pubkey_import_existing" tools:machine_translated="true">Importer eksisterende offentlig nøkkel</string>
+    <string name="pubkey_import_from_clipboard" tools:machine_translated="true">Importer fra utklippstavlen</string>
+    <string name="pubkey_import_new_password" tools:machine_translated="true">Nytt passord</string>
+    <string name="pubkey_import_reuse_password" tools:machine_translated="true">Bruk samme passord for kryptering</string>
+    <string name="pubkey_list_empty" tools:machine_translated="true">Trykk på «Meny» for å opprette\neller importere nøkkelpar.</string>
+    <string name="pubkey_load_on_start">Last nøkkel ved start</string>
+    <string name="pubkey_nickname_exists" tools:machine_translated="true">En nøkkel med dette kallenavnet finnes allerede</string>
+    <string name="pubkey_not_encrypted_description" tools:machine_translated="true">Ikke kryptert</string>
+    <string name="pubkey_paste_from_clipboard" tools:machine_translated="true">Lim inn fra utklippstavlen</string>
+    <string name="pubkey_touch_hint">Beveg fingeren over boksen nedenfor for å sikre vilkårlighet ved generering av nøkkel.</string>
+    <string name="pubkey_touch_prompt">Berør denne boksen for å samle tilfeldige tall: %1$d%% ferdig</string>
+    <string name="pubkey_type_label" tools:machine_translated="true">Type: %s</string>
+    <string name="pubkey_unknown" tools:machine_translated="true">Ukjent nøkkel</string>
+    <string name="pubkey_unknown_format" tools:machine_translated="true">Ukjent format</string>
+    <string name="pubkey_unlock">Frigjør nøkkel</string>
+    <string name="pubkey_unlock_message" tools:machine_translated="true">Skriv inn passord for å låse opp nøkkelen \'%1$s\'.</string>
+    <string msgid="5941395253238309765" name="range_end">"Områdeslutt"</string>
+    <string msgid="7097486360902471446" name="range_start">"Områdestart"</string>
+    <string name="resize_disable_force_size" tools:machine_translated="true">Deaktiver fast størrelse</string>
+    <string name="resize_height_label" tools:machine_translated="true">Høyde (antall rader)</string>
+    <string name="resize_width_label" tools:machine_translated="true">Bredde (kolonner)</string>
+    <string msgid="5659570757430909869" name="screen_lock_prompt_message">"Skriv inn skjermlåsen for å fortsette"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søk"</string>
+    <string name="searchview_clear_text_content_description">Fjern teksten</string>
+    <string name="searchview_navigation_content_description">Tilbake</string>
+    <string name="section_ansi_colors" tools:machine_translated="true">ANSI-farger (0–15)</string>
+    <string name="section_color_preview" tools:machine_translated="true">Forhåndsvisning</string>
+    <string name="section_fg_bg_colors" tools:machine_translated="true">Forgrunn og bakgrunn</string>
+    <string msgid="6043586758067023" name="selected">"Valgt"</string>
+    <string name="service_desc">For SSH-tilkoblinger og offentlige nøkler</string>
+    <string name="shortcut_create" tools:machine_translated="true">Opprett snarvei</string>
+    <string name="shortcut_customize_title" tools:machine_translated="true">Tilpass snarvei</string>
+    <string name="shortcut_icon_color" tools:machine_translated="true">Ikonfarge</string>
+    <string name="shortcut_icon_style" tools:machine_translated="true">Ikonstil</string>
+    <string name="shortcut_use_host_color" tools:machine_translated="true">Bruk vertsmaskinens farge</string>
+    <string name="side_sheet_accessibility_pane_title">Sideark</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Varsel"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tom"</string>
+    <string msgid="5834637030682409883" name="state_off">"Av"</string>
+    <string msgid="1490883874751719580" name="state_on">"På"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Bryter"</string>
+    <string msgid="1672349317127674378" name="tab">"Fane"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> prosent."</string>
+    <string name="terminal_auth">Forsøker å autentisere</string>
+    <string name="terminal_auth_biometric" tools:machine_translated="true">Ber om biometrisk autentisering for nøkkelen «%1$s».</string>
+    <string name="terminal_auth_biometric_invalidated" tools:machine_translated="true">Den biometriske nøkkelen \'%1$s\' er ugyldiggjort. Dette kan skje når nye fingeravtrykk registreres på enheten. Vennligst generer en ny nøkkel.</string>
+    <string name="terminal_auth_fail">[Din vert støtter ikke autentiseringsmetodene \'password\' eller \'keyboard-interactive\'.]</string>
+    <string name="terminal_auth_ki">Forsøker \'keyboard-interactive\' autentisering</string>
+    <string name="terminal_auth_ki_fail">Autentiseringsmetoden \'keyboard-interactive\' mislyktes</string>
+    <string name="terminal_auth_pass">Forsøker \'passord\'-autentisering</string>
+    <string name="terminal_auth_pass_fail">Autentiseringsmetode \'passord\' feilet</string>
+    <string name="terminal_auth_pubkey_any">Forsøker \'publickey\'-autentisering med lagrede offentlige nøkler</string>
+    <string name="terminal_auth_pubkey_fail">Autentisering med \'publickey\' og nøkkel \'%1$s\' mislyktes</string>
+    <string name="terminal_auth_pubkey_invalid">Valgt offentlig nøkkel er ugyldig, forsøk å velge en annen nøkkel i vertsvinduet.</string>
+    <string name="terminal_auth_pubkey_specific">Forsøker \'publickey\'-autentisering med angitt offentlig nøkkel</string>
+    <string name="terminal_auth_saved_password" tools:machine_translated="true">Prøver å bruke lagret passord …</string>
+    <string name="terminal_auth_saved_password_fail" tools:machine_translated="true">Autentiseringen med lagret passord mislyktes</string>
+    <string name="terminal_connecting">Kobler til %1$s:%2$d via %3$s</string>
+    <string name="terminal_connecting_via_jump" tools:machine_translated="true">Kobler til via mellomserver: %s</string>
+    <string name="terminal_enable_portfoward">Aktiver portvideresending: %1$s</string>
+    <string name="terminal_failed">Verifisering av vertsnøkkelen feilet.</string>
+    <string name="terminal_jump_auth_failed" tools:machine_translated="true">Autentiseringen for mellomserveren mislyktes: %s</string>
+    <string name="terminal_jump_authenticated" tools:machine_translated="true">Autentisert til mellomserver: %s</string>
+    <string name="terminal_jump_connected" tools:machine_translated="true">Tilkoblet til mellomserver: %s</string>
+    <string name="terminal_jump_failed" tools:machine_translated="true">Kunne ikke koble til jump-serveren %1$s: %2$s</string>
+    <string name="terminal_jump_not_found" tools:machine_translated="true">Hoppvert ikke funnet i listen over lagrede verter</string>
+    <string name="terminal_jump_password" tools:machine_translated="true">Passord for hoppserver %s:</string>
+    <string name="terminal_kex_algorithm" tools:machine_translated="true">Algoritme for nøkkelutveksling: %s</string>
+    <string name="terminal_keyboard_text_input_button" tools:machine_translated="true">Tekstinndata</string>
+    <string name="terminal_no_route" tools:machine_translated="true">Prøver du å få tilgang til en enhet på det lokale nettverket? Gi tillatelse for tilgang til det lokale nettverket.</string>
+    <string name="terminal_no_session">Sesjonen vil ikke bli startet grunnet vertsinnstillinger.</string>
+    <string name="terminal_sucess">Verifiserte vert \'%1$s\' sin nøkkel: %2$s</string>
+    <string name="terminal_text_input_dialog_label" tools:machine_translated="true">Skriv inn teksten du vil sende til terminalen</string>
+    <string name="terminal_text_input_dialog_title" tools:machine_translated="true">Tekstinndata</string>
+    <string name="terminal_text_input_resize_handle" tools:machine_translated="true">Endre størrelse</string>
+    <string name="terminal_using_algorithm">Bruker algoritme: %1$s %2$s</string>
+    <string name="terminal_using_c2s_algorithm">Algoritme fra klient til tjener: %1$s %2$s</string>
+    <string name="terminal_using_s2c_algorithm">Algoritme fra tjener til klient: %1$s %2$s</string>
+    <string name="terms_and_conditions">Brukervilkår</string>
+    <string name="title_color_picker">Velg en farge</string>
+    <string name="title_colors">Farger</string>
+    <string name="title_contact" tools:machine_translated="true">Kontakt og støtte</string>
+    <string name="title_eula" tools:machine_translated="true">Lisens</string>
+    <string name="title_help">Hjelp</string>
+    <string name="title_palette_editor" tools:machine_translated="true">Rediger fargepalett</string>
+    <string name="title_port_forwards_list">Portvideresending</string>
+    <string name="title_pubkey_generate">Generer</string>
+    <string name="title_pubkey_list">Offentlige nøkler</string>
+    <string name="title_scheme_manager" tools:machine_translated="true">Administrer fargepaletter</string>
+    <string name="title_settings">Innstillinger</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"verktøytips"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"vis verktøytips"</string>
+    <string msgid="6524145989441579428" name="use_biometric_label">"Bruk biometri"</string>
+    <string msgid="5385448280139639016" name="use_biometric_or_screen_lock_label">"Bruk biometri eller skjermlåsen"</string>
+    <string msgid="6533512708069459542" name="use_face_label">"Bruk ansiktet"</string>
+    <string msgid="2116180187159450292" name="use_face_or_screen_lock_label">"Bruk ansiktet eller skjermlåsen"</string>
+    <string msgid="6961788485681412417" name="use_fingerprint_label">"Bruk fingeravtrykket"</string>
+    <string msgid="7577690399303139443" name="use_fingerprint_or_screen_lock_label">"Bruk fingeravtrykket eller skjermlåsen"</string>
+    <string msgid="5459869335976243512" name="use_screen_lock_label">"Bruk skjermlåsen"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"AV"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"PÅ"</string>
+    <string name="view_logs" tools:machine_translated="true">Vis logger</string>
+    <string name="yes">Ja</string>
+</resources>

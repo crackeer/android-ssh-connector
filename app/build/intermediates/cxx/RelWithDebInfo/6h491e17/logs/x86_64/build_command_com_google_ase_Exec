@@ -1,0 +1,4 @@
+/Users/liuhu/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/liuhu/github/connectbot/app/.cxx/RelWithDebInfo/6h491e17/x86_64 \
+  com_google_ase_Exec

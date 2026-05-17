@@ -1,0 +1,332 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 ConnectBot: simple, powerful, open-source SSH client for Android
+4 Copyright 2007 Kenny Root, Jeffrey Sharkey
+5
+6 Licensed under the Apache License, Version 2.0 (the "License");
+7 you may not use this file except in compliance with the License.
+8 You may obtain a copy of the License at
+9
+10     http://www.apache.org/licenses/LICENSE-2.0
+11
+12 Unless required by applicable law or agreed to in writing, software
+13 distributed under the License is distributed on an "AS IS" BASIS,
+14 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+15 See the License for the specific language governing permissions and
+16 limitations under the License.
+17-->
+18<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+19    package="org.connectbot"
+20    android:installLocation="auto"
+21    android:versionCode="11007020"
+22    android:versionName="git-v1.10.7-20-g7b5d5be4" >
+23
+24    <uses-sdk
+24-->INJECTED
+25        android:minSdkVersion="24"
+25-->INJECTED
+26        android:targetSdkVersion="36" />
+26-->INJECTED
+27
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:21:2-76
+28-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:21:19-73
+29    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+29-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:22:2-74
+29-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:22:19-71
+30    <uses-permission android:name="android.permission.INTERNET" />
+30-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:23:2-64
+30-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:23:19-61
+31    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
+31-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:24:2-75
+31-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:24:19-72
+32    <uses-permission android:name="android.permission.VIBRATE" />
+32-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:25:2-63
+32-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:25:19-60
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:26:2-65
+33-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:26:19-62
+34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+34-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:27:2-78
+34-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:27:19-75
+35    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+35-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:28:2-74
+35-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:28:19-71
+36    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING" />
+36-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:29:2-91
+36-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:29:19-88
+37
+38    <uses-feature
+38-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:31:2-86
+39        android:name="android.hardware.touchscreen"
+39-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:31:16-59
+40        android:required="false" />
+40-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:31:60-84
+41
+42    <supports-screens
+42-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:33:2-39:34
+43        android:anyDensity="true"
+43-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:34:3-28
+44        android:largeScreens="true"
+44-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:35:3-30
+45        android:normalScreens="true"
+45-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:36:3-31
+46        android:resizeable="true"
+46-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:37:3-28
+47        android:smallScreens="true"
+47-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:38:3-30
+48        android:xlargeScreens="true" />
+48-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:39:3-31
+49
+50    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- suppress DeprecatedClassUsageInspection -->
+50-->[androidx.biometric:biometric:1.4.0-alpha02] /Users/liuhu/.gradle/caches/9.5.1/transforms/569748e0629a6102c1a6410c09dbece9/transformed/biometric-1.4.0-alpha02/AndroidManifest.xml:22:5-72
+50-->[androidx.biometric:biometric:1.4.0-alpha02] /Users/liuhu/.gradle/caches/9.5.1/transforms/569748e0629a6102c1a6410c09dbece9/transformed/biometric-1.4.0-alpha02/AndroidManifest.xml:22:22-69
+51    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+51-->[androidx.biometric:biometric:1.4.0-alpha02] /Users/liuhu/.gradle/caches/9.5.1/transforms/569748e0629a6102c1a6410c09dbece9/transformed/biometric-1.4.0-alpha02/AndroidManifest.xml:25:5-74
+51-->[androidx.biometric:biometric:1.4.0-alpha02] /Users/liuhu/.gradle/caches/9.5.1/transforms/569748e0629a6102c1a6410c09dbece9/transformed/biometric-1.4.0-alpha02/AndroidManifest.xml:25:22-71
+52
+53    <permission
+53-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+54        android:name="org.connectbot.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+54-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+55        android:protectionLevel="signature" />
+55-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+56
+57    <uses-permission android:name="org.connectbot.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+57-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+57-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+58
+59    <application
+59-->INJECTED
+60        android:name="org.connectbot.ConnectBotApplication"
+60-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:42:3-40
+61        android:allowBackup="true"
+61-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:43:3-29
+62        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+62-->[androidx.core:core:1.18.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/54bbab7203055f58f343673a2c6a53ee/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
+63        android:backupAgent="org.connectbot.service.BackupAgent"
+63-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:44:3-45
+64        android:description="@string/app_desc"
+64-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:45:3-41
+65        android:enableOnBackInvokedCallback="true"
+65-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:46:3-45
+66        android:extractNativeLibs="false"
+66-->INJECTED
+67        android:icon="@mipmap/icon"
+67-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:47:3-30
+68        android:killAfterRestore="true"
+68-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:48:3-34
+69        android:label="@string/app_name"
+69-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:49:3-35
+70        android:localeConfig="@xml/_generated_res_locale_config"
+71        android:memtagMode="async"
+71-->INJECTED
+72        android:roundIcon="@mipmap/icon_round"
+72-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:51:3-41
+73        android:supportsRtl="true"
+73-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:52:3-29
+74        android:theme="@style/AppTheme" >
+74-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:53:3-34
+75        <activity
+75-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:55:3-90:14
+76            android:name="org.connectbot.ui.MainActivity"
+76-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:56:4-35
+77            android:exported="true"
+77-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:57:4-27
+78            android:launchMode="singleTop"
+78-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:58:4-34
+79            android:resizeableActivity="true"
+79-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:59:4-37
+80            android:windowSoftInputMode="adjustResize" >
+80-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:60:4-46
+81            <intent-filter>
+81-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:61:4-64:20
+82                <action android:name="android.intent.action.MAIN" />
+82-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:62:5-56
+82-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:62:13-54
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:63:5-64
+84-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:63:15-62
+85            </intent-filter>
+86            <intent-filter>
+86-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:65:4-68:20
+87                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+87-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:66:5-67
+87-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:66:13-65
+88
+89                <category android:name="android.intent.category.DEFAULT" />
+89-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:5-63
+89-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:15-61
+90            </intent-filter>
+91            <intent-filter>
+91-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:69:4-76:20
+92                <action android:name="android.intent.action.PICK" />
+92-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:70:5-56
+92-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:70:13-54
+93
+94                <category android:name="android.intent.category.DEFAULT" />
+94-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:5-63
+94-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:15-61
+95
+96                <data android:scheme="ssh" />
+96-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+96-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+97                <data android:scheme="telnet" />
+97-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+97-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+98                <data android:scheme="local" />
+98-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+98-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+99            </intent-filter>
+100            <intent-filter>
+100-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:77:4-89:20
+101                <action android:name="android.intent.action.VIEW" />
+101-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:78:5-56
+101-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:78:13-54
+102
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:5-63
+103-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:67:15-61
+104                <category android:name="android.intent.category.BROWSABLE" />
+104-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:81:5-65
+104-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:81:15-63
+105
+106                <data android:scheme="ssh" />
+106-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+106-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+107                <data android:scheme="telnet" />
+107-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+107-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+108                <data android:scheme="local" />
+108-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:5-33
+108-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:73:11-31
+109                <!-- format:  ssh://user@host:port/#nickname -->
+110                <!-- format:  telnet://host:port/#nickname -->
+111                <!-- format:  local:// -->
+112            </intent-filter>
+113        </activity>
+114
+115        <service
+115-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:92:3-96:53
+116            android:name="org.connectbot.service.TerminalManager"
+116-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:93:4-57
+117            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout"
+117-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:94:4-78
+118            android:description="@string/service_desc"
+118-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:95:4-46
+119            android:foregroundServiceType="remoteMessaging" />
+119-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:96:4-51
+120        <service
+120-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:98:3-105:13
+121            android:name="androidx.appcompat.app.AppLocalesMetadataHolderService"
+121-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:99:4-73
+122            android:enabled="true"
+122-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:100:4-26
+123            android:exported="false" >
+123-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:101:4-28
+124            <meta-data
+124-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:102:4-104:28
+125                android:name="autoStoreLocales"
+125-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:103:5-36
+126                android:value="true" />
+126-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:104:5-25
+127        </service>
+128
+129        <meta-data
+129-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:107:3-109:28
+130            android:name="com.google.android.backup.api_key"
+130-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:108:4-52
+131            android:value="unused" />
+131-->/Users/liuhu/github/connectbot/app/src/main/AndroidManifest.xml:109:4-26
+132
+133        <provider
+133-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+134            android:name="androidx.startup.InitializationProvider"
+134-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+135            android:authorities="org.connectbot.androidx-startup"
+135-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+136            android:exported="false" >
+136-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+137            <meta-data
+137-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+138                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+138-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+139                android:value="androidx.startup" />
+139-->[androidx.emoji2:emoji2:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/8a061c9db913b0f34e0c069efbcf9f08/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+140            <meta-data
+140-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/f538d6fb0ce3dda437465bf8db53580c/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:29:13-31:52
+141                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+141-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/f538d6fb0ce3dda437465bf8db53580c/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:30:17-78
+142                android:value="androidx.startup" />
+142-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/f538d6fb0ce3dda437465bf8db53580c/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:31:17-49
+143            <meta-data
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+144                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+145                android:value="androidx.startup" />
+145-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+146        </provider>
+147
+148        <uses-library
+148-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+149            android:name="androidx.window.extensions"
+149-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+150            android:required="false" />
+150-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+151        <uses-library
+151-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+152            android:name="androidx.window.sidecar"
+152-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+153            android:required="false" />
+153-->[androidx.window:window:1.5.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/6844267f9711d856c91462961511c02b/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+154
+155        <service
+155-->[androidx.room:room-runtime-android:2.8.4] /Users/liuhu/.gradle/caches/9.5.1/transforms/0bf6cf8f2282684adcdaf715b75889bb/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
+156            android:name="androidx.room.MultiInstanceInvalidationService"
+156-->[androidx.room:room-runtime-android:2.8.4] /Users/liuhu/.gradle/caches/9.5.1/transforms/0bf6cf8f2282684adcdaf715b75889bb/transformed/room-runtime/AndroidManifest.xml:25:13-74
+157            android:directBootAware="true"
+157-->[androidx.room:room-runtime-android:2.8.4] /Users/liuhu/.gradle/caches/9.5.1/transforms/0bf6cf8f2282684adcdaf715b75889bb/transformed/room-runtime/AndroidManifest.xml:26:13-43
+158            android:exported="false" />
+158-->[androidx.room:room-runtime-android:2.8.4] /Users/liuhu/.gradle/caches/9.5.1/transforms/0bf6cf8f2282684adcdaf715b75889bb/transformed/room-runtime/AndroidManifest.xml:27:13-37
+159
+160        <receiver
+160-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+161            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+161-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+162            android:directBootAware="false"
+162-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+163            android:enabled="true"
+163-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+164            android:exported="true"
+164-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+165            android:permission="android.permission.DUMP" >
+165-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+166            <intent-filter>
+166-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+167                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+167-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+167-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+168            </intent-filter>
+169            <intent-filter>
+169-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+170                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+170-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+170-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+171            </intent-filter>
+172            <intent-filter>
+172-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+173                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+173-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+173-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+174            </intent-filter>
+175            <intent-filter>
+175-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+176                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+176-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+176-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/liuhu/.gradle/caches/9.5.1/transforms/be440c5e4748a1b94267924bebde5858/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+177            </intent-filter>
+178        </receiver>
+179    </application>
+180
+181</manifest>
