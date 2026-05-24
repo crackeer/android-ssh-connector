@@ -22,9 +22,12 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import org.connectbot.service.TerminalBridge
@@ -68,7 +71,10 @@ data class ProcessInfo(
 
 sealed class SystemInfoUiState {
     object Loading : SystemInfoUiState()
-    data class Success(val systemInfo: SystemInfo) : SystemInfoUiState()
+    data class Success(
+        val systemInfo: SystemInfo,
+        val isRefreshingProcesses: Boolean = false,
+    ) : SystemInfoUiState()
     data class Error(val message: String) : SystemInfoUiState()
 }
 
@@ -82,8 +88,16 @@ class SystemInfoViewModel @Inject constructor(
     private val _uiState = MutableStateFlow<SystemInfoUiState>(SystemInfoUiState.Loading)
     val uiState: StateFlow<SystemInfoUiState> = _uiState.asStateFlow()
 
+    private val _autoRefreshEnabled = MutableStateFlow(false)
+    val autoRefreshEnabled: StateFlow<Boolean> = _autoRefreshEnabled.asStateFlow()
+
     private var terminalManager: TerminalManager? = null
     private var sshConnection: SSH? = null
+    private var autoRefreshJob: Job? = null
+
+    companion object {
+        private const val AUTO_REFRESH_INTERVAL_MS = 5000L // 5 seconds
+    }
 
     fun setTerminalManager(manager: TerminalManager) {
         if (terminalManager == manager) return
@@ -93,6 +107,77 @@ class SystemInfoViewModel @Inject constructor(
 
     fun refresh() {
         loadSystemInfo()
+    }
+
+    fun toggleAutoRefresh(enabled: Boolean) {
+        _autoRefreshEnabled.value = enabled
+        if (enabled) {
+            startAutoRefresh()
+        } else {
+            stopAutoRefresh()
+        }
+    }
+
+    private fun startAutoRefresh() {
+        stopAutoRefresh() // Cancel any existing job
+        autoRefreshJob = viewModelScope.launch {
+            while (_autoRefreshEnabled.value) {
+                delay(AUTO_REFRESH_INTERVAL_MS)
+                if (_autoRefreshEnabled.value) {
+                    refreshProcessesOnly()
+                }
+            }
+        }
+    }
+
+    private fun stopAutoRefresh() {
+        autoRefreshJob?.cancel()
+        autoRefreshJob = null
+    }
+
+    private fun refreshProcessesOnly() {
+        val currentState = _uiState.value
+        if (currentState !is SystemInfoUiState.Success) return
+        
+        val ssh = sshConnection ?: return
+        
+        viewModelScope.launch {
+            // Set refreshing flag
+            _uiState.update { 
+                if (it is SystemInfoUiState.Success) {
+                    it.copy(isRefreshingProcesses = true)
+                } else {
+                    it
+                }
+            }
+            
+            try {
+                val newProcesses = withContext(Dispatchers.IO) {
+                    collectTopProcesses(ssh)
+                }
+                
+                _uiState.update { state ->
+                    if (state is SystemInfoUiState.Success) {
+                        state.copy(
+                            systemInfo = state.systemInfo.copy(topProcesses = newProcesses),
+                            isRefreshingProcesses = false,
+                        )
+                    } else {
+                        state
+                    }
+                }
+            } catch (e: Exception) {
+                Timber.e(e, "Failed to refresh processes")
+                // Clear refreshing flag on error
+                _uiState.update { 
+                    if (it is SystemInfoUiState.Success) {
+                        it.copy(isRefreshingProcesses = false)
+                    } else {
+                        it
+                    }
+                }
+            }
+        }
     }
 
     private fun loadSystemInfo() {
@@ -254,6 +339,9 @@ class SystemInfoViewModel @Inject constructor(
 
     override fun onCleared() {
         super.onCleared()
+        // Stop auto-refresh
+        stopAutoRefresh()
+        
         // Close the direct SSH connection on IO thread to avoid NetworkOnMainThreadException
         sshConnection?.let { ssh ->
             Timber.d("Closing direct SSH connection for system info: $bridgeName")

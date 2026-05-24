@@ -649,6 +649,10 @@
 	<string name="list_host_duplicate">"Duplicate host"</string>
 	<!-- Context menu action to forget stored host keys for the selected host -->
 	<string name="list_host_forget_keys">"Forget host keys"</string>
+	<!-- Context menu action to open file browser for the selected host -->
+	<string name="list_host_file_browser">"File Browser"</string>
+	<!-- Context menu action to view system information for the selected host -->
+	<string name="list_host_system_info">"System Info"</string>
 
 	<!-- Default screen rotation preference selection -->
 	<string name="list_rotation_default">"Default"</string>
@@ -1453,6 +1457,9 @@
 	<!-- Terminal toolbar button that opens the SFTP file browser -->
 	<string name="console_menu_file_browser">Files</string>
 
+	<!-- Terminal toolbar button that opens the system information screen -->
+	<string name="console_menu_system_info">System Info</string>
+
 	<!-- Title of the SFTP file browser screen -->
 	<string name="file_browser_title">File Browser</string>
 	<!-- Tooltip/description for the navigate-up button in the file browser -->
@@ -1509,4 +1516,59 @@
 	<string name="console_command_confirm_message">Send \"%1$s\" to the terminal?</string>
 	<!-- Button to confirm sending the command -->
 	<string name="console_command_confirm_send">Send</string>
+
+	<!-- Title of the system information screen -->
+	<string name="system_info_title">System Information</string>
+	<!-- Button to refresh system information -->
+	<string name="system_info_refresh">Refresh</string>
+	<!-- Error message shown when loading system info fails; %1$s is the error message -->
+	<string name="system_info_error">Failed to load system information: %1$s</string>
+	<!-- Section title for system overview information -->
+	<string name="system_info_overview">System Overview</string>
+	<!-- Label for hostname field -->
+	<string name="system_info_hostname">Hostname</string>
+	<!-- Label for operating system field -->
+	<string name="system_info_os">Operating System</string>
+	<!-- Label for kernel version field -->
+	<string name="system_info_kernel">Kernel Version</string>
+	<!-- Label for system uptime field -->
+	<string name="system_info_uptime">Uptime</string>
+	<!-- Section title for CPU information -->
+	<string name="system_info_cpu">CPU</string>
+	<!-- Label for CPU model field -->
+	<string name="system_info_cpu_model">Model</string>
+	<!-- Label for CPU cores field -->
+	<string name="system_info_cpu_cores">Cores</string>
+	<!-- Label for load average field -->
+	<string name="system_info_load_average">Load Average</string>
+	<!-- Section title for memory information -->
+	<string name="system_info_memory">Memory</string>
+	<!-- Label for total memory field -->
+	<string name="system_info_memory_total">Total</string>
+	<!-- Label for used memory field -->
+	<string name="system_info_memory_used">Used</string>
+	<!-- Label for free memory field -->
+	<string name="system_info_memory_free">Free</string>
+	<!-- Section title for disk information -->
+	<string name="system_info_disk">Disk</string>
+	<!-- Label for filesystem field -->
+	<string name="system_info_disk_filesystem">Filesystem</string>
+	<!-- Label for disk size field -->
+	<string name="system_info_disk_size">Size</string>
+	<!-- Label for disk used field -->
+	<string name="system_info_disk_used">Used</string>
+	<!-- Label for disk available field -->
+	<string name="system_info_disk_available">Available</string>
+	<!-- Section title for top processes information -->
+	<string name="system_info_top_processes">Top 10 Processes</string>
+	<!-- Label for auto-refresh toggle for top processes -->
+	<string name="system_info_auto_refresh">Auto-refresh</string>
+	<!-- Label for process ID field -->
+	<string name="system_info_process_pid">PID</string>
+	<!-- Label for process user field -->
+	<string name="system_info_process_user">User</string>
+	<!-- Label for process CPU usage field -->
+	<string name="system_info_process_cpu">CPU</string>
+	<!-- Label for process memory usage field -->
+	<string name="system_info_process_mem">Memory</string>
 </resources>
