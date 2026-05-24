@@ -287,9 +287,10 @@ class SystemInfoViewModel @Inject constructor(
 
     private suspend fun collectTopProcesses(transport: SSH): List<ProcessInfo> {
         // Use ps command to get top processes by CPU and memory
+        // Get 12 lines (header + 11 processes) to ensure we have 10 after filtering out ps/awk
         // Format: PID USER %CPU %MEM COMMAND
         val psOutput = transport.execCommandWithOutput(
-            "ps aux --sort=-%cpu,-%mem | head -11 | tail -10 | awk '{print $2\"|\"$1\"|\"$3\"|\"$4\"|\"$11}'"
+            "ps aux --sort=-%cpu,-%mem | head -12 | tail -11 | awk '{print $2\"|\"$1\"|\"$3\"|\"$4\"|\"$11}'"
         )?.trim()
         
         if (psOutput.isNullOrBlank()) {
@@ -299,17 +300,22 @@ class SystemInfoViewModel @Inject constructor(
         return psOutput.lines().mapNotNull { line ->
             val parts = line.split("|")
             if (parts.size >= 5) {
+                val command = parts[4]
+                // Filter out ps and awk processes used for collecting the data
+                if (command.contains("ps") || command.contains("awk")) {
+                    return@mapNotNull null
+                }
                 ProcessInfo(
                     pid = parts[0],
                     user = parts[1],
                     cpuPercent = parts[2] + "%",
                     memPercent = parts[3] + "%",
-                    command = parts[4],
+                    command = command,
                 )
             } else {
                 null
             }
-        }
+        }.take(10) // Ensure we return at most 10 processes
     }
 
     private fun parseDiskInfo(output: String): List<DiskInfo> {
