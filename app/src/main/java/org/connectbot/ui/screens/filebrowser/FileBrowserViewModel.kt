@@ -34,6 +34,7 @@ import kotlinx.coroutines.launch
 import org.connectbot.di.CoroutineDispatchers
 import org.connectbot.service.RemoteFile
 import org.connectbot.service.SftpManager
+import org.connectbot.service.TerminalBridge
 import org.connectbot.service.TerminalManager
 import org.connectbot.transport.SSH
 import timber.log.Timber
@@ -75,6 +76,7 @@ class FileBrowserViewModel @Inject constructor(
 
     private var sftpManager: SftpManager? = null
     private var terminalManager: TerminalManager? = null
+    private var sshConnection: SSH? = null
 
     /** Active transfer jobs keyed by remote path, used for cancellation. */
     private val transferJobs = mutableMapOf<String, kotlinx.coroutines.Job>()
@@ -129,58 +131,84 @@ class FileBrowserViewModel @Inject constructor(
 
     private fun initSftp(manager: TerminalManager) {
         viewModelScope.launch(dispatchers.io) {
-            val bridge = manager.bridgesFlow.value.find { it.host.nickname == bridgeName }
-            if (bridge == null) {
-                _uiState.update { it.copy(isLoading = false, error = "Connection not found: $bridgeName") }
-                return@launch
-            }
-            val ssh = bridge.transport as? SSH
-            if (ssh == null) {
-                _uiState.update { it.copy(isLoading = false, error = "SFTP requires an SSH connection") }
-                return@launch
-            }
-            val client = try {
-                ssh.openSftpClient()
-            } catch (e: Exception) {
-                Timber.e(e, "Failed to open SFTP client")
-                _uiState.update { it.copy(isLoading = false, error = "Could not open SFTP session: ${e.message}") }
-                return@launch
-            }
-            if (client == null) {
-                _uiState.update { it.copy(isLoading = false, error = "Could not open SFTP session") }
-                return@launch
-            }
-            val mgr = SftpManager(
-                client = client,
-                execCommand = { cmd -> ssh.execCommand(cmd) },
-            )
-            sftpManager = mgr
             try {
-                // Use the last visited directory if available, otherwise use the home directory
-                val savedDir = loadLastDirectory()
-                val startDir = if (!savedDir.isNullOrBlank()) {
-                    // Verify the saved directory still exists; fall back to home if not
-                    try {
-                        mgr.listDirectory(savedDir)
-                        savedDir
-                    } catch (e: Exception) {
-                        Timber.w(e, "Saved directory $savedDir no longer accessible, falling back to home")
+                // Find the host by nickname
+                val hosts = manager.hostRepository.getHosts()
+                val host = hosts.find { it.nickname == bridgeName }
+                if (host == null) {
+                    _uiState.update { it.copy(isLoading = false, error = "Host not found: $bridgeName") }
+                    return@launch
+                }
+                
+                // Create a direct SSH connection (not managed by TerminalManager)
+                // Pass manager for authentication but no bridge to avoid tracking
+                // Set wantSession to false since we only need SFTP, not an interactive terminal
+                Timber.d("Creating direct SSH connection for file browser: $bridgeName")
+                val hostForSftp = host.copy(wantSession = false)
+                val ssh = SSH(hostForSftp, null, manager)
+                sshConnection = ssh
+                
+                // Connect
+                ssh.connect()
+                
+                // Wait for connection to establish
+                var attempts = 0
+                while (attempts < 50 && !ssh.isConnected() && !ssh.isSessionOpen()) {
+                    kotlinx.coroutines.delay(100)
+                    attempts++
+                }
+                
+                if (!ssh.isConnected()) {
+                    _uiState.update { it.copy(isLoading = false, error = "Connection failed to $bridgeName") }
+                    return@launch
+                }
+            
+                val client = try {
+                    ssh.openSftpClient()
+                } catch (e: Exception) {
+                    Timber.e(e, "Failed to open SFTP client")
+                    _uiState.update { it.copy(isLoading = false, error = "Could not open SFTP session: ${e.message}") }
+                    return@launch
+                }
+                if (client == null) {
+                    _uiState.update { it.copy(isLoading = false, error = "Could not open SFTP session") }
+                    return@launch
+                }
+                val mgr = SftpManager(
+                    client = client,
+                    execCommand = { cmd -> ssh.execCommand(cmd) },
+                )
+                sftpManager = mgr
+                try {
+                    // Use the last visited directory if available, otherwise use the home directory
+                    val savedDir = loadLastDirectory()
+                    val startDir = if (!savedDir.isNullOrBlank()) {
+                        // Verify the saved directory still exists; fall back to home if not
+                        try {
+                            mgr.listDirectory(savedDir)
+                            savedDir
+                        } catch (e: Exception) {
+                            Timber.w(e, "Saved directory $savedDir no longer accessible, falling back to home")
+                            mgr.getWorkingDirectory()
+                        }
+                    } else {
                         mgr.getWorkingDirectory()
                     }
-                } else {
-                    mgr.getWorkingDirectory()
+                    _uiState.update { it.copy(hostNickname = host.nickname) }
+                    loadDirectory(startDir)
+                } catch (e: Exception) {
+                    Timber.e(e, "SFTP init failed")
+                    _uiState.update {
+                        it.copy(
+                            isLoading = false,
+                            hostNickname = host.nickname,
+                            error = "Failed to initialize SFTP: ${e.message}",
+                        )
+                    }
                 }
-                _uiState.update { it.copy(hostNickname = bridge.host.nickname) }
-                loadDirectory(startDir)
             } catch (e: Exception) {
-                Timber.e(e, "SFTP init failed")
-                _uiState.update {
-                    it.copy(
-                        isLoading = false,
-                        hostNickname = bridge.host.nickname,
-                        error = "SFTP error: ${e.message}",
-                    )
-                }
+                Timber.e(e, "Failed to initialize file browser")
+                _uiState.update { it.copy(isLoading = false, error = "Failed to connect: ${e.message}") }
             }
         }
     }
@@ -342,8 +370,21 @@ class FileBrowserViewModel @Inject constructor(
         // Cancel any in-flight transfers
         transferJobs.values.forEach { it.cancel() }
         transferJobs.clear()
-        // Do NOT call sftpManager.close() here — see comment above.
+        
+        // Close the direct SSH connection on IO thread to avoid NetworkOnMainThreadException
+        sshConnection?.let { ssh ->
+            Timber.d("Closing direct SSH connection for file browser: $bridgeName")
+            viewModelScope.launch(dispatchers.io) {
+                try {
+                    ssh.close()
+                } catch (e: Exception) {
+                    Timber.e(e, "Error closing SSH connection")
+                }
+            }
+        }
+        
         sftpManager = null
+        sshConnection = null
     }
 
     companion object {
